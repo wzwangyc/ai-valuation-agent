@@ -1,0 +1,1167 @@
+{
+  "timeseries": {
+    "result": [
+      {
+        "meta": {
+          "symbol": [
+            "T"
+          ],
+          "type": [
+            "annualCapitalExpenditure"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualCapitalExpenditure": [
+          {
+            "dataId": 26005,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -19626000000.0,
+              "fmt": "-19.63B"
+            }
+          },
+          {
+            "dataId": 26005,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -17853000000.0,
+              "fmt": "-17.85B"
+            }
+          },
+          {
+            "dataId": 26005,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -20263000000.0,
+              "fmt": "-20.26B"
+            }
+          },
+          {
+            "dataId": 26005,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -20842000000.0,
+              "fmt": "-20.84B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "T"
+          ],
+          "type": [
+            "annualOperatingIncome"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualOperatingIncome": [
+          {
+            "dataId": 20109,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 22911000000.0,
+              "fmt": "22.91B"
+            },
+            "businessSegmentData": [
+              {
+                "dataValue": -28107000000.0,
+                "segmentType": "Business",
+                "segmentName": "Certain significant items",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 26736000000.0,
+                "segmentType": "Business",
+                "segmentName": "Communications",
+                "isPrimarySegment": 1
+              },
+              {
+                "dataValue": -2890000000.0,
+                "segmentType": "Business",
+                "segmentName": "Corporate",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -2570000000.0,
+                "segmentType": "Business",
+                "segmentName": "Corporate and Other",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -326000000.0,
+                "segmentType": "Business",
+                "segmentName": "Latin America",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -2691000000.0,
+                "segmentType": "Business",
+                "segmentName": "Reclassification of prior service credits",
+                "isPrimarySegment": 0
+              }
+            ]
+          },
+          {
+            "dataId": 20109,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 24654000000.0,
+              "fmt": "24.65B"
+            },
+            "businessSegmentData": [
+              {
+                "dataValue": -1238000000.0,
+                "segmentType": "Business",
+                "segmentName": "Certain significant items",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 27801000000.0,
+                "segmentType": "Business",
+                "segmentName": "Communications",
+                "isPrimarySegment": 1
+              },
+              {
+                "dataValue": -2961000000.0,
+                "segmentType": "Business",
+                "segmentName": "Corporate",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -141000000.0,
+                "segmentType": "Business",
+                "segmentName": "Latin America",
+                "isPrimarySegment": 0
+              }
+            ]
+          },
+          {
+            "dataId": 20109,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 24124000000.0,
+              "fmt": "24.12B"
+            },
+            "businessSegmentData": [
+              {
+                "dataValue": -5184000000.0,
+                "segmentType": "Business",
+                "segmentName": "Certain significant items",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 27095000000.0,
+                "segmentType": "Business",
+                "segmentName": "Communications",
+                "isPrimarySegment": 1
+              },
+              {
+                "dataValue": -2902000000.0,
+                "segmentType": "Business",
+                "segmentName": "Corporate",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 40000000.0,
+                "segmentType": "Business",
+                "segmentName": "Latin America",
+                "isPrimarySegment": 0
+              }
+            ]
+          },
+          {
+            "dataId": 20109,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 25000000000.0,
+              "fmt": "25.00B"
+            },
+            "businessSegmentData": [
+              {
+                "dataValue": -1351000000.0,
+                "segmentType": "Business",
+                "segmentName": "Certain significant items",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 27927000000.0,
+                "segmentType": "Business",
+                "segmentName": "Communications",
+                "isPrimarySegment": 1
+              },
+              {
+                "dataValue": -2559000000.0,
+                "segmentType": "Business",
+                "segmentName": "Corporate",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 145000000.0,
+                "segmentType": "Business",
+                "segmentName": "Latin America",
+                "isPrimarySegment": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "T"
+          ],
+          "type": [
+            "annualTotalDebt"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualTotalDebt": [
+          {
+            "dataId": 23386,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 154679000000.0,
+              "fmt": "154.68B"
+            }
+          },
+          {
+            "dataId": 23386,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 154899000000.0,
+              "fmt": "154.90B"
+            }
+          },
+          {
+            "dataId": 23386,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 140923000000.0,
+              "fmt": "140.92B"
+            }
+          },
+          {
+            "dataId": 23386,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 155043000000.0,
+              "fmt": "155.04B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "T"
+          ],
+          "type": [
+            "annualPretaxIncome"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualPretaxIncome": [
+          {
+            "dataId": 20136,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -3094000000.0,
+              "fmt": "-3.09B"
+            }
+          },
+          {
+            "dataId": 20136,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 19848000000.0,
+              "fmt": "19.85B"
+            }
+          },
+          {
+            "dataId": 20136,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 16698000000.0,
+              "fmt": "16.70B"
+            }
+          },
+          {
+            "dataId": 20136,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 27007000000.0,
+              "fmt": "27.01B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "T"
+          ],
+          "type": [
+            "annualCurrentLiabilities"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualCurrentLiabilities": [
+          {
+            "dataId": 23047,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 56173000000.0,
+              "fmt": "56.17B"
+            }
+          },
+          {
+            "dataId": 23047,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 51127000000.0,
+              "fmt": "51.13B"
+            }
+          },
+          {
+            "dataId": 23047,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 46872000000.0,
+              "fmt": "46.87B"
+            }
+          },
+          {
+            "dataId": 23047,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 53780000000.0,
+              "fmt": "53.78B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "T"
+          ],
+          "type": [
+            "annualInterestExpense"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualInterestExpense": [
+          {
+            "dataId": 20057,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 6108000000.0,
+              "fmt": "6.11B"
+            }
+          },
+          {
+            "dataId": 20057,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 6704000000.0,
+              "fmt": "6.70B"
+            }
+          },
+          {
+            "dataId": 20057,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 6759000000.0,
+              "fmt": "6.76B"
+            }
+          },
+          {
+            "dataId": 20057,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 6804000000.0,
+              "fmt": "6.80B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "T"
+          ],
+          "type": [
+            "annualAccountsPayable"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualAccountsPayable": [
+          {
+            "dataId": 23000,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 31101000000.0,
+              "fmt": "31.10B"
+            }
+          },
+          {
+            "dataId": 23000,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 27309000000.0,
+              "fmt": "27.31B"
+            }
+          },
+          {
+            "dataId": 23000,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 27433000000.0,
+              "fmt": "27.43B"
+            }
+          },
+          {
+            "dataId": 23000,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 29910000000.0,
+              "fmt": "29.91B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "T"
+          ],
+          "type": [
+            "annualTaxProvision"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualTaxProvision": [
+          {
+            "dataId": 20145,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3780000000.0,
+              "fmt": "3.78B"
+            }
+          },
+          {
+            "dataId": 20145,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4225000000.0,
+              "fmt": "4.22B"
+            }
+          },
+          {
+            "dataId": 20145,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4445000000.0,
+              "fmt": "4.45B"
+            }
+          },
+          {
+            "dataId": 20145,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3621000000.0,
+              "fmt": "3.62B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "T"
+          ],
+          "type": [
+            "annualDepreciationAndAmortization"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualDepreciationAndAmortization": [
+          {
+            "dataId": 26060,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 18021000000.0,
+              "fmt": "18.02B"
+            }
+          },
+          {
+            "dataId": 26060,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 18777000000.0,
+              "fmt": "18.78B"
+            }
+          },
+          {
+            "dataId": 26060,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 20580000000.0,
+              "fmt": "20.58B"
+            }
+          },
+          {
+            "dataId": 26060,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 20886000000.0,
+              "fmt": "20.89B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "T"
+          ],
+          "type": [
+            "annualOperatingCashFlow"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualOperatingCashFlow": [
+          {
+            "dataId": 26014,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 32023000000.0,
+              "fmt": "32.02B"
+            }
+          },
+          {
+            "dataId": 26014,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 38314000000.0,
+              "fmt": "38.31B"
+            }
+          },
+          {
+            "dataId": 26014,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 38771000000.0,
+              "fmt": "38.77B"
+            }
+          },
+          {
+            "dataId": 26014,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 40284000000.0,
+              "fmt": "40.28B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "T"
+          ],
+          "type": [
+            "annualBasicAverageShares"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualBasicAverageShares": [
+          {
+            "dataId": 29010,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 7166000000.0,
+              "fmt": "7.17B"
+            }
+          },
+          {
+            "dataId": 29010,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 7181000000.0,
+              "fmt": "7.18B"
+            }
+          },
+          {
+            "dataId": 29010,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 7199000000.0,
+              "fmt": "7.20B"
+            }
+          },
+          {
+            "dataId": 29010,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 7169000000.0,
+              "fmt": "7.17B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "T"
+          ],
+          "type": [
+            "annualAccountsReceivable"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualAccountsReceivable": [
+          {
+            "dataId": 23001,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 11466000000.0,
+              "fmt": "11.47B"
+            }
+          },
+          {
+            "dataId": 23001,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 10289000000.0,
+              "fmt": "10.29B"
+            }
+          },
+          {
+            "dataId": 23001,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 9638000000.0,
+              "fmt": "9.64B"
+            }
+          },
+          {
+            "dataId": 23001,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 8843000000.0,
+              "fmt": "8.84B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "T"
+          ],
+          "type": [
+            "annualTotalRevenue"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualTotalRevenue": [
+          {
+            "dataId": 20100,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 120741000000.0,
+              "fmt": "120.74B"
+            }
+          },
+          {
+            "dataId": 20100,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 122428000000.0,
+              "fmt": "122.43B"
+            }
+          },
+          {
+            "dataId": 20100,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 122336000000.0,
+              "fmt": "122.34B"
+            }
+          },
+          {
+            "dataId": 20100,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 125648000000.0,
+              "fmt": "125.65B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "T"
+          ],
+          "type": [
+            "annualCashAndCashEquivalents"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualCashAndCashEquivalents": [
+          {
+            "dataId": 23030,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3701000000.0,
+              "fmt": "3.70B"
+            }
+          },
+          {
+            "dataId": 23030,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 6722000000.0,
+              "fmt": "6.72B"
+            }
+          },
+          {
+            "dataId": 23030,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3298000000.0,
+              "fmt": "3.30B"
+            }
+          },
+          {
+            "dataId": 23030,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 18234000000.0,
+              "fmt": "18.23B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "T"
+          ],
+          "type": [
+            "annualCurrentAssets"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualCurrentAssets": [
+          {
+            "dataId": 23044,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 33108000000.0,
+              "fmt": "33.11B"
+            }
+          },
+          {
+            "dataId": 23044,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 36458000000.0,
+              "fmt": "36.46B"
+            }
+          },
+          {
+            "dataId": 23044,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 31168000000.0,
+              "fmt": "31.17B"
+            }
+          },
+          {
+            "dataId": 23044,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 48732000000.0,
+              "fmt": "48.73B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "T"
+          ],
+          "type": [
+            "annualGrossProfit"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualGrossProfit": [
+          {
+            "dataId": 20046,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 69893000000.0,
+              "fmt": "69.89B"
+            }
+          },
+          {
+            "dataId": 20046,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 72305000000.0,
+              "fmt": "72.31B"
+            }
+          },
+          {
+            "dataId": 20046,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 73115000000.0,
+              "fmt": "73.11B"
+            }
+          },
+          {
+            "dataId": 20046,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 74828000000.0,
+              "fmt": "74.83B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "T"
+          ],
+          "type": [
+            "annualNetIncome"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualNetIncome": [
+          {
+            "dataId": 20091,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -8524000000.0,
+              "fmt": "-8.52B"
+            }
+          },
+          {
+            "dataId": 20091,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 14400000000.0,
+              "fmt": "14.40B"
+            }
+          },
+          {
+            "dataId": 20091,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 10948000000.0,
+              "fmt": "10.95B"
+            }
+          },
+          {
+            "dataId": 20091,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 21953000000.0,
+              "fmt": "21.95B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "T"
+          ],
+          "type": [
+            "annualInventory"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualInventory": [
+          {
+            "dataId": 23108,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3123000000.0,
+              "fmt": "3.12B"
+            }
+          },
+          {
+            "dataId": 23108,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2177000000.0,
+              "fmt": "2.18B"
+            }
+          },
+          {
+            "dataId": 23108,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2270000000.0,
+              "fmt": "2.27B"
+            }
+          },
+          {
+            "dataId": 23108,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2420000000.0,
+              "fmt": "2.42B"
+            }
+          }
+        ]
+      }
+    ],
+    "error": null
+  }
+}

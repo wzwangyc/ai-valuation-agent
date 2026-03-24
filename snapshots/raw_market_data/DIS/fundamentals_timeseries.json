@@ -1,0 +1,1371 @@
+{
+  "timeseries": {
+    "result": [
+      {
+        "meta": {
+          "symbol": [
+            "DIS"
+          ],
+          "type": [
+            "annualTotalRevenue"
+          ]
+        },
+        "timestamp": [
+          1664496000,
+          1696032000,
+          1727654400,
+          1759190400
+        ],
+        "annualTotalRevenue": [
+          {
+            "dataId": 20100,
+            "asOfDate": "2022-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 82722000000.0,
+              "fmt": "82.72B"
+            }
+          },
+          {
+            "dataId": 20100,
+            "asOfDate": "2023-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 88898000000.0,
+              "fmt": "88.90B"
+            }
+          },
+          {
+            "dataId": 20100,
+            "asOfDate": "2024-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 91361000000.0,
+              "fmt": "91.36B"
+            }
+          },
+          {
+            "dataId": 20100,
+            "asOfDate": "2025-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 94425000000.0,
+              "fmt": "94.42B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "DIS"
+          ],
+          "type": [
+            "annualOperatingCashFlow"
+          ]
+        },
+        "timestamp": [
+          1664496000,
+          1696032000,
+          1727654400,
+          1759190400
+        ],
+        "annualOperatingCashFlow": [
+          {
+            "dataId": 26014,
+            "asOfDate": "2022-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 6010000000.0,
+              "fmt": "6.01B"
+            }
+          },
+          {
+            "dataId": 26014,
+            "asOfDate": "2023-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 9866000000.0,
+              "fmt": "9.87B"
+            }
+          },
+          {
+            "dataId": 26014,
+            "asOfDate": "2024-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 13971000000.0,
+              "fmt": "13.97B"
+            }
+          },
+          {
+            "dataId": 26014,
+            "asOfDate": "2025-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 18101000000.0,
+              "fmt": "18.10B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "DIS"
+          ],
+          "type": [
+            "annualInventory"
+          ]
+        },
+        "timestamp": [
+          1664496000,
+          1696032000,
+          1727654400,
+          1759190400
+        ],
+        "annualInventory": [
+          {
+            "dataId": 23108,
+            "asOfDate": "2022-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1742000000.0,
+              "fmt": "1.74B"
+            }
+          },
+          {
+            "dataId": 23108,
+            "asOfDate": "2023-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1963000000.0,
+              "fmt": "1.96B"
+            }
+          },
+          {
+            "dataId": 23108,
+            "asOfDate": "2024-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2022000000.0,
+              "fmt": "2.02B"
+            }
+          },
+          {
+            "dataId": 23108,
+            "asOfDate": "2025-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2134000000.0,
+              "fmt": "2.13B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "DIS"
+          ],
+          "type": [
+            "annualTaxProvision"
+          ]
+        },
+        "timestamp": [
+          1664496000,
+          1696032000,
+          1727654400,
+          1759190400
+        ],
+        "annualTaxProvision": [
+          {
+            "dataId": 20145,
+            "asOfDate": "2022-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1732000000.0,
+              "fmt": "1.73B"
+            }
+          },
+          {
+            "dataId": 20145,
+            "asOfDate": "2023-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1379000000.0,
+              "fmt": "1.38B"
+            }
+          },
+          {
+            "dataId": 20145,
+            "asOfDate": "2024-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1796000000.0,
+              "fmt": "1.80B"
+            }
+          },
+          {
+            "dataId": 20145,
+            "asOfDate": "2025-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -1428000000.0,
+              "fmt": "-1.43B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "DIS"
+          ],
+          "type": [
+            "annualAccountsPayable"
+          ]
+        },
+        "timestamp": [
+          1664496000,
+          1696032000,
+          1727654400,
+          1759190400
+        ],
+        "annualAccountsPayable": [
+          {
+            "dataId": 23000,
+            "asOfDate": "2022-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 16205000000.0,
+              "fmt": "16.20B"
+            }
+          },
+          {
+            "dataId": 23000,
+            "asOfDate": "2023-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 15125000000.0,
+              "fmt": "15.12B"
+            }
+          },
+          {
+            "dataId": 23000,
+            "asOfDate": "2024-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 14796000000.0,
+              "fmt": "14.80B"
+            }
+          },
+          {
+            "dataId": 23000,
+            "asOfDate": "2025-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 15055000000.0,
+              "fmt": "15.05B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "DIS"
+          ],
+          "type": [
+            "annualCashAndCashEquivalents"
+          ]
+        },
+        "timestamp": [
+          1664496000,
+          1696032000,
+          1727654400,
+          1759190400
+        ],
+        "annualCashAndCashEquivalents": [
+          {
+            "dataId": 23030,
+            "asOfDate": "2022-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 11615000000.0,
+              "fmt": "11.62B"
+            }
+          },
+          {
+            "dataId": 23030,
+            "asOfDate": "2023-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 14182000000.0,
+              "fmt": "14.18B"
+            }
+          },
+          {
+            "dataId": 23030,
+            "asOfDate": "2024-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 6002000000.0,
+              "fmt": "6.00B"
+            }
+          },
+          {
+            "dataId": 23030,
+            "asOfDate": "2025-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 5695000000.0,
+              "fmt": "5.70B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "DIS"
+          ],
+          "type": [
+            "annualDepreciationAndAmortization"
+          ]
+        },
+        "timestamp": [
+          1664496000,
+          1696032000,
+          1727654400,
+          1759190400
+        ],
+        "annualDepreciationAndAmortization": [
+          {
+            "dataId": 26060,
+            "asOfDate": "2022-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 5163000000.0,
+              "fmt": "5.16B"
+            }
+          },
+          {
+            "dataId": 26060,
+            "asOfDate": "2023-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 5369000000.0,
+              "fmt": "5.37B"
+            }
+          },
+          {
+            "dataId": 26060,
+            "asOfDate": "2024-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4990000000.0,
+              "fmt": "4.99B"
+            }
+          },
+          {
+            "dataId": 26060,
+            "asOfDate": "2025-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 5326000000.0,
+              "fmt": "5.33B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "DIS"
+          ],
+          "type": [
+            "annualAccountsReceivable"
+          ]
+        },
+        "timestamp": [
+          1664496000,
+          1696032000,
+          1727654400,
+          1759190400
+        ],
+        "annualAccountsReceivable": [
+          {
+            "dataId": 23001,
+            "asOfDate": "2022-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 10811000000.0,
+              "fmt": "10.81B"
+            }
+          },
+          {
+            "dataId": 23001,
+            "asOfDate": "2023-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 10179000000.0,
+              "fmt": "10.18B"
+            }
+          },
+          {
+            "dataId": 23001,
+            "asOfDate": "2024-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 10341000000.0,
+              "fmt": "10.34B"
+            }
+          },
+          {
+            "dataId": 23001,
+            "asOfDate": "2025-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 10434000000.0,
+              "fmt": "10.43B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "DIS"
+          ],
+          "type": [
+            "annualNetIncome"
+          ]
+        },
+        "timestamp": [
+          1664496000,
+          1696032000,
+          1727654400,
+          1759190400
+        ],
+        "annualNetIncome": [
+          {
+            "dataId": 20091,
+            "asOfDate": "2022-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3145000000.0,
+              "fmt": "3.15B"
+            }
+          },
+          {
+            "dataId": 20091,
+            "asOfDate": "2023-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2354000000.0,
+              "fmt": "2.35B"
+            }
+          },
+          {
+            "dataId": 20091,
+            "asOfDate": "2024-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4972000000.0,
+              "fmt": "4.97B"
+            }
+          },
+          {
+            "dataId": 20091,
+            "asOfDate": "2025-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 12404000000.0,
+              "fmt": "12.40B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "DIS"
+          ],
+          "type": [
+            "annualOperatingIncome"
+          ]
+        },
+        "timestamp": [
+          1664496000,
+          1696032000,
+          1727654400,
+          1759190400
+        ],
+        "annualOperatingIncome": [
+          {
+            "dataId": 20109,
+            "asOfDate": "2022-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 6770000000.0,
+              "fmt": "6.77B"
+            },
+            "businessSegmentData": [
+              {
+                "dataValue": 12000000.0,
+                "segmentType": "Business",
+                "segmentName": "Amortization of Twenty-First Century Fox (TFCF) intangible assets related to equity investees",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -1023000000.0,
+                "segmentType": "Business",
+                "segmentName": "Content License Early Termination",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -1159000000.0,
+                "segmentType": "Business",
+                "segmentName": "Corporate and unallocated shared expenses",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 3378000000.0,
+                "segmentType": "Business",
+                "segmentName": "Disney Media and Entertainment Distribution",
+                "isPrimarySegment": 1
+              },
+              {
+                "dataValue": 1343000000.0,
+                "segmentType": "Business",
+                "segmentName": "Entertainment",
+                "isPrimarySegment": 1
+              },
+              {
+                "dataValue": 7295000000.0,
+                "segmentType": "Business",
+                "segmentName": "Experiences",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 2655000000.0,
+                "segmentType": "Business",
+                "segmentName": "Sports",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -2353000000.0,
+                "segmentType": "Business",
+                "segmentName": "Twenty-First Century Fox (TFCF) and Hulu Acquisition Amortization",
+                "isPrimarySegment": 0
+              }
+            ],
+            "geographicSegmentData": [
+              {
+                "dataValue": 11099000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Americas",
+                "isPrimarySegment": 1
+              },
+              {
+                "dataValue": 436000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Asia Pacific",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -1023000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Content License Early Termination",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -1159000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Corporate and unallocated shared expenses",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -816000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Equity in the income of investees included in segment operating income",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 586000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Europe",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -2353000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Twenty-First Century Fox (TFCF) and Hulu acquisition amortization",
+                "isPrimarySegment": 0
+              }
+            ]
+          },
+          {
+            "dataId": 20109,
+            "asOfDate": "2023-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 8992000000.0,
+              "fmt": "8.99B"
+            },
+            "businessSegmentData": [
+              {
+                "dataValue": 12000000.0,
+                "segmentType": "Business",
+                "segmentName": "Amortization of Twenty-First Century Fox (TFCF) intangible assets related to equity investees",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 0.0,
+                "segmentType": "Business",
+                "segmentName": "Content License Early Termination",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -1147000000.0,
+                "segmentType": "Business",
+                "segmentName": "Corporate and unallocated shared expenses",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 759000000.0,
+                "segmentType": "Business",
+                "segmentName": "Entertainment",
+                "isPrimarySegment": 1
+              },
+              {
+                "dataValue": 8956000000.0,
+                "segmentType": "Business",
+                "segmentName": "Experiences",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 2410000000.0,
+                "segmentType": "Business",
+                "segmentName": "Sports",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -1998000000.0,
+                "segmentType": "Business",
+                "segmentName": "Twenty-First Century Fox (TFCF) and Hulu Acquisition Amortization",
+                "isPrimarySegment": 0
+              }
+            ],
+            "geographicSegmentData": [
+              {
+                "dataValue": 10779000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Americas",
+                "isPrimarySegment": 1
+              },
+              {
+                "dataValue": 12000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Amortization of Twenty-First Century Fox (TFCF) intangible assets related to equity investees",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 1228000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Asia Pacific",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 0.0,
+                "segmentType": "Geographic",
+                "segmentName": "Content License Early Termination",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -1147000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Corporate and unallocated shared expenses",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -738000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Equity in the income of investees included in segment operating income",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 856000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Europe",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -1998000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Twenty-First Century Fox (TFCF) and Hulu acquisition amortization",
+                "isPrimarySegment": 0
+              }
+            ]
+          },
+          {
+            "dataId": 20109,
+            "asOfDate": "2024-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 11914000000.0,
+              "fmt": "11.91B"
+            },
+            "businessSegmentData": [
+              {
+                "dataValue": 12000000.0,
+                "segmentType": "Business",
+                "segmentName": "Amortization of Twenty-First Century Fox (TFCF) intangible assets related to equity investees",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 0.0,
+                "segmentType": "Business",
+                "segmentName": "Content License Early Termination",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -1435000000.0,
+                "segmentType": "Business",
+                "segmentName": "Corporate and unallocated shared expenses",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 3394000000.0,
+                "segmentType": "Business",
+                "segmentName": "Entertainment",
+                "isPrimarySegment": 1
+              },
+              {
+                "dataValue": 9272000000.0,
+                "segmentType": "Business",
+                "segmentName": "Experiences",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 2348000000.0,
+                "segmentType": "Business",
+                "segmentName": "Sports",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -1677000000.0,
+                "segmentType": "Business",
+                "segmentName": "Twenty-First Century Fox (TFCF) and Hulu Acquisition Amortization",
+                "isPrimarySegment": 0
+              }
+            ],
+            "geographicSegmentData": [
+              {
+                "dataValue": 12921000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Americas",
+                "isPrimarySegment": 1
+              },
+              {
+                "dataValue": 12000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Amortization of Twenty-First Century Fox (TFCF) intangible assets related to equity investees",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 1311000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Asia Pacific",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 0.0,
+                "segmentType": "Geographic",
+                "segmentName": "Content License Early Termination",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -1435000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Corporate and unallocated shared expenses",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -587000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Equity in the income of investees included in segment operating income",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 1369000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Europe",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -1677000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Twenty-First Century Fox (TFCF) and Hulu acquisition amortization",
+                "isPrimarySegment": 0
+              }
+            ]
+          },
+          {
+            "dataId": 20109,
+            "asOfDate": "2025-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 13832000000.0,
+              "fmt": "13.83B"
+            },
+            "businessSegmentData": [
+              {
+                "dataValue": 9000000.0,
+                "segmentType": "Business",
+                "segmentName": "Amortization of Twenty-First Century Fox (TFCF) intangible assets related to equity investees",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -1646000000.0,
+                "segmentType": "Business",
+                "segmentName": "Corporate and unallocated shared expenses",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 4235000000.0,
+                "segmentType": "Business",
+                "segmentName": "Entertainment",
+                "isPrimarySegment": 1
+              },
+              {
+                "dataValue": 9995000000.0,
+                "segmentType": "Business",
+                "segmentName": "Experiences",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 2815000000.0,
+                "segmentType": "Business",
+                "segmentName": "Sports",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -1576000000.0,
+                "segmentType": "Business",
+                "segmentName": "Twenty-First Century Fox (TFCF) and Hulu Acquisition Amortization",
+                "isPrimarySegment": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "DIS"
+          ],
+          "type": [
+            "annualBasicAverageShares"
+          ]
+        },
+        "timestamp": [
+          1664496000,
+          1696032000,
+          1727654400,
+          1759190400
+        ],
+        "annualBasicAverageShares": [
+          {
+            "dataId": 29010,
+            "asOfDate": "2022-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1822000000.0,
+              "fmt": "1.82B"
+            }
+          },
+          {
+            "dataId": 29010,
+            "asOfDate": "2023-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1828000000.0,
+              "fmt": "1.83B"
+            }
+          },
+          {
+            "dataId": 29010,
+            "asOfDate": "2024-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1825000000.0,
+              "fmt": "1.82B"
+            }
+          },
+          {
+            "dataId": 29010,
+            "asOfDate": "2025-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1804000000.0,
+              "fmt": "1.80B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "DIS"
+          ],
+          "type": [
+            "annualInterestExpense"
+          ]
+        },
+        "timestamp": [
+          1664496000,
+          1696032000,
+          1727654400,
+          1759190400
+        ],
+        "annualInterestExpense": [
+          {
+            "dataId": 20057,
+            "asOfDate": "2022-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1549000000.0,
+              "fmt": "1.55B"
+            }
+          },
+          {
+            "dataId": 20057,
+            "asOfDate": "2023-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1973000000.0,
+              "fmt": "1.97B"
+            }
+          },
+          {
+            "dataId": 20057,
+            "asOfDate": "2024-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2070000000.0,
+              "fmt": "2.07B"
+            }
+          },
+          {
+            "dataId": 20057,
+            "asOfDate": "2025-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1812000000.0,
+              "fmt": "1.81B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "DIS"
+          ],
+          "type": [
+            "annualGrossProfit"
+          ]
+        },
+        "timestamp": [
+          1664496000,
+          1696032000,
+          1727654400,
+          1759190400
+        ],
+        "annualGrossProfit": [
+          {
+            "dataId": 20046,
+            "asOfDate": "2022-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 28321000000.0,
+              "fmt": "28.32B"
+            }
+          },
+          {
+            "dataId": 20046,
+            "asOfDate": "2023-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 29697000000.0,
+              "fmt": "29.70B"
+            }
+          },
+          {
+            "dataId": 20046,
+            "asOfDate": "2024-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 32663000000.0,
+              "fmt": "32.66B"
+            }
+          },
+          {
+            "dataId": 20046,
+            "asOfDate": "2025-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 35659000000.0,
+              "fmt": "35.66B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "DIS"
+          ],
+          "type": [
+            "annualCurrentLiabilities"
+          ]
+        },
+        "timestamp": [
+          1664496000,
+          1696032000,
+          1727654400,
+          1759190400
+        ],
+        "annualCurrentLiabilities": [
+          {
+            "dataId": 23047,
+            "asOfDate": "2022-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 29073000000.0,
+              "fmt": "29.07B"
+            }
+          },
+          {
+            "dataId": 23047,
+            "asOfDate": "2023-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 31139000000.0,
+              "fmt": "31.14B"
+            }
+          },
+          {
+            "dataId": 23047,
+            "asOfDate": "2024-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 34599000000.0,
+              "fmt": "34.60B"
+            }
+          },
+          {
+            "dataId": 23047,
+            "asOfDate": "2025-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 34162000000.0,
+              "fmt": "34.16B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "DIS"
+          ],
+          "type": [
+            "annualCurrentAssets"
+          ]
+        },
+        "timestamp": [
+          1664496000,
+          1696032000,
+          1727654400,
+          1759190400
+        ],
+        "annualCurrentAssets": [
+          {
+            "dataId": 23044,
+            "asOfDate": "2022-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 29098000000.0,
+              "fmt": "29.10B"
+            }
+          },
+          {
+            "dataId": 23044,
+            "asOfDate": "2023-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 32763000000.0,
+              "fmt": "32.76B"
+            }
+          },
+          {
+            "dataId": 23044,
+            "asOfDate": "2024-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 25241000000.0,
+              "fmt": "25.24B"
+            }
+          },
+          {
+            "dataId": 23044,
+            "asOfDate": "2025-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 24267000000.0,
+              "fmt": "24.27B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "DIS"
+          ],
+          "type": [
+            "annualTotalDebt"
+          ]
+        },
+        "timestamp": [
+          1664496000,
+          1696032000,
+          1727654400,
+          1759190400
+        ],
+        "annualTotalDebt": [
+          {
+            "dataId": 23386,
+            "asOfDate": "2022-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 51608000000.0,
+              "fmt": "51.61B"
+            }
+          },
+          {
+            "dataId": 23386,
+            "asOfDate": "2023-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 49895000000.0,
+              "fmt": "49.90B"
+            }
+          },
+          {
+            "dataId": 23386,
+            "asOfDate": "2024-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 48743000000.0,
+              "fmt": "48.74B"
+            }
+          },
+          {
+            "dataId": 23386,
+            "asOfDate": "2025-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 44877000000.0,
+              "fmt": "44.88B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "DIS"
+          ],
+          "type": [
+            "annualCapitalExpenditure"
+          ]
+        },
+        "timestamp": [
+          1664496000,
+          1696032000,
+          1727654400,
+          1759190400
+        ],
+        "annualCapitalExpenditure": [
+          {
+            "dataId": 26005,
+            "asOfDate": "2022-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -4943000000.0,
+              "fmt": "-4.94B"
+            }
+          },
+          {
+            "dataId": 26005,
+            "asOfDate": "2023-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -4969000000.0,
+              "fmt": "-4.97B"
+            }
+          },
+          {
+            "dataId": 26005,
+            "asOfDate": "2024-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -5412000000.0,
+              "fmt": "-5.41B"
+            }
+          },
+          {
+            "dataId": 26005,
+            "asOfDate": "2025-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -8024000000.0,
+              "fmt": "-8.02B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "DIS"
+          ],
+          "type": [
+            "annualPretaxIncome"
+          ]
+        },
+        "timestamp": [
+          1664496000,
+          1696032000,
+          1727654400,
+          1759190400
+        ],
+        "annualPretaxIncome": [
+          {
+            "dataId": 20136,
+            "asOfDate": "2022-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 5285000000.0,
+              "fmt": "5.29B"
+            }
+          },
+          {
+            "dataId": 20136,
+            "asOfDate": "2023-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4769000000.0,
+              "fmt": "4.77B"
+            }
+          },
+          {
+            "dataId": 20136,
+            "asOfDate": "2024-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 7569000000.0,
+              "fmt": "7.57B"
+            }
+          },
+          {
+            "dataId": 20136,
+            "asOfDate": "2025-09-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 12003000000.0,
+              "fmt": "12.00B"
+            }
+          }
+        ]
+      }
+    ],
+    "error": null
+  }
+}

@@ -1,0 +1,1311 @@
+{
+  "timeseries": {
+    "result": [
+      {
+        "meta": {
+          "symbol": [
+            "PSKY"
+          ],
+          "type": [
+            "annualGrossProfit"
+          ]
+        },
+        "timestamp": [
+          1640908800,
+          1672444800,
+          1703980800,
+          1735603200
+        ],
+        "annualGrossProfit": [
+          {
+            "dataId": 20046,
+            "asOfDate": "2021-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 10842000000.0,
+              "fmt": "10.84B"
+            }
+          },
+          {
+            "dataId": 20046,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 10309000000.0,
+              "fmt": "10.31B"
+            }
+          },
+          {
+            "dataId": 20046,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 7264000000.0,
+              "fmt": "7.26B"
+            }
+          },
+          {
+            "dataId": 20046,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 8658000000.0,
+              "fmt": "8.66B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "PSKY"
+          ],
+          "type": [
+            "annualCurrentLiabilities"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualCurrentLiabilities": [
+          {
+            "dataId": 23047,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 11191000000.0,
+              "fmt": "11.19B"
+            }
+          },
+          {
+            "dataId": 23047,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 9656000000.0,
+              "fmt": "9.66B"
+            }
+          },
+          {
+            "dataId": 23047,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 9631000000.0,
+              "fmt": "9.63B"
+            }
+          },
+          {
+            "dataId": 23047,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 10599000000.0,
+              "fmt": "10.60B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "PSKY"
+          ],
+          "type": [
+            "annualCurrentAssets"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualCurrentAssets": [
+          {
+            "dataId": 23044,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 13734000000.0,
+              "fmt": "13.73B"
+            }
+          },
+          {
+            "dataId": 23044,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 12703000000.0,
+              "fmt": "12.70B"
+            }
+          },
+          {
+            "dataId": 23044,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 12542000000.0,
+              "fmt": "12.54B"
+            }
+          },
+          {
+            "dataId": 23044,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 13320000000.0,
+              "fmt": "13.32B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "PSKY"
+          ],
+          "type": [
+            "annualAccountsReceivable"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualAccountsReceivable": [
+          {
+            "dataId": 23001,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 7412000000.0,
+              "fmt": "7.41B"
+            }
+          },
+          {
+            "dataId": 23001,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 7115000000.0,
+              "fmt": "7.12B"
+            }
+          },
+          {
+            "dataId": 23001,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 6920000000.0,
+              "fmt": "6.92B"
+            }
+          },
+          {
+            "dataId": 23001,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 6615000000.0,
+              "fmt": "6.62B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "PSKY"
+          ],
+          "type": [
+            "annualInterestExpense"
+          ]
+        },
+        "timestamp": [
+          1640908800,
+          1672444800,
+          1703980800,
+          1735603200
+        ],
+        "annualInterestExpense": [
+          {
+            "dataId": 20057,
+            "asOfDate": "2021-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 986000000.0,
+              "fmt": "986.00M"
+            }
+          },
+          {
+            "dataId": 20057,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 931000000.0,
+              "fmt": "931.00M"
+            }
+          },
+          {
+            "dataId": 20057,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 920000000.0,
+              "fmt": "920.00M"
+            }
+          },
+          {
+            "dataId": 20057,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 860000000.0,
+              "fmt": "860.00M"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "PSKY"
+          ],
+          "type": [
+            "annualCapitalExpenditure"
+          ]
+        },
+        "timestamp": [
+          1640908800,
+          1672444800,
+          1703980800,
+          1735603200
+        ],
+        "annualCapitalExpenditure": [
+          {
+            "dataId": 26005,
+            "asOfDate": "2021-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -354000000.0,
+              "fmt": "-354.00M"
+            }
+          },
+          {
+            "dataId": 26005,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -358000000.0,
+              "fmt": "-358.00M"
+            }
+          },
+          {
+            "dataId": 26005,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -328000000.0,
+              "fmt": "-328.00M"
+            }
+          },
+          {
+            "dataId": 26005,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -263000000.0,
+              "fmt": "-263.00M"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "PSKY"
+          ],
+          "type": [
+            "annualBasicAverageShares"
+          ]
+        },
+        "timestamp": [
+          1640908800,
+          1672444800,
+          1703980800,
+          1735603200
+        ],
+        "annualBasicAverageShares": [
+          {
+            "dataId": 29010,
+            "asOfDate": "2021-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 641000000.0,
+              "fmt": "641.00M"
+            }
+          },
+          {
+            "dataId": 29010,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 649000000.0,
+              "fmt": "649.00M"
+            }
+          },
+          {
+            "dataId": 29010,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 652000000.0,
+              "fmt": "652.00M"
+            }
+          },
+          {
+            "dataId": 29010,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 664000000.0,
+              "fmt": "664.00M"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "PSKY"
+          ],
+          "type": [
+            "annualPretaxIncome"
+          ]
+        },
+        "timestamp": [
+          1640908800,
+          1672444800,
+          1703980800,
+          1735603200
+        ],
+        "annualPretaxIncome": [
+          {
+            "dataId": 20136,
+            "asOfDate": "2021-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 5206000000.0,
+              "fmt": "5.21B"
+            }
+          },
+          {
+            "dataId": 20136,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1266000000.0,
+              "fmt": "1.27B"
+            }
+          },
+          {
+            "dataId": 20136,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -1253000000.0,
+              "fmt": "-1.25B"
+            }
+          },
+          {
+            "dataId": 20136,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -6177000000.0,
+              "fmt": "-6.18B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "PSKY"
+          ],
+          "type": [
+            "annualOperatingCashFlow"
+          ]
+        },
+        "timestamp": [
+          1640908800,
+          1672444800,
+          1703980800,
+          1735603200
+        ],
+        "annualOperatingCashFlow": [
+          {
+            "dataId": 26014,
+            "asOfDate": "2021-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 953000000.0,
+              "fmt": "953.00M"
+            }
+          },
+          {
+            "dataId": 26014,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 219000000.0,
+              "fmt": "219.00M"
+            }
+          },
+          {
+            "dataId": 26014,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 475000000.0,
+              "fmt": "475.00M"
+            }
+          },
+          {
+            "dataId": 26014,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 752000000.0,
+              "fmt": "752.00M"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "PSKY"
+          ],
+          "type": [
+            "annualTaxProvision"
+          ]
+        },
+        "timestamp": [
+          1640908800,
+          1672444800,
+          1703980800,
+          1735603200
+        ],
+        "annualTaxProvision": [
+          {
+            "dataId": 20145,
+            "asOfDate": "2021-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 646000000.0,
+              "fmt": "646.00M"
+            }
+          },
+          {
+            "dataId": 20145,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 227000000.0,
+              "fmt": "227.00M"
+            }
+          },
+          {
+            "dataId": 20145,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -361000000.0,
+              "fmt": "-361.00M"
+            }
+          },
+          {
+            "dataId": 20145,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -305000000.0,
+              "fmt": "-305.00M"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "PSKY"
+          ],
+          "type": [
+            "annualAccountsPayable"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualAccountsPayable": [
+          {
+            "dataId": 23000,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1403000000.0,
+              "fmt": "1.40B"
+            }
+          },
+          {
+            "dataId": 23000,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1100000000.0,
+              "fmt": "1.10B"
+            }
+          },
+          {
+            "dataId": 23000,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 953000000.0,
+              "fmt": "953.00M"
+            }
+          },
+          {
+            "dataId": 23000,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 906000000.0,
+              "fmt": "906.00M"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "PSKY"
+          ],
+          "type": [
+            "annualDepreciationAndAmortization"
+          ]
+        },
+        "timestamp": [
+          1640908800,
+          1672444800,
+          1703980800,
+          1735603200
+        ],
+        "annualDepreciationAndAmortization": [
+          {
+            "dataId": 26060,
+            "asOfDate": "2021-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 390000000.0,
+              "fmt": "390.00M"
+            }
+          },
+          {
+            "dataId": 26060,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 378000000.0,
+              "fmt": "378.00M"
+            }
+          },
+          {
+            "dataId": 26060,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 418000000.0,
+              "fmt": "418.00M"
+            }
+          },
+          {
+            "dataId": 26060,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 392000000.0,
+              "fmt": "392.00M"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "PSKY"
+          ],
+          "type": [
+            "annualCashAndCashEquivalents"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualCashAndCashEquivalents": [
+          {
+            "dataId": 23030,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2885000000.0,
+              "fmt": "2.88B"
+            }
+          },
+          {
+            "dataId": 23030,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2460000000.0,
+              "fmt": "2.46B"
+            }
+          },
+          {
+            "dataId": 23030,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2661000000.0,
+              "fmt": "2.66B"
+            }
+          },
+          {
+            "dataId": 23030,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3274000000.0,
+              "fmt": "3.27B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "PSKY"
+          ],
+          "type": [
+            "annualTotalDebt"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualTotalDebt": [
+          {
+            "dataId": 23386,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 17274000000.0,
+              "fmt": "17.27B"
+            }
+          },
+          {
+            "dataId": 23386,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 15858000000.0,
+              "fmt": "15.86B"
+            }
+          },
+          {
+            "dataId": 23386,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 15549000000.0,
+              "fmt": "15.55B"
+            }
+          },
+          {
+            "dataId": 23386,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 14808000000.0,
+              "fmt": "14.81B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "PSKY"
+          ],
+          "type": [
+            "annualTotalRevenue"
+          ]
+        },
+        "timestamp": [
+          1640908800,
+          1672444800,
+          1703980800,
+          1735603200
+        ],
+        "annualTotalRevenue": [
+          {
+            "dataId": 20100,
+            "asOfDate": "2021-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 28586000000.0,
+              "fmt": "28.59B"
+            }
+          },
+          {
+            "dataId": 20100,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 30154000000.0,
+              "fmt": "30.15B"
+            }
+          },
+          {
+            "dataId": 20100,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 29652000000.0,
+              "fmt": "29.65B"
+            }
+          },
+          {
+            "dataId": 20100,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 29213000000.0,
+              "fmt": "29.21B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "PSKY"
+          ],
+          "type": [
+            "annualInventory"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualInventory": [
+          {
+            "dataId": 23108,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1342000000.0,
+              "fmt": "1.34B"
+            }
+          },
+          {
+            "dataId": 23108,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1414000000.0,
+              "fmt": "1.41B"
+            }
+          },
+          {
+            "dataId": 23108,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1429000000.0,
+              "fmt": "1.43B"
+            }
+          },
+          {
+            "dataId": 23108,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1461000000.0,
+              "fmt": "1.46B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "PSKY"
+          ],
+          "type": [
+            "annualNetIncome"
+          ]
+        },
+        "timestamp": [
+          1640908800,
+          1672444800,
+          1703980800,
+          1735603200
+        ],
+        "annualNetIncome": [
+          {
+            "dataId": 20091,
+            "asOfDate": "2021-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4543000000.0,
+              "fmt": "4.54B"
+            }
+          },
+          {
+            "dataId": 20091,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1104000000.0,
+              "fmt": "1.10B"
+            }
+          },
+          {
+            "dataId": 20091,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -608000000.0,
+              "fmt": "-608.00M"
+            }
+          },
+          {
+            "dataId": 20091,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -6190000000.0,
+              "fmt": "-6.19B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "PSKY"
+          ],
+          "type": [
+            "annualOperatingIncome"
+          ]
+        },
+        "timestamp": [
+          1640908800,
+          1672444800,
+          1703980800,
+          1735603200
+        ],
+        "annualOperatingIncome": [
+          {
+            "dataId": 20109,
+            "asOfDate": "2021-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4011000000.0,
+              "fmt": "4.01B"
+            },
+            "businessSegmentData": [
+              {
+                "dataValue": 3747000000.0,
+                "segmentType": "Business",
+                "segmentName": "Cable Networks",
+                "isPrimarySegment": 1
+              },
+              {
+                "dataValue": -582000000.0,
+                "segmentType": "Business",
+                "segmentName": "Corporate/Eliminations",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -390000000.0,
+                "segmentType": "Business",
+                "segmentName": "Depreciation and amortization",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -992000000.0,
+                "segmentType": "Business",
+                "segmentName": "Direct-to-Consumer",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 368000000.0,
+                "segmentType": "Business",
+                "segmentName": "Filmed Entertainment",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 2343000000.0,
+                "segmentType": "Business",
+                "segmentName": "Gains on dispositions",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 0.0,
+                "segmentType": "Business",
+                "segmentName": "Impairment charges",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 0.0,
+                "segmentType": "Business",
+                "segmentName": "Programming charges",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -100000000.0,
+                "segmentType": "Business",
+                "segmentName": "Restructuring, transaction-related items, and other corporate matters",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -172000000.0,
+                "segmentType": "Business",
+                "segmentName": "Stock-based compensation",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 1083000000.0,
+                "segmentType": "Business",
+                "segmentName": "TV Entertainment",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 5892000000.0,
+                "segmentType": "Business",
+                "segmentName": "TV Media",
+                "isPrimarySegment": 1
+              }
+            ]
+          },
+          {
+            "dataId": 20109,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2833000000.0,
+              "fmt": "2.83B"
+            },
+            "businessSegmentData": [
+              {
+                "dataValue": -470000000.0,
+                "segmentType": "Business",
+                "segmentName": "Corporate/Eliminations",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -405000000.0,
+                "segmentType": "Business",
+                "segmentName": "Depreciation and amortization",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -1819000000.0,
+                "segmentType": "Business",
+                "segmentName": "Direct-to-Consumer",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 272000000.0,
+                "segmentType": "Business",
+                "segmentName": "Filmed Entertainment",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 56000000.0,
+                "segmentType": "Business",
+                "segmentName": "Gains on dispositions",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -27000000.0,
+                "segmentType": "Business",
+                "segmentName": "Impairment charges",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 0.0,
+                "segmentType": "Business",
+                "segmentName": "Programming charges",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -585000000.0,
+                "segmentType": "Business",
+                "segmentName": "Restructuring, transaction-related items, and other corporate matters",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -158000000.0,
+                "segmentType": "Business",
+                "segmentName": "Stock-based compensation",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 5451000000.0,
+                "segmentType": "Business",
+                "segmentName": "TV Media",
+                "isPrimarySegment": 1
+              }
+            ]
+          },
+          {
+            "dataId": 20109,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -552000000.0,
+              "fmt": "-552.00M"
+            },
+            "businessSegmentData": [
+              {
+                "dataValue": -447000000.0,
+                "segmentType": "Business",
+                "segmentName": "Corporate/Eliminations",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -418000000.0,
+                "segmentType": "Business",
+                "segmentName": "Depreciation and amortization",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -1663000000.0,
+                "segmentType": "Business",
+                "segmentName": "Direct-to-Consumer",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -119000000.0,
+                "segmentType": "Business",
+                "segmentName": "Filmed Entertainment",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 0.0,
+                "segmentType": "Business",
+                "segmentName": "Gains on dispositions",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -83000000.0,
+                "segmentType": "Business",
+                "segmentName": "Impairment charges",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -2371000000.0,
+                "segmentType": "Business",
+                "segmentName": "Programming charges",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 31000000.0,
+                "segmentType": "Business",
+                "segmentName": "Restructuring, transaction-related items, and other corporate matters",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -172000000.0,
+                "segmentType": "Business",
+                "segmentName": "Stock-based compensation",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 4791000000.0,
+                "segmentType": "Business",
+                "segmentName": "TV Media",
+                "isPrimarySegment": 1
+              }
+            ]
+          },
+          {
+            "dataId": 20109,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1469000000.0,
+              "fmt": "1.47B"
+            },
+            "businessSegmentData": [
+              {
+                "dataValue": -427000000.0,
+                "segmentType": "Business",
+                "segmentName": "Corporate/Eliminations",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -392000000.0,
+                "segmentType": "Business",
+                "segmentName": "Depreciation and amortization",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -497000000.0,
+                "segmentType": "Business",
+                "segmentName": "Direct-to-Consumer",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -96000000.0,
+                "segmentType": "Business",
+                "segmentName": "Filmed Entertainment",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 0.0,
+                "segmentType": "Business",
+                "segmentName": "Gains on dispositions",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -6130000000.0,
+                "segmentType": "Business",
+                "segmentName": "Impairment charges",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -1118000000.0,
+                "segmentType": "Business",
+                "segmentName": "Programming charges",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -747000000.0,
+                "segmentType": "Business",
+                "segmentName": "Restructuring, transaction-related items, and other corporate matters",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -210000000.0,
+                "segmentType": "Business",
+                "segmentName": "Stock-based compensation",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 4348000000.0,
+                "segmentType": "Business",
+                "segmentName": "TV Media",
+                "isPrimarySegment": 1
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "error": null
+  }
+}

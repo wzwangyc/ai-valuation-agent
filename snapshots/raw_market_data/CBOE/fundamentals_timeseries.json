@@ -1,0 +1,1179 @@
+{
+  "timeseries": {
+    "result": [
+      {
+        "meta": {
+          "symbol": [
+            "CBOE"
+          ],
+          "type": [
+            "annualCapitalExpenditure"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualCapitalExpenditure": [
+          {
+            "dataId": 26005,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -59800000.0,
+              "fmt": "-59.80M"
+            }
+          },
+          {
+            "dataId": 26005,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -45000000.0,
+              "fmt": "-45.00M"
+            }
+          },
+          {
+            "dataId": 26005,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -60900000.0,
+              "fmt": "-60.90M"
+            }
+          },
+          {
+            "dataId": 26005,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -71000000.0,
+              "fmt": "-71.00M"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "CBOE"
+          ],
+          "type": [
+            "annualPretaxIncome"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualPretaxIncome": [
+          {
+            "dataId": 20136,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 432900000.0,
+              "fmt": "432.90M"
+            }
+          },
+          {
+            "dataId": 20136,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1047600000.0,
+              "fmt": "1.05B"
+            }
+          },
+          {
+            "dataId": 20136,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1083800000.0,
+              "fmt": "1.08B"
+            }
+          },
+          {
+            "dataId": 20136,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1566600000.0,
+              "fmt": "1.57B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "CBOE"
+          ],
+          "type": [
+            "annualOperatingIncome"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualOperatingIncome": [
+          {
+            "dataId": 20109,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 970400000.0,
+              "fmt": "970.40M"
+            },
+            "businessSegmentData": [
+              {
+                "dataValue": -8200000.0,
+                "segmentType": "Business",
+                "segmentName": "Corporate Items and Eliminations",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -491400000.0,
+                "segmentType": "Business",
+                "segmentName": "Digital",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 38100000.0,
+                "segmentType": "Business",
+                "segmentName": "Europe and Asia Pacific",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 55200000.0,
+                "segmentType": "Business",
+                "segmentName": "Futures",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 8800000.0,
+                "segmentType": "Business",
+                "segmentName": "Global FX",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 146600000.0,
+                "segmentType": "Business",
+                "segmentName": "North American Equities",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 740500000.0,
+                "segmentType": "Business",
+                "segmentName": "Options",
+                "isPrimarySegment": 1
+              }
+            ]
+          },
+          {
+            "dataId": 20109,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1065300000.0,
+              "fmt": "1.07B"
+            },
+            "businessSegmentData": [
+              {
+                "dataValue": -8200000.0,
+                "segmentType": "Business",
+                "segmentName": "Corporate Items and Eliminations",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -46700000.0,
+                "segmentType": "Business",
+                "segmentName": "Digital",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 32700000.0,
+                "segmentType": "Business",
+                "segmentName": "Europe and Asia Pacific",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 86100000.0,
+                "segmentType": "Business",
+                "segmentName": "Futures",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 24700000.0,
+                "segmentType": "Business",
+                "segmentName": "Global FX",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 118000000.0,
+                "segmentType": "Business",
+                "segmentName": "North American Equities",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 851300000.0,
+                "segmentType": "Business",
+                "segmentName": "Options",
+                "isPrimarySegment": 1
+              }
+            ]
+          },
+          {
+            "dataId": 20109,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1180700000.0,
+              "fmt": "1.18B"
+            },
+            "businessSegmentData": [
+              {
+                "dataValue": -10000000.0,
+                "segmentType": "Business",
+                "segmentName": "Corporate Items and Eliminations",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -112400000.0,
+                "segmentType": "Business",
+                "segmentName": "Digital",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 41700000.0,
+                "segmentType": "Business",
+                "segmentName": "Europe and Asia Pacific",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 98900000.0,
+                "segmentType": "Business",
+                "segmentName": "Futures",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 33200000.0,
+                "segmentType": "Business",
+                "segmentName": "Global FX",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 168600000.0,
+                "segmentType": "Business",
+                "segmentName": "North American Equities",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 878400000.0,
+                "segmentType": "Business",
+                "segmentName": "Options",
+                "isPrimarySegment": 1
+              }
+            ]
+          },
+          {
+            "dataId": 20109,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1514100000.0,
+              "fmt": "1.51B"
+            },
+            "businessSegmentData": [
+              {
+                "dataValue": -8100000.0,
+                "segmentType": "Business",
+                "segmentName": "Corporate Items and Eliminations",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 0.0,
+                "segmentType": "Business",
+                "segmentName": "Digital",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 53900000.0,
+                "segmentType": "Business",
+                "segmentName": "Europe and Asia Pacific",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 73900000.0,
+                "segmentType": "Business",
+                "segmentName": "Futures",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 46000000.0,
+                "segmentType": "Business",
+                "segmentName": "Global FX",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 188100000.0,
+                "segmentType": "Business",
+                "segmentName": "North American Equities",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 1113300000.0,
+                "segmentType": "Business",
+                "segmentName": "Options",
+                "isPrimarySegment": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "CBOE"
+          ],
+          "type": [
+            "annualTotalDebt"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualTotalDebt": [
+          {
+            "dataId": 23386,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1871300000.0,
+              "fmt": "1.87B"
+            }
+          },
+          {
+            "dataId": 23386,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1610800000.0,
+              "fmt": "1.61B"
+            }
+          },
+          {
+            "dataId": 23386,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1599300000.0,
+              "fmt": "1.60B"
+            }
+          },
+          {
+            "dataId": 23386,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1590700000.0,
+              "fmt": "1.59B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "CBOE"
+          ],
+          "type": [
+            "annualCurrentLiabilities"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualCurrentLiabilities": [
+          {
+            "dataId": 23047,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1477200000.0,
+              "fmt": "1.48B"
+            }
+          },
+          {
+            "dataId": 23047,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1383400000.0,
+              "fmt": "1.38B"
+            }
+          },
+          {
+            "dataId": 23047,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1395200000.0,
+              "fmt": "1.40B"
+            }
+          },
+          {
+            "dataId": 23047,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2362300000.0,
+              "fmt": "2.36B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "CBOE"
+          ],
+          "type": [
+            "annualGrossProfit"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualGrossProfit": [
+          {
+            "dataId": 20046,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1378700000.0,
+              "fmt": "1.38B"
+            }
+          },
+          {
+            "dataId": 20046,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1492200000.0,
+              "fmt": "1.49B"
+            }
+          },
+          {
+            "dataId": 20046,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1610000000.0,
+              "fmt": "1.61B"
+            }
+          },
+          {
+            "dataId": 20046,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1928300000.0,
+              "fmt": "1.93B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "CBOE"
+          ],
+          "type": [
+            "annualOperatingCashFlow"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualOperatingCashFlow": [
+          {
+            "dataId": 26014,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 651100000.0,
+              "fmt": "651.10M"
+            }
+          },
+          {
+            "dataId": 26014,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1075600000.0,
+              "fmt": "1.08B"
+            }
+          },
+          {
+            "dataId": 26014,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1100600000.0,
+              "fmt": "1.10B"
+            }
+          },
+          {
+            "dataId": 26014,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1752600000.0,
+              "fmt": "1.75B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "CBOE"
+          ],
+          "type": [
+            "annualInterestExpense"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualInterestExpense": [
+          {
+            "dataId": 20057,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 60000000.0,
+              "fmt": "60.00M"
+            }
+          },
+          {
+            "dataId": 20057,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 62400000.0,
+              "fmt": "62.40M"
+            }
+          },
+          {
+            "dataId": 20057,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 51500000.0,
+              "fmt": "51.50M"
+            }
+          },
+          {
+            "dataId": 20057,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 52300000.0,
+              "fmt": "52.30M"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "CBOE"
+          ],
+          "type": [
+            "annualCashAndCashEquivalents"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualCashAndCashEquivalents": [
+          {
+            "dataId": 23030,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 432700000.0,
+              "fmt": "432.70M"
+            }
+          },
+          {
+            "dataId": 23030,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 543200000.0,
+              "fmt": "543.20M"
+            }
+          },
+          {
+            "dataId": 23030,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 920300000.0,
+              "fmt": "920.30M"
+            }
+          },
+          {
+            "dataId": 23030,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2216500000.0,
+              "fmt": "2.22B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "CBOE"
+          ],
+          "type": [
+            "annualAccountsPayable"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualAccountsPayable": [
+          {
+            "dataId": 23000,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 27500000.0,
+              "fmt": "27.50M"
+            }
+          },
+          {
+            "dataId": 23000,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 24700000.0,
+              "fmt": "24.70M"
+            }
+          },
+          {
+            "dataId": 23000,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 17900000.0,
+              "fmt": "17.90M"
+            }
+          },
+          {
+            "dataId": 23000,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 16100000.0,
+              "fmt": "16.10M"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "CBOE"
+          ],
+          "type": [
+            "annualTaxProvision"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualTaxProvision": [
+          {
+            "dataId": 20145,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 197900000.0,
+              "fmt": "197.90M"
+            }
+          },
+          {
+            "dataId": 20145,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 286200000.0,
+              "fmt": "286.20M"
+            }
+          },
+          {
+            "dataId": 20145,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 318900000.0,
+              "fmt": "318.90M"
+            }
+          },
+          {
+            "dataId": 20145,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 466600000.0,
+              "fmt": "466.60M"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "CBOE"
+          ],
+          "type": [
+            "annualBasicAverageShares"
+          ]
+        },
+        "timestamp": [
+          1640908800,
+          1672444800,
+          1703980800,
+          1735603200
+        ],
+        "annualBasicAverageShares": [
+          {
+            "dataId": 29010,
+            "asOfDate": "2021-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 107000000.0,
+              "fmt": "107.00M"
+            }
+          },
+          {
+            "dataId": 29010,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 106300000.0,
+              "fmt": "106.30M"
+            }
+          },
+          {
+            "dataId": 29010,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 105800000.0,
+              "fmt": "105.80M"
+            }
+          },
+          {
+            "dataId": 29010,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 105100000.0,
+              "fmt": "105.10M"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "CBOE"
+          ],
+          "type": [
+            "annualNetIncome"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualNetIncome": [
+          {
+            "dataId": 20091,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 235000000.0,
+              "fmt": "235.00M"
+            }
+          },
+          {
+            "dataId": 20091,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 761400000.0,
+              "fmt": "761.40M"
+            }
+          },
+          {
+            "dataId": 20091,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 764900000.0,
+              "fmt": "764.90M"
+            }
+          },
+          {
+            "dataId": 20091,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1100000000.0,
+              "fmt": "1.10B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "CBOE"
+          ],
+          "type": [
+            "annualDepreciationAndAmortization"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualDepreciationAndAmortization": [
+          {
+            "dataId": 26060,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 166800000.0,
+              "fmt": "166.80M"
+            }
+          },
+          {
+            "dataId": 26060,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 158000000.0,
+              "fmt": "158.00M"
+            }
+          },
+          {
+            "dataId": 26060,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 133000000.0,
+              "fmt": "133.00M"
+            }
+          },
+          {
+            "dataId": 26060,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 122400000.0,
+              "fmt": "122.40M"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "CBOE"
+          ],
+          "type": [
+            "annualAccountsReceivable"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualAccountsReceivable": [
+          {
+            "dataId": 23001,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 369800000.0,
+              "fmt": "369.80M"
+            }
+          },
+          {
+            "dataId": 23001,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 337300000.0,
+              "fmt": "337.30M"
+            }
+          },
+          {
+            "dataId": 23001,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 444600000.0,
+              "fmt": "444.60M"
+            }
+          },
+          {
+            "dataId": 23001,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 391400000.0,
+              "fmt": "391.40M"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "CBOE"
+          ],
+          "type": [
+            "annualTotalRevenue"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualTotalRevenue": [
+          {
+            "dataId": 20100,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3958500000.0,
+              "fmt": "3.96B"
+            }
+          },
+          {
+            "dataId": 20100,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3773500000.0,
+              "fmt": "3.77B"
+            }
+          },
+          {
+            "dataId": 20100,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4094500000.0,
+              "fmt": "4.09B"
+            }
+          },
+          {
+            "dataId": 20100,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4714200000.0,
+              "fmt": "4.71B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "CBOE"
+          ],
+          "type": [
+            "annualCurrentAssets"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualCurrentAssets": [
+          {
+            "dataId": 23044,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1556000000.0,
+              "fmt": "1.56B"
+            }
+          },
+          {
+            "dataId": 23044,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1979300000.0,
+              "fmt": "1.98B"
+            }
+          },
+          {
+            "dataId": 23044,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2479100000.0,
+              "fmt": "2.48B"
+            }
+          },
+          {
+            "dataId": 23044,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4421400000.0,
+              "fmt": "4.42B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "CBOE"
+          ],
+          "type": [
+            "annualInventory"
+          ]
+        }
+      }
+    ],
+    "error": null
+  }
+}

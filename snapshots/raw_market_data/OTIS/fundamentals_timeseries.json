@@ -1,0 +1,1203 @@
+{
+  "timeseries": {
+    "result": [
+      {
+        "meta": {
+          "symbol": [
+            "OTIS"
+          ],
+          "type": [
+            "annualCapitalExpenditure"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualCapitalExpenditure": [
+          {
+            "dataId": 26005,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -115000000.0,
+              "fmt": "-115.00M"
+            }
+          },
+          {
+            "dataId": 26005,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -138000000.0,
+              "fmt": "-138.00M"
+            }
+          },
+          {
+            "dataId": 26005,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -126000000.0,
+              "fmt": "-126.00M"
+            }
+          },
+          {
+            "dataId": 26005,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -152000000.0,
+              "fmt": "-152.00M"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "OTIS"
+          ],
+          "type": [
+            "annualTotalDebt"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualTotalDebt": [
+          {
+            "dataId": 23386,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 7210000000.0,
+              "fmt": "7.21B"
+            }
+          },
+          {
+            "dataId": 23386,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 7307000000.0,
+              "fmt": "7.31B"
+            }
+          },
+          {
+            "dataId": 23386,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 8742000000.0,
+              "fmt": "8.74B"
+            }
+          },
+          {
+            "dataId": 23386,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 8511000000.0,
+              "fmt": "8.51B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "OTIS"
+          ],
+          "type": [
+            "annualOperatingIncome"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualOperatingIncome": [
+          {
+            "dataId": 20109,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2071000000.0,
+              "fmt": "2.07B"
+            },
+            "businessSegmentData": [
+              {
+                "dataValue": -114000000.0,
+                "segmentType": "Business",
+                "segmentName": "General corporate expenses and other",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 358000000.0,
+                "segmentType": "Business",
+                "segmentName": "New Equipment",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -5000000.0,
+                "segmentType": "Business",
+                "segmentName": "Other restructuring",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 1789000000.0,
+                "segmentType": "Business",
+                "segmentName": "Service",
+                "isPrimarySegment": 1
+              },
+              {
+                "dataValue": -60000000.0,
+                "segmentType": "Business",
+                "segmentName": "UpLift restructuring",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -28000000.0,
+                "segmentType": "Business",
+                "segmentName": "UpLift transformation costs",
+                "isPrimarySegment": 0
+              }
+            ]
+          },
+          {
+            "dataId": 20109,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2247000000.0,
+              "fmt": "2.25B"
+            },
+            "businessSegmentData": [
+              {
+                "dataValue": -126000000.0,
+                "segmentType": "Business",
+                "segmentName": "General corporate expenses and other",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 381000000.0,
+                "segmentType": "Business",
+                "segmentName": "New Equipment",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -42000000.0,
+                "segmentType": "Business",
+                "segmentName": "Other restructuring",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 2014000000.0,
+                "segmentType": "Business",
+                "segmentName": "Service",
+                "isPrimarySegment": 1
+              },
+              {
+                "dataValue": -25000000.0,
+                "segmentType": "Business",
+                "segmentName": "UpLift restructuring",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -16000000.0,
+                "segmentType": "Business",
+                "segmentName": "UpLift transformation costs",
+                "isPrimarySegment": 0
+              }
+            ]
+          },
+          {
+            "dataId": 20109,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2051000000.0,
+              "fmt": "2.05B"
+            },
+            "businessSegmentData": [
+              {
+                "dataValue": -158000000.0,
+                "segmentType": "Business",
+                "segmentName": "General corporate expenses and other",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -18000000.0,
+                "segmentType": "Business",
+                "segmentName": "Held for sale impairment",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -18000000.0,
+                "segmentType": "Business",
+                "segmentName": "Litigation-related settlement costs",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 329000000.0,
+                "segmentType": "Business",
+                "segmentName": "New Equipment",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -40000000.0,
+                "segmentType": "Business",
+                "segmentName": "Other restructuring",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 1000000.0,
+                "segmentType": "Business",
+                "segmentName": "Other, net",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -177000000.0,
+                "segmentType": "Business",
+                "segmentName": "Separation-related adjustments",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 2185000000.0,
+                "segmentType": "Business",
+                "segmentName": "Service",
+                "isPrimarySegment": 1
+              },
+              {
+                "dataValue": -31000000.0,
+                "segmentType": "Business",
+                "segmentName": "UpLift restructuring",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -65000000.0,
+                "segmentType": "Business",
+                "segmentName": "UpLift transformation costs",
+                "isPrimarySegment": 0
+              }
+            ]
+          },
+          {
+            "dataId": 20109,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2219000000.0,
+              "fmt": "2.22B"
+            },
+            "businessSegmentData": [
+              {
+                "dataValue": -180000000.0,
+                "segmentType": "Business",
+                "segmentName": "General corporate expenses and other",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -10000000.0,
+                "segmentType": "Business",
+                "segmentName": "Held for sale impairment",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -21000000.0,
+                "segmentType": "Business",
+                "segmentName": "Litigation-related settlement costs",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 240000000.0,
+                "segmentType": "Business",
+                "segmentName": "New Equipment",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -54000000.0,
+                "segmentType": "Business",
+                "segmentName": "Other restructuring",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -1000000.0,
+                "segmentType": "Business",
+                "segmentName": "Other, net",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -70000000.0,
+                "segmentType": "Business",
+                "segmentName": "Separation-related adjustments",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 2374000000.0,
+                "segmentType": "Business",
+                "segmentName": "Service",
+                "isPrimarySegment": 1
+              },
+              {
+                "dataValue": -76000000.0,
+                "segmentType": "Business",
+                "segmentName": "UpLift restructuring",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -69000000.0,
+                "segmentType": "Business",
+                "segmentName": "UpLift transformation costs",
+                "isPrimarySegment": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "OTIS"
+          ],
+          "type": [
+            "annualPretaxIncome"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualPretaxIncome": [
+          {
+            "dataId": 20136,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1888000000.0,
+              "fmt": "1.89B"
+            }
+          },
+          {
+            "dataId": 20136,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2031000000.0,
+              "fmt": "2.03B"
+            }
+          },
+          {
+            "dataId": 20136,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2039000000.0,
+              "fmt": "2.04B"
+            }
+          },
+          {
+            "dataId": 20136,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1934000000.0,
+              "fmt": "1.93B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "OTIS"
+          ],
+          "type": [
+            "annualTaxProvision"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualTaxProvision": [
+          {
+            "dataId": 20145,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 519000000.0,
+              "fmt": "519.00M"
+            }
+          },
+          {
+            "dataId": 20145,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 533000000.0,
+              "fmt": "533.00M"
+            }
+          },
+          {
+            "dataId": 20145,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 305000000.0,
+              "fmt": "305.00M"
+            }
+          },
+          {
+            "dataId": 20145,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 479000000.0,
+              "fmt": "479.00M"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "OTIS"
+          ],
+          "type": [
+            "annualNetIncome"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualNetIncome": [
+          {
+            "dataId": 20091,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1253000000.0,
+              "fmt": "1.25B"
+            }
+          },
+          {
+            "dataId": 20091,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1406000000.0,
+              "fmt": "1.41B"
+            }
+          },
+          {
+            "dataId": 20091,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1645000000.0,
+              "fmt": "1.65B"
+            }
+          },
+          {
+            "dataId": 20091,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1384000000.0,
+              "fmt": "1.38B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "OTIS"
+          ],
+          "type": [
+            "annualBasicAverageShares"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualBasicAverageShares": [
+          {
+            "dataId": 29010,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 420000000.0,
+              "fmt": "420.00M"
+            }
+          },
+          {
+            "dataId": 29010,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 411400000.0,
+              "fmt": "411.40M"
+            }
+          },
+          {
+            "dataId": 29010,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 401700000.0,
+              "fmt": "401.70M"
+            }
+          },
+          {
+            "dataId": 29010,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 392800000.0,
+              "fmt": "392.80M"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "OTIS"
+          ],
+          "type": [
+            "annualTotalRevenue"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualTotalRevenue": [
+          {
+            "dataId": 20100,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 13685000000.0,
+              "fmt": "13.69B"
+            }
+          },
+          {
+            "dataId": 20100,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 14209000000.0,
+              "fmt": "14.21B"
+            }
+          },
+          {
+            "dataId": 20100,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 14261000000.0,
+              "fmt": "14.26B"
+            }
+          },
+          {
+            "dataId": 20100,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 14431000000.0,
+              "fmt": "14.43B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "OTIS"
+          ],
+          "type": [
+            "annualDepreciationAndAmortization"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualDepreciationAndAmortization": [
+          {
+            "dataId": 26060,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 191000000.0,
+              "fmt": "191.00M"
+            }
+          },
+          {
+            "dataId": 26060,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 193000000.0,
+              "fmt": "193.00M"
+            }
+          },
+          {
+            "dataId": 26060,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 181000000.0,
+              "fmt": "181.00M"
+            }
+          },
+          {
+            "dataId": 26060,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 175000000.0,
+              "fmt": "175.00M"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "OTIS"
+          ],
+          "type": [
+            "annualCurrentAssets"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualCurrentAssets": [
+          {
+            "dataId": 23044,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 6143000000.0,
+              "fmt": "6.14B"
+            }
+          },
+          {
+            "dataId": 23044,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 6400000000.0,
+              "fmt": "6.40B"
+            }
+          },
+          {
+            "dataId": 23044,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 7670000000.0,
+              "fmt": "7.67B"
+            }
+          },
+          {
+            "dataId": 23044,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 6501000000.0,
+              "fmt": "6.50B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "OTIS"
+          ],
+          "type": [
+            "annualAccountsReceivable"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualAccountsReceivable": [
+          {
+            "dataId": 23001,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3231000000.0,
+              "fmt": "3.23B"
+            }
+          },
+          {
+            "dataId": 23001,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3390000000.0,
+              "fmt": "3.39B"
+            }
+          },
+          {
+            "dataId": 23001,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3428000000.0,
+              "fmt": "3.43B"
+            }
+          },
+          {
+            "dataId": 23001,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3688000000.0,
+              "fmt": "3.69B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "OTIS"
+          ],
+          "type": [
+            "annualGrossProfit"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualGrossProfit": [
+          {
+            "dataId": 20046,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3920000000.0,
+              "fmt": "3.92B"
+            }
+          },
+          {
+            "dataId": 20046,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4193000000.0,
+              "fmt": "4.19B"
+            }
+          },
+          {
+            "dataId": 20046,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4257000000.0,
+              "fmt": "4.26B"
+            }
+          },
+          {
+            "dataId": 20046,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4370000000.0,
+              "fmt": "4.37B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "OTIS"
+          ],
+          "type": [
+            "annualInventory"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualInventory": [
+          {
+            "dataId": 23108,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 617000000.0,
+              "fmt": "617.00M"
+            }
+          },
+          {
+            "dataId": 23108,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 612000000.0,
+              "fmt": "612.00M"
+            }
+          },
+          {
+            "dataId": 23108,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 557000000.0,
+              "fmt": "557.00M"
+            }
+          },
+          {
+            "dataId": 23108,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 613000000.0,
+              "fmt": "613.00M"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "OTIS"
+          ],
+          "type": [
+            "annualCashAndCashEquivalents"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualCashAndCashEquivalents": [
+          {
+            "dataId": 23030,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1189000000.0,
+              "fmt": "1.19B"
+            }
+          },
+          {
+            "dataId": 23030,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1274000000.0,
+              "fmt": "1.27B"
+            }
+          },
+          {
+            "dataId": 23030,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2300000000.0,
+              "fmt": "2.30B"
+            }
+          },
+          {
+            "dataId": 23030,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1096000000.0,
+              "fmt": "1.10B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "OTIS"
+          ],
+          "type": [
+            "annualOperatingCashFlow"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualOperatingCashFlow": [
+          {
+            "dataId": 26014,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1560000000.0,
+              "fmt": "1.56B"
+            }
+          },
+          {
+            "dataId": 26014,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1627000000.0,
+              "fmt": "1.63B"
+            }
+          },
+          {
+            "dataId": 26014,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1563000000.0,
+              "fmt": "1.56B"
+            }
+          },
+          {
+            "dataId": 26014,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1596000000.0,
+              "fmt": "1.60B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "OTIS"
+          ],
+          "type": [
+            "annualCurrentLiabilities"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualCurrentLiabilities": [
+          {
+            "dataId": 23047,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 6843000000.0,
+              "fmt": "6.84B"
+            }
+          },
+          {
+            "dataId": 23047,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 6479000000.0,
+              "fmt": "6.48B"
+            }
+          },
+          {
+            "dataId": 23047,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 7749000000.0,
+              "fmt": "7.75B"
+            }
+          },
+          {
+            "dataId": 23047,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 7656000000.0,
+              "fmt": "7.66B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "OTIS"
+          ],
+          "type": [
+            "annualAccountsPayable"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualAccountsPayable": [
+          {
+            "dataId": 23000,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1717000000.0,
+              "fmt": "1.72B"
+            }
+          },
+          {
+            "dataId": 23000,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1878000000.0,
+              "fmt": "1.88B"
+            }
+          },
+          {
+            "dataId": 23000,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1879000000.0,
+              "fmt": "1.88B"
+            }
+          },
+          {
+            "dataId": 23000,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2142000000.0,
+              "fmt": "2.14B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "OTIS"
+          ],
+          "type": [
+            "annualInterestExpense"
+          ]
+        }
+      }
+    ],
+    "error": null
+  }
+}

@@ -1,0 +1,1179 @@
+{
+  "timeseries": {
+    "result": [
+      {
+        "meta": {
+          "symbol": [
+            "TJX"
+          ],
+          "type": [
+            "annualTotalDebt"
+          ]
+        },
+        "timestamp": [
+          1643587200,
+          1675123200,
+          1706659200,
+          1738281600
+        ],
+        "annualTotalDebt": [
+          {
+            "dataId": 23386,
+            "asOfDate": "2022-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 12508000000.0,
+              "fmt": "12.51B"
+            }
+          },
+          {
+            "dataId": 23386,
+            "asOfDate": "2023-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 12744000000.0,
+              "fmt": "12.74B"
+            }
+          },
+          {
+            "dataId": 23386,
+            "asOfDate": "2024-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 12542000000.0,
+              "fmt": "12.54B"
+            }
+          },
+          {
+            "dataId": 23386,
+            "asOfDate": "2025-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 12778000000.0,
+              "fmt": "12.78B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "TJX"
+          ],
+          "type": [
+            "annualPretaxIncome"
+          ]
+        },
+        "timestamp": [
+          1643587200,
+          1675123200,
+          1706659200,
+          1738281600
+        ],
+        "annualPretaxIncome": [
+          {
+            "dataId": 20136,
+            "asOfDate": "2022-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4398000000.0,
+              "fmt": "4.40B"
+            }
+          },
+          {
+            "dataId": 20136,
+            "asOfDate": "2023-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4636000000.0,
+              "fmt": "4.64B"
+            }
+          },
+          {
+            "dataId": 20136,
+            "asOfDate": "2024-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 5967000000.0,
+              "fmt": "5.97B"
+            }
+          },
+          {
+            "dataId": 20136,
+            "asOfDate": "2025-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 6483000000.0,
+              "fmt": "6.48B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "TJX"
+          ],
+          "type": [
+            "annualOperatingIncome"
+          ]
+        },
+        "timestamp": [
+          1643587200,
+          1675123200,
+          1706659200,
+          1738281600
+        ],
+        "annualOperatingIncome": [
+          {
+            "dataId": 20109,
+            "asOfDate": "2022-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4755000000.0,
+              "fmt": "4.75B"
+            },
+            "businessSegmentData": [
+              {
+                "dataValue": -611000000.0,
+                "segmentType": "Business",
+                "segmentName": "General corporate expense",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 907000000.0,
+                "segmentType": "Business",
+                "segmentName": "HomeGoods",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 3813000000.0,
+                "segmentType": "Business",
+                "segmentName": "Marmaxx",
+                "isPrimarySegment": 1
+              },
+              {
+                "dataValue": 485000000.0,
+                "segmentType": "Business",
+                "segmentName": "TJX Canada",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 161000000.0,
+                "segmentType": "Business",
+                "segmentName": "TJX International",
+                "isPrimarySegment": 0
+              }
+            ]
+          },
+          {
+            "dataId": 20109,
+            "asOfDate": "2023-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4860000000.0,
+              "fmt": "4.86B"
+            },
+            "businessSegmentData": [
+              {
+                "dataValue": -582000000.0,
+                "segmentType": "Business",
+                "segmentName": "General corporate expense",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 522000000.0,
+                "segmentType": "Business",
+                "segmentName": "HomeGoods",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 3883000000.0,
+                "segmentType": "Business",
+                "segmentName": "Marmaxx",
+                "isPrimarySegment": 1
+              },
+              {
+                "dataValue": 690000000.0,
+                "segmentType": "Business",
+                "segmentName": "TJX Canada",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 347000000.0,
+                "segmentType": "Business",
+                "segmentName": "TJX International",
+                "isPrimarySegment": 0
+              }
+            ]
+          },
+          {
+            "dataId": 20109,
+            "asOfDate": "2024-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 5797000000.0,
+              "fmt": "5.80B"
+            },
+            "businessSegmentData": [
+              {
+                "dataValue": -708000000.0,
+                "segmentType": "Business",
+                "segmentName": "General corporate expense",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 861000000.0,
+                "segmentType": "Business",
+                "segmentName": "HomeGoods",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 4597000000.0,
+                "segmentType": "Business",
+                "segmentName": "Marmaxx",
+                "isPrimarySegment": 1
+              },
+              {
+                "dataValue": 715000000.0,
+                "segmentType": "Business",
+                "segmentName": "TJX Canada",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 332000000.0,
+                "segmentType": "Business",
+                "segmentName": "TJX International",
+                "isPrimarySegment": 0
+              }
+            ]
+          },
+          {
+            "dataId": 20109,
+            "asOfDate": "2025-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 6302000000.0,
+              "fmt": "6.30B"
+            },
+            "businessSegmentData": [
+              {
+                "dataValue": -739000000.0,
+                "segmentType": "Business",
+                "segmentName": "General corporate expense",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 1021000000.0,
+                "segmentType": "Business",
+                "segmentName": "HomeGoods",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 4895000000.0,
+                "segmentType": "Business",
+                "segmentName": "Marmaxx",
+                "isPrimarySegment": 1
+              },
+              {
+                "dataValue": 703000000.0,
+                "segmentType": "Business",
+                "segmentName": "TJX Canada",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 422000000.0,
+                "segmentType": "Business",
+                "segmentName": "TJX International",
+                "isPrimarySegment": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "TJX"
+          ],
+          "type": [
+            "annualCapitalExpenditure"
+          ]
+        },
+        "timestamp": [
+          1643587200,
+          1675123200,
+          1706659200,
+          1738281600
+        ],
+        "annualCapitalExpenditure": [
+          {
+            "dataId": 26005,
+            "asOfDate": "2022-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -1045000000.0,
+              "fmt": "-1.04B"
+            }
+          },
+          {
+            "dataId": 26005,
+            "asOfDate": "2023-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -1457000000.0,
+              "fmt": "-1.46B"
+            }
+          },
+          {
+            "dataId": 26005,
+            "asOfDate": "2024-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -1722000000.0,
+              "fmt": "-1.72B"
+            }
+          },
+          {
+            "dataId": 26005,
+            "asOfDate": "2025-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -1918000000.0,
+              "fmt": "-1.92B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "TJX"
+          ],
+          "type": [
+            "annualInterestExpense"
+          ]
+        },
+        "timestamp": [
+          1643587200,
+          1675123200,
+          1706659200,
+          1738281600
+        ],
+        "annualInterestExpense": [
+          {
+            "dataId": 20057,
+            "asOfDate": "2022-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 119000000.0,
+              "fmt": "119.00M"
+            }
+          },
+          {
+            "dataId": 20057,
+            "asOfDate": "2023-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 84000000.0,
+              "fmt": "84.00M"
+            }
+          },
+          {
+            "dataId": 20057,
+            "asOfDate": "2024-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 79000000.0,
+              "fmt": "79.00M"
+            }
+          },
+          {
+            "dataId": 20057,
+            "asOfDate": "2025-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 76000000.0,
+              "fmt": "76.00M"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "TJX"
+          ],
+          "type": [
+            "annualTaxProvision"
+          ]
+        },
+        "timestamp": [
+          1643587200,
+          1675123200,
+          1706659200,
+          1738281600
+        ],
+        "annualTaxProvision": [
+          {
+            "dataId": 20145,
+            "asOfDate": "2022-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1115000000.0,
+              "fmt": "1.11B"
+            }
+          },
+          {
+            "dataId": 20145,
+            "asOfDate": "2023-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1138000000.0,
+              "fmt": "1.14B"
+            }
+          },
+          {
+            "dataId": 20145,
+            "asOfDate": "2024-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1493000000.0,
+              "fmt": "1.49B"
+            }
+          },
+          {
+            "dataId": 20145,
+            "asOfDate": "2025-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1619000000.0,
+              "fmt": "1.62B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "TJX"
+          ],
+          "type": [
+            "annualCurrentAssets"
+          ]
+        },
+        "timestamp": [
+          1643587200,
+          1675123200,
+          1706659200,
+          1738281600
+        ],
+        "annualCurrentAssets": [
+          {
+            "dataId": 23044,
+            "asOfDate": "2022-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 13259000000.0,
+              "fmt": "13.26B"
+            }
+          },
+          {
+            "dataId": 23044,
+            "asOfDate": "2023-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 12456000000.0,
+              "fmt": "12.46B"
+            }
+          },
+          {
+            "dataId": 23044,
+            "asOfDate": "2024-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 12664000000.0,
+              "fmt": "12.66B"
+            }
+          },
+          {
+            "dataId": 23044,
+            "asOfDate": "2025-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 12991000000.0,
+              "fmt": "12.99B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "TJX"
+          ],
+          "type": [
+            "annualDepreciationAndAmortization"
+          ]
+        },
+        "timestamp": [
+          1643587200,
+          1675123200,
+          1706659200,
+          1738281600
+        ],
+        "annualDepreciationAndAmortization": [
+          {
+            "dataId": 26060,
+            "asOfDate": "2022-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 868000000.0,
+              "fmt": "868.00M"
+            }
+          },
+          {
+            "dataId": 26060,
+            "asOfDate": "2023-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 887000000.0,
+              "fmt": "887.00M"
+            }
+          },
+          {
+            "dataId": 26060,
+            "asOfDate": "2024-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 964000000.0,
+              "fmt": "964.00M"
+            }
+          },
+          {
+            "dataId": 26060,
+            "asOfDate": "2025-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1104000000.0,
+              "fmt": "1.10B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "TJX"
+          ],
+          "type": [
+            "annualTotalRevenue"
+          ]
+        },
+        "timestamp": [
+          1643587200,
+          1675123200,
+          1706659200,
+          1738281600
+        ],
+        "annualTotalRevenue": [
+          {
+            "dataId": 20100,
+            "asOfDate": "2022-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 48550000000.0,
+              "fmt": "48.55B"
+            }
+          },
+          {
+            "dataId": 20100,
+            "asOfDate": "2023-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 49936000000.0,
+              "fmt": "49.94B"
+            }
+          },
+          {
+            "dataId": 20100,
+            "asOfDate": "2024-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 54217000000.0,
+              "fmt": "54.22B"
+            }
+          },
+          {
+            "dataId": 20100,
+            "asOfDate": "2025-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 56360000000.0,
+              "fmt": "56.36B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "TJX"
+          ],
+          "type": [
+            "annualBasicAverageShares"
+          ]
+        },
+        "timestamp": [
+          1675123200,
+          1706659200,
+          1738281600,
+          1769817600
+        ],
+        "annualBasicAverageShares": [
+          {
+            "dataId": 29010,
+            "asOfDate": "2023-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1155437908.0,
+              "fmt": "1.16B"
+            }
+          },
+          {
+            "dataId": 29010,
+            "asOfDate": "2024-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1133586545.0,
+              "fmt": "1.13B"
+            }
+          },
+          {
+            "dataId": 29010,
+            "asOfDate": "2025-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1119333622.0,
+              "fmt": "1.12B"
+            }
+          },
+          {
+            "dataId": 29010,
+            "asOfDate": "2026-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1110467095.0,
+              "fmt": "1.11B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "TJX"
+          ],
+          "type": [
+            "annualAccountsReceivable"
+          ]
+        },
+        "timestamp": [
+          1643587200,
+          1675123200,
+          1706659200,
+          1738281600
+        ],
+        "annualAccountsReceivable": [
+          {
+            "dataId": 23001,
+            "asOfDate": "2022-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 518000000.0,
+              "fmt": "518.00M"
+            }
+          },
+          {
+            "dataId": 23001,
+            "asOfDate": "2023-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 563000000.0,
+              "fmt": "563.00M"
+            }
+          },
+          {
+            "dataId": 23001,
+            "asOfDate": "2024-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 529000000.0,
+              "fmt": "529.00M"
+            }
+          },
+          {
+            "dataId": 23001,
+            "asOfDate": "2025-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 549000000.0,
+              "fmt": "549.00M"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "TJX"
+          ],
+          "type": [
+            "annualOperatingCashFlow"
+          ]
+        },
+        "timestamp": [
+          1643587200,
+          1675123200,
+          1706659200,
+          1738281600
+        ],
+        "annualOperatingCashFlow": [
+          {
+            "dataId": 26014,
+            "asOfDate": "2022-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3057000000.0,
+              "fmt": "3.06B"
+            }
+          },
+          {
+            "dataId": 26014,
+            "asOfDate": "2023-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4084000000.0,
+              "fmt": "4.08B"
+            }
+          },
+          {
+            "dataId": 26014,
+            "asOfDate": "2024-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 6057000000.0,
+              "fmt": "6.06B"
+            }
+          },
+          {
+            "dataId": 26014,
+            "asOfDate": "2025-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 6116000000.0,
+              "fmt": "6.12B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "TJX"
+          ],
+          "type": [
+            "annualGrossProfit"
+          ]
+        },
+        "timestamp": [
+          1643587200,
+          1675123200,
+          1706659200,
+          1738281600
+        ],
+        "annualGrossProfit": [
+          {
+            "dataId": 20046,
+            "asOfDate": "2022-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 13836000000.0,
+              "fmt": "13.84B"
+            }
+          },
+          {
+            "dataId": 20046,
+            "asOfDate": "2023-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 13787000000.0,
+              "fmt": "13.79B"
+            }
+          },
+          {
+            "dataId": 20046,
+            "asOfDate": "2024-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 16266000000.0,
+              "fmt": "16.27B"
+            }
+          },
+          {
+            "dataId": 20046,
+            "asOfDate": "2025-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 17248000000.0,
+              "fmt": "17.25B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "TJX"
+          ],
+          "type": [
+            "annualAccountsPayable"
+          ]
+        },
+        "timestamp": [
+          1643587200,
+          1675123200,
+          1706659200,
+          1738281600
+        ],
+        "annualAccountsPayable": [
+          {
+            "dataId": 23000,
+            "asOfDate": "2022-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4465000000.0,
+              "fmt": "4.46B"
+            }
+          },
+          {
+            "dataId": 23000,
+            "asOfDate": "2023-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3794000000.0,
+              "fmt": "3.79B"
+            }
+          },
+          {
+            "dataId": 23000,
+            "asOfDate": "2024-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3862000000.0,
+              "fmt": "3.86B"
+            }
+          },
+          {
+            "dataId": 23000,
+            "asOfDate": "2025-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4257000000.0,
+              "fmt": "4.26B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "TJX"
+          ],
+          "type": [
+            "annualNetIncome"
+          ]
+        },
+        "timestamp": [
+          1643587200,
+          1675123200,
+          1706659200,
+          1738281600
+        ],
+        "annualNetIncome": [
+          {
+            "dataId": 20091,
+            "asOfDate": "2022-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3283000000.0,
+              "fmt": "3.28B"
+            }
+          },
+          {
+            "dataId": 20091,
+            "asOfDate": "2023-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3498000000.0,
+              "fmt": "3.50B"
+            }
+          },
+          {
+            "dataId": 20091,
+            "asOfDate": "2024-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4474000000.0,
+              "fmt": "4.47B"
+            }
+          },
+          {
+            "dataId": 20091,
+            "asOfDate": "2025-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4864000000.0,
+              "fmt": "4.86B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "TJX"
+          ],
+          "type": [
+            "annualCashAndCashEquivalents"
+          ]
+        },
+        "timestamp": [
+          1643587200,
+          1675123200,
+          1706659200,
+          1738281600
+        ],
+        "annualCashAndCashEquivalents": [
+          {
+            "dataId": 23030,
+            "asOfDate": "2022-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 6227000000.0,
+              "fmt": "6.23B"
+            }
+          },
+          {
+            "dataId": 23030,
+            "asOfDate": "2023-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 5477000000.0,
+              "fmt": "5.48B"
+            }
+          },
+          {
+            "dataId": 23030,
+            "asOfDate": "2024-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 5600000000.0,
+              "fmt": "5.60B"
+            }
+          },
+          {
+            "dataId": 23030,
+            "asOfDate": "2025-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 5335000000.0,
+              "fmt": "5.33B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "TJX"
+          ],
+          "type": [
+            "annualInventory"
+          ]
+        },
+        "timestamp": [
+          1643587200,
+          1675123200,
+          1706659200,
+          1738281600
+        ],
+        "annualInventory": [
+          {
+            "dataId": 23108,
+            "asOfDate": "2022-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 5962000000.0,
+              "fmt": "5.96B"
+            }
+          },
+          {
+            "dataId": 23108,
+            "asOfDate": "2023-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 5819000000.0,
+              "fmt": "5.82B"
+            }
+          },
+          {
+            "dataId": 23108,
+            "asOfDate": "2024-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 5965000000.0,
+              "fmt": "5.96B"
+            }
+          },
+          {
+            "dataId": 23108,
+            "asOfDate": "2025-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 6421000000.0,
+              "fmt": "6.42B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "TJX"
+          ],
+          "type": [
+            "annualCurrentLiabilities"
+          ]
+        },
+        "timestamp": [
+          1643587200,
+          1675123200,
+          1706659200,
+          1738281600
+        ],
+        "annualCurrentLiabilities": [
+          {
+            "dataId": 23047,
+            "asOfDate": "2022-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 10468000000.0,
+              "fmt": "10.47B"
+            }
+          },
+          {
+            "dataId": 23047,
+            "asOfDate": "2023-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 10305000000.0,
+              "fmt": "10.30B"
+            }
+          },
+          {
+            "dataId": 23047,
+            "asOfDate": "2024-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 10451000000.0,
+              "fmt": "10.45B"
+            }
+          },
+          {
+            "dataId": 23047,
+            "asOfDate": "2025-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 11008000000.0,
+              "fmt": "11.01B"
+            }
+          }
+        ]
+      }
+    ],
+    "error": null
+  }
+}

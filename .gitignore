@@ -1,0 +1,17 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+
+output/
+frontend/node_modules/
+frontend/build_error.txt
+frontend/err.txt
+frontend/debug_build.js
+
+.DS_Store
+Thumbs.db

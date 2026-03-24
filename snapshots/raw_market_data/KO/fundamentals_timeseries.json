@@ -1,0 +1,1345 @@
+{
+  "timeseries": {
+    "result": [
+      {
+        "meta": {
+          "symbol": [
+            "KO"
+          ],
+          "type": [
+            "annualTaxProvision"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualTaxProvision": [
+          {
+            "dataId": 20145,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2115000000.0,
+              "fmt": "2.12B"
+            }
+          },
+          {
+            "dataId": 20145,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2249000000.0,
+              "fmt": "2.25B"
+            }
+          },
+          {
+            "dataId": 20145,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2437000000.0,
+              "fmt": "2.44B"
+            }
+          },
+          {
+            "dataId": 20145,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2861000000.0,
+              "fmt": "2.86B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "KO"
+          ],
+          "type": [
+            "annualNetIncome"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualNetIncome": [
+          {
+            "dataId": 20091,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 9542000000.0,
+              "fmt": "9.54B"
+            }
+          },
+          {
+            "dataId": 20091,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 10714000000.0,
+              "fmt": "10.71B"
+            }
+          },
+          {
+            "dataId": 20091,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 10631000000.0,
+              "fmt": "10.63B"
+            }
+          },
+          {
+            "dataId": 20091,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 13107000000.0,
+              "fmt": "13.11B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "KO"
+          ],
+          "type": [
+            "annualDepreciationAndAmortization"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualDepreciationAndAmortization": [
+          {
+            "dataId": 26060,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1260000000.0,
+              "fmt": "1.26B"
+            }
+          },
+          {
+            "dataId": 26060,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1128000000.0,
+              "fmt": "1.13B"
+            }
+          },
+          {
+            "dataId": 26060,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1075000000.0,
+              "fmt": "1.07B"
+            }
+          },
+          {
+            "dataId": 26060,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1050000000.0,
+              "fmt": "1.05B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "KO"
+          ],
+          "type": [
+            "annualOperatingCashFlow"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualOperatingCashFlow": [
+          {
+            "dataId": 26014,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 11018000000.0,
+              "fmt": "11.02B"
+            }
+          },
+          {
+            "dataId": 26014,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 11599000000.0,
+              "fmt": "11.60B"
+            }
+          },
+          {
+            "dataId": 26014,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 6805000000.0,
+              "fmt": "6.80B"
+            }
+          },
+          {
+            "dataId": 26014,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 7408000000.0,
+              "fmt": "7.41B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "KO"
+          ],
+          "type": [
+            "annualInventory"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualInventory": [
+          {
+            "dataId": 23108,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4233000000.0,
+              "fmt": "4.23B"
+            }
+          },
+          {
+            "dataId": 23108,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4424000000.0,
+              "fmt": "4.42B"
+            }
+          },
+          {
+            "dataId": 23108,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4728000000.0,
+              "fmt": "4.73B"
+            }
+          },
+          {
+            "dataId": 23108,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4425000000.0,
+              "fmt": "4.42B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "KO"
+          ],
+          "type": [
+            "annualCapitalExpenditure"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualCapitalExpenditure": [
+          {
+            "dataId": 26005,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -1484000000.0,
+              "fmt": "-1.48B"
+            }
+          },
+          {
+            "dataId": 26005,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -1852000000.0,
+              "fmt": "-1.85B"
+            }
+          },
+          {
+            "dataId": 26005,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -2064000000.0,
+              "fmt": "-2.06B"
+            }
+          },
+          {
+            "dataId": 26005,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -2112000000.0,
+              "fmt": "-2.11B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "KO"
+          ],
+          "type": [
+            "annualTotalDebt"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualTotalDebt": [
+          {
+            "dataId": 23386,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 39149000000.0,
+              "fmt": "39.15B"
+            }
+          },
+          {
+            "dataId": 23386,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 42064000000.0,
+              "fmt": "42.06B"
+            }
+          },
+          {
+            "dataId": 23386,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 44522000000.0,
+              "fmt": "44.52B"
+            }
+          },
+          {
+            "dataId": 23386,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 45492000000.0,
+              "fmt": "45.49B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "KO"
+          ],
+          "type": [
+            "annualPretaxIncome"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualPretaxIncome": [
+          {
+            "dataId": 20136,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 11686000000.0,
+              "fmt": "11.69B"
+            }
+          },
+          {
+            "dataId": 20136,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 12952000000.0,
+              "fmt": "12.95B"
+            }
+          },
+          {
+            "dataId": 20136,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 13086000000.0,
+              "fmt": "13.09B"
+            }
+          },
+          {
+            "dataId": 20136,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 15998000000.0,
+              "fmt": "16.00B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "KO"
+          ],
+          "type": [
+            "annualCurrentLiabilities"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualCurrentLiabilities": [
+          {
+            "dataId": 23047,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 19724000000.0,
+              "fmt": "19.72B"
+            }
+          },
+          {
+            "dataId": 23047,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 23571000000.0,
+              "fmt": "23.57B"
+            }
+          },
+          {
+            "dataId": 23047,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 25249000000.0,
+              "fmt": "25.25B"
+            }
+          },
+          {
+            "dataId": 23047,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 21281000000.0,
+              "fmt": "21.28B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "KO"
+          ],
+          "type": [
+            "annualInterestExpense"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualInterestExpense": [
+          {
+            "dataId": 20057,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 882000000.0,
+              "fmt": "882.00M"
+            }
+          },
+          {
+            "dataId": 20057,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1527000000.0,
+              "fmt": "1.53B"
+            }
+          },
+          {
+            "dataId": 20057,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1656000000.0,
+              "fmt": "1.66B"
+            }
+          },
+          {
+            "dataId": 20057,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1654000000.0,
+              "fmt": "1.65B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "KO"
+          ],
+          "type": [
+            "annualCashAndCashEquivalents"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualCashAndCashEquivalents": [
+          {
+            "dataId": 23030,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 9519000000.0,
+              "fmt": "9.52B"
+            }
+          },
+          {
+            "dataId": 23030,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 9366000000.0,
+              "fmt": "9.37B"
+            }
+          },
+          {
+            "dataId": 23030,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 10828000000.0,
+              "fmt": "10.83B"
+            }
+          },
+          {
+            "dataId": 23030,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 10270000000.0,
+              "fmt": "10.27B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "KO"
+          ],
+          "type": [
+            "annualBasicAverageShares"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualBasicAverageShares": [
+          {
+            "dataId": 29010,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4328000000.0,
+              "fmt": "4.33B"
+            }
+          },
+          {
+            "dataId": 29010,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4323000000.0,
+              "fmt": "4.32B"
+            }
+          },
+          {
+            "dataId": 29010,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4309000000.0,
+              "fmt": "4.31B"
+            }
+          },
+          {
+            "dataId": 29010,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4303000000.0,
+              "fmt": "4.30B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "KO"
+          ],
+          "type": [
+            "annualAccountsPayable"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualAccountsPayable": [
+          {
+            "dataId": 23000,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 5307000000.0,
+              "fmt": "5.31B"
+            }
+          },
+          {
+            "dataId": 23000,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 5590000000.0,
+              "fmt": "5.59B"
+            }
+          },
+          {
+            "dataId": 23000,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 5468000000.0,
+              "fmt": "5.47B"
+            }
+          },
+          {
+            "dataId": 23000,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 5649000000.0,
+              "fmt": "5.65B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "KO"
+          ],
+          "type": [
+            "annualGrossProfit"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualGrossProfit": [
+          {
+            "dataId": 20046,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 25004000000.0,
+              "fmt": "25.00B"
+            }
+          },
+          {
+            "dataId": 20046,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 27234000000.0,
+              "fmt": "27.23B"
+            }
+          },
+          {
+            "dataId": 20046,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 28737000000.0,
+              "fmt": "28.74B"
+            }
+          },
+          {
+            "dataId": 20046,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 29544000000.0,
+              "fmt": "29.54B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "KO"
+          ],
+          "type": [
+            "annualOperatingIncome"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualOperatingIncome": [
+          {
+            "dataId": 20109,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 12042000000.0,
+              "fmt": "12.04B"
+            },
+            "businessSegmentData": [
+              {
+                "dataValue": 2303000000.0,
+                "segmentType": "Business",
+                "segmentName": "Asia Pacific",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 487000000.0,
+                "segmentType": "Business",
+                "segmentName": "Bottling Investments",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -2636000000.0,
+                "segmentType": "Business",
+                "segmentName": "Corporate",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 0.0,
+                "segmentType": "Business",
+                "segmentName": "Eliminations",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 3958000000.0,
+                "segmentType": "Business",
+                "segmentName": "Europe, Middle East & Africa",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 185000000.0,
+                "segmentType": "Business",
+                "segmentName": "Global Ventures",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 2870000000.0,
+                "segmentType": "Business",
+                "segmentName": "Latin America",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 3742000000.0,
+                "segmentType": "Business",
+                "segmentName": "North America",
+                "isPrimarySegment": 1
+              }
+            ],
+            "geographicSegmentData": [
+              {
+                "dataValue": 2303000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Asia Pacific",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 487000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Bottling Investments",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -2636000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Corporate",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 3958000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Europe, Middle East & Africa",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 185000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Global Ventures",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 2870000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Latin America",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 3742000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "North America",
+                "isPrimarySegment": 1
+              }
+            ]
+          },
+          {
+            "dataId": 20109,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 13098000000.0,
+              "fmt": "13.10B"
+            },
+            "businessSegmentData": [
+              {
+                "dataValue": 2040000000.0,
+                "segmentType": "Business",
+                "segmentName": "Asia Pacific",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 578000000.0,
+                "segmentType": "Business",
+                "segmentName": "Bottling Investments",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -3705000000.0,
+                "segmentType": "Business",
+                "segmentName": "Corporate",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 0.0,
+                "segmentType": "Business",
+                "segmentName": "Eliminations",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 4202000000.0,
+                "segmentType": "Business",
+                "segmentName": "Europe, Middle East & Africa",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 4202000000.0,
+                "segmentType": "Business",
+                "segmentName": "Europe, Middle East & Africa (EMEA)",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 329000000.0,
+                "segmentType": "Business",
+                "segmentName": "Global Ventures",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 3432000000.0,
+                "segmentType": "Business",
+                "segmentName": "Latin America",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 4435000000.0,
+                "segmentType": "Business",
+                "segmentName": "North America",
+                "isPrimarySegment": 1
+              }
+            ],
+            "geographicSegmentData": [
+              {
+                "dataValue": 2040000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Asia Pacific",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 578000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Bottling Investments",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -3705000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Corporate",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 0.0,
+                "segmentType": "Geographic",
+                "segmentName": "Eliminations",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 4202000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Europe, Middle East & Africa",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 329000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Global Ventures",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 3432000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Latin America",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 4435000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "North America",
+                "isPrimarySegment": 1
+              }
+            ]
+          },
+          {
+            "dataId": 20109,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 14022000000.0,
+              "fmt": "14.02B"
+            },
+            "businessSegmentData": [
+              {
+                "dataValue": 2148000000.0,
+                "segmentType": "Business",
+                "segmentName": "Asia Pacific",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 496000000.0,
+                "segmentType": "Business",
+                "segmentName": "Bottling Investments",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -5252000000.0,
+                "segmentType": "Business",
+                "segmentName": "Corporate",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 0.0,
+                "segmentType": "Business",
+                "segmentName": "Eliminations",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 4125000000.0,
+                "segmentType": "Business",
+                "segmentName": "Europe, Middle East & Africa",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 359000000.0,
+                "segmentType": "Business",
+                "segmentName": "Global Ventures",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 3780000000.0,
+                "segmentType": "Business",
+                "segmentName": "Latin America",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 4336000000.0,
+                "segmentType": "Business",
+                "segmentName": "North America",
+                "isPrimarySegment": 1
+              }
+            ]
+          },
+          {
+            "dataId": 20109,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 14911000000.0,
+              "fmt": "14.91B"
+            },
+            "businessSegmentData": [
+              {
+                "dataValue": 2042000000.0,
+                "segmentType": "Business",
+                "segmentName": "Asia Pacific",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 426000000.0,
+                "segmentType": "Business",
+                "segmentName": "Bottling Investments",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -1816000000.0,
+                "segmentType": "Business",
+                "segmentName": "Corporate",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 0.0,
+                "segmentType": "Business",
+                "segmentName": "Eliminations",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 4298000000.0,
+                "segmentType": "Business",
+                "segmentName": "Europe, Middle East & Africa (EMEA)",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 3742000000.0,
+                "segmentType": "Business",
+                "segmentName": "Latin America",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 5070000000.0,
+                "segmentType": "Business",
+                "segmentName": "North America",
+                "isPrimarySegment": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "KO"
+          ],
+          "type": [
+            "annualAccountsReceivable"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualAccountsReceivable": [
+          {
+            "dataId": 23001,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3487000000.0,
+              "fmt": "3.49B"
+            }
+          },
+          {
+            "dataId": 23001,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3410000000.0,
+              "fmt": "3.41B"
+            }
+          },
+          {
+            "dataId": 23001,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3569000000.0,
+              "fmt": "3.57B"
+            }
+          },
+          {
+            "dataId": 23001,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3038000000.0,
+              "fmt": "3.04B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "KO"
+          ],
+          "type": [
+            "annualTotalRevenue"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualTotalRevenue": [
+          {
+            "dataId": 20100,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 43004000000.0,
+              "fmt": "43.00B"
+            }
+          },
+          {
+            "dataId": 20100,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 45754000000.0,
+              "fmt": "45.75B"
+            }
+          },
+          {
+            "dataId": 20100,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 47061000000.0,
+              "fmt": "47.06B"
+            }
+          },
+          {
+            "dataId": 20100,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 47941000000.0,
+              "fmt": "47.94B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "KO"
+          ],
+          "type": [
+            "annualCurrentAssets"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualCurrentAssets": [
+          {
+            "dataId": 23044,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 22591000000.0,
+              "fmt": "22.59B"
+            }
+          },
+          {
+            "dataId": 23044,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 26732000000.0,
+              "fmt": "26.73B"
+            }
+          },
+          {
+            "dataId": 23044,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 25997000000.0,
+              "fmt": "26.00B"
+            }
+          },
+          {
+            "dataId": 23044,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 31044000000.0,
+              "fmt": "31.04B"
+            }
+          }
+        ]
+      }
+    ],
+    "error": null
+  }
+}

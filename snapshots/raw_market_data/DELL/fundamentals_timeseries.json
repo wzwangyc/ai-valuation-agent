@@ -1,0 +1,1251 @@
+{
+  "timeseries": {
+    "result": [
+      {
+        "meta": {
+          "symbol": [
+            "DELL"
+          ],
+          "type": [
+            "annualCurrentLiabilities"
+          ]
+        },
+        "timestamp": [
+          1675123200,
+          1706659200,
+          1738281600,
+          1769817600
+        ],
+        "annualCurrentLiabilities": [
+          {
+            "dataId": 23047,
+            "asOfDate": "2023-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 51654000000.0,
+              "fmt": "51.65B"
+            }
+          },
+          {
+            "dataId": 23047,
+            "asOfDate": "2024-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 48354000000.0,
+              "fmt": "48.35B"
+            }
+          },
+          {
+            "dataId": 23047,
+            "asOfDate": "2025-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 46527000000.0,
+              "fmt": "46.53B"
+            }
+          },
+          {
+            "dataId": 23047,
+            "asOfDate": "2026-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 63269000000.0,
+              "fmt": "63.27B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "DELL"
+          ],
+          "type": [
+            "annualBasicAverageShares"
+          ]
+        },
+        "timestamp": [
+          1675123200,
+          1706659200,
+          1738281600,
+          1769817600
+        ],
+        "annualBasicAverageShares": [
+          {
+            "dataId": 29010,
+            "asOfDate": "2023-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 734000000.0,
+              "fmt": "734.00M"
+            }
+          },
+          {
+            "dataId": 29010,
+            "asOfDate": "2024-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 720000000.0,
+              "fmt": "720.00M"
+            }
+          },
+          {
+            "dataId": 29010,
+            "asOfDate": "2025-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 705000000.0,
+              "fmt": "705.00M"
+            }
+          },
+          {
+            "dataId": 29010,
+            "asOfDate": "2026-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 662689605.0,
+              "fmt": "662.69M"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "DELL"
+          ],
+          "type": [
+            "annualPretaxIncome"
+          ]
+        },
+        "timestamp": [
+          1675123200,
+          1706659200,
+          1738281600,
+          1769817600
+        ],
+        "annualPretaxIncome": [
+          {
+            "dataId": 20136,
+            "asOfDate": "2023-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3225000000.0,
+              "fmt": "3.23B"
+            }
+          },
+          {
+            "dataId": 20136,
+            "asOfDate": "2024-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4087000000.0,
+              "fmt": "4.09B"
+            }
+          },
+          {
+            "dataId": 20136,
+            "asOfDate": "2025-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 5048000000.0,
+              "fmt": "5.05B"
+            }
+          },
+          {
+            "dataId": 20136,
+            "asOfDate": "2026-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 7263000000.0,
+              "fmt": "7.26B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "DELL"
+          ],
+          "type": [
+            "annualOperatingIncome"
+          ]
+        },
+        "timestamp": [
+          1675123200,
+          1706659200,
+          1738281600,
+          1769817600
+        ],
+        "annualOperatingIncome": [
+          {
+            "dataId": 20109,
+            "asOfDate": "2023-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 5771000000.0,
+              "fmt": "5.77B"
+            },
+            "businessSegmentData": [
+              {
+                "dataValue": -1014000000.0,
+                "segmentType": "Business",
+                "segmentName": "Amortization of intangibles",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 3824000000.0,
+                "segmentType": "Business",
+                "segmentName": "Client Solutions Group",
+                "isPrimarySegment": 1
+              },
+              {
+                "dataValue": -232000000.0,
+                "segmentType": "Business",
+                "segmentName": "Corporate and other",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -44000000.0,
+                "segmentType": "Business",
+                "segmentName": "Impact of purchase accounting",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 5045000000.0,
+                "segmentType": "Business",
+                "segmentName": "Infrastructure Solutions Group",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -240000000.0,
+                "segmentType": "Business",
+                "segmentName": "Other businesses",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -921000000.0,
+                "segmentType": "Business",
+                "segmentName": "Other corporate expenses",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -931000000.0,
+                "segmentType": "Business",
+                "segmentName": "Stock-based compensation expense",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -22000000.0,
+                "segmentType": "Business",
+                "segmentName": "Transaction-related expenses",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 8000000.0,
+                "segmentType": "Business",
+                "segmentName": "Unallocated transactions",
+                "isPrimarySegment": 0
+              }
+            ]
+          },
+          {
+            "dataId": 20109,
+            "asOfDate": "2024-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 5933000000.0,
+              "fmt": "5.93B"
+            },
+            "businessSegmentData": [
+              {
+                "dataValue": -833000000.0,
+                "segmentType": "Business",
+                "segmentName": "Amortization of intangibles",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 3712000000.0,
+                "segmentType": "Business",
+                "segmentName": "Client Solutions Group",
+                "isPrimarySegment": 1
+              },
+              {
+                "dataValue": -120000000.0,
+                "segmentType": "Business",
+                "segmentName": "Corporate and other",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -14000000.0,
+                "segmentType": "Business",
+                "segmentName": "Impact of purchase accounting",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 4286000000.0,
+                "segmentType": "Business",
+                "segmentName": "Infrastructure Solutions Group",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -129000000.0,
+                "segmentType": "Business",
+                "segmentName": "Other businesses",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -756000000.0,
+                "segmentType": "Business",
+                "segmentName": "Other corporate expenses",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -878000000.0,
+                "segmentType": "Business",
+                "segmentName": "Stock-based compensation expense",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -12000000.0,
+                "segmentType": "Business",
+                "segmentName": "Transaction-related expenses",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 9000000.0,
+                "segmentType": "Business",
+                "segmentName": "Unallocated transactions",
+                "isPrimarySegment": 0
+              }
+            ]
+          },
+          {
+            "dataId": 20109,
+            "asOfDate": "2025-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 6656000000.0,
+              "fmt": "6.66B"
+            },
+            "businessSegmentData": [
+              {
+                "dataValue": -667000000.0,
+                "segmentType": "Business",
+                "segmentName": "Amortization of intangibles",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 2972000000.0,
+                "segmentType": "Business",
+                "segmentName": "Client Solutions Group",
+                "isPrimarySegment": 1
+              },
+              {
+                "dataValue": -22000000.0,
+                "segmentType": "Business",
+                "segmentName": "Corporate and other",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 5579000000.0,
+                "segmentType": "Business",
+                "segmentName": "Infrastructure Solutions Group",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -840000000.0,
+                "segmentType": "Business",
+                "segmentName": "Other corporate expenses",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -785000000.0,
+                "segmentType": "Business",
+                "segmentName": "Stock-based compensation expense",
+                "isPrimarySegment": 0
+              }
+            ]
+          },
+          {
+            "dataId": 20109,
+            "asOfDate": "2026-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 8446000000.0,
+              "fmt": "8.45B"
+            },
+            "businessSegmentData": [
+              {
+                "dataValue": -497000000.0,
+                "segmentType": "Business",
+                "segmentName": "Amortization of intangibles",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 2833000000.0,
+                "segmentType": "Business",
+                "segmentName": "Client Solutions Group",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 47000000.0,
+                "segmentType": "Business",
+                "segmentName": "Corporate and other",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 7111000000.0,
+                "segmentType": "Business",
+                "segmentName": "Infrastructure Solutions Group",
+                "isPrimarySegment": 1
+              },
+              {
+                "dataValue": -622000000.0,
+                "segmentType": "Business",
+                "segmentName": "Other corporate expenses",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -723000000.0,
+                "segmentType": "Business",
+                "segmentName": "Stock-based compensation expense",
+                "isPrimarySegment": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "DELL"
+          ],
+          "type": [
+            "annualAccountsReceivable"
+          ]
+        },
+        "timestamp": [
+          1675123200,
+          1706659200,
+          1738281600,
+          1769817600
+        ],
+        "annualAccountsReceivable": [
+          {
+            "dataId": 23001,
+            "asOfDate": "2023-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 12482000000.0,
+              "fmt": "12.48B"
+            }
+          },
+          {
+            "dataId": 23001,
+            "asOfDate": "2024-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 9343000000.0,
+              "fmt": "9.34B"
+            }
+          },
+          {
+            "dataId": 23001,
+            "asOfDate": "2025-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 10298000000.0,
+              "fmt": "10.30B"
+            }
+          },
+          {
+            "dataId": 23001,
+            "asOfDate": "2026-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 17585000000.0,
+              "fmt": "17.59B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "DELL"
+          ],
+          "type": [
+            "annualTaxProvision"
+          ]
+        },
+        "timestamp": [
+          1675123200,
+          1706659200,
+          1738281600,
+          1769817600
+        ],
+        "annualTaxProvision": [
+          {
+            "dataId": 20145,
+            "asOfDate": "2023-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 803000000.0,
+              "fmt": "803.00M"
+            }
+          },
+          {
+            "dataId": 20145,
+            "asOfDate": "2024-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 715000000.0,
+              "fmt": "715.00M"
+            }
+          },
+          {
+            "dataId": 20145,
+            "asOfDate": "2025-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 472000000.0,
+              "fmt": "472.00M"
+            }
+          },
+          {
+            "dataId": 20145,
+            "asOfDate": "2026-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1327000000.0,
+              "fmt": "1.33B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "DELL"
+          ],
+          "type": [
+            "annualCurrentAssets"
+          ]
+        },
+        "timestamp": [
+          1675123200,
+          1706659200,
+          1738281600,
+          1769817600
+        ],
+        "annualCurrentAssets": [
+          {
+            "dataId": 23044,
+            "asOfDate": "2023-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 42351000000.0,
+              "fmt": "42.35B"
+            }
+          },
+          {
+            "dataId": 23044,
+            "asOfDate": "2024-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 35984000000.0,
+              "fmt": "35.98B"
+            }
+          },
+          {
+            "dataId": 23044,
+            "asOfDate": "2025-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 36229000000.0,
+              "fmt": "36.23B"
+            }
+          },
+          {
+            "dataId": 23044,
+            "asOfDate": "2026-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 57602000000.0,
+              "fmt": "57.60B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "DELL"
+          ],
+          "type": [
+            "annualDepreciationAndAmortization"
+          ]
+        },
+        "timestamp": [
+          1675123200,
+          1706659200,
+          1738281600,
+          1769817600
+        ],
+        "annualDepreciationAndAmortization": [
+          {
+            "dataId": 26060,
+            "asOfDate": "2023-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3156000000.0,
+              "fmt": "3.16B"
+            }
+          },
+          {
+            "dataId": 26060,
+            "asOfDate": "2024-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3303000000.0,
+              "fmt": "3.30B"
+            }
+          },
+          {
+            "dataId": 26060,
+            "asOfDate": "2025-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3123000000.0,
+              "fmt": "3.12B"
+            }
+          },
+          {
+            "dataId": 26060,
+            "asOfDate": "2026-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3029000000.0,
+              "fmt": "3.03B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "DELL"
+          ],
+          "type": [
+            "annualTotalRevenue"
+          ]
+        },
+        "timestamp": [
+          1675123200,
+          1706659200,
+          1738281600,
+          1769817600
+        ],
+        "annualTotalRevenue": [
+          {
+            "dataId": 20100,
+            "asOfDate": "2023-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 102301000000.0,
+              "fmt": "102.30B"
+            }
+          },
+          {
+            "dataId": 20100,
+            "asOfDate": "2024-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 88425000000.0,
+              "fmt": "88.42B"
+            }
+          },
+          {
+            "dataId": 20100,
+            "asOfDate": "2025-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 95567000000.0,
+              "fmt": "95.57B"
+            }
+          },
+          {
+            "dataId": 20100,
+            "asOfDate": "2026-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 113538000000.0,
+              "fmt": "113.54B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "DELL"
+          ],
+          "type": [
+            "annualInventory"
+          ]
+        },
+        "timestamp": [
+          1675123200,
+          1706659200,
+          1738281600,
+          1769817600
+        ],
+        "annualInventory": [
+          {
+            "dataId": 23108,
+            "asOfDate": "2023-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4776000000.0,
+              "fmt": "4.78B"
+            }
+          },
+          {
+            "dataId": 23108,
+            "asOfDate": "2024-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3622000000.0,
+              "fmt": "3.62B"
+            }
+          },
+          {
+            "dataId": 23108,
+            "asOfDate": "2025-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 6716000000.0,
+              "fmt": "6.72B"
+            }
+          },
+          {
+            "dataId": 23108,
+            "asOfDate": "2026-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 10437000000.0,
+              "fmt": "10.44B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "DELL"
+          ],
+          "type": [
+            "annualOperatingCashFlow"
+          ]
+        },
+        "timestamp": [
+          1675123200,
+          1706659200,
+          1738281600,
+          1769817600
+        ],
+        "annualOperatingCashFlow": [
+          {
+            "dataId": 26014,
+            "asOfDate": "2023-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3565000000.0,
+              "fmt": "3.56B"
+            }
+          },
+          {
+            "dataId": 26014,
+            "asOfDate": "2024-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 8676000000.0,
+              "fmt": "8.68B"
+            }
+          },
+          {
+            "dataId": 26014,
+            "asOfDate": "2025-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4521000000.0,
+              "fmt": "4.52B"
+            }
+          },
+          {
+            "dataId": 26014,
+            "asOfDate": "2026-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 11185000000.0,
+              "fmt": "11.19B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "DELL"
+          ],
+          "type": [
+            "annualNetIncome"
+          ]
+        },
+        "timestamp": [
+          1675123200,
+          1706659200,
+          1738281600,
+          1769817600
+        ],
+        "annualNetIncome": [
+          {
+            "dataId": 20091,
+            "asOfDate": "2023-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2442000000.0,
+              "fmt": "2.44B"
+            }
+          },
+          {
+            "dataId": 20091,
+            "asOfDate": "2024-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3388000000.0,
+              "fmt": "3.39B"
+            }
+          },
+          {
+            "dataId": 20091,
+            "asOfDate": "2025-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4592000000.0,
+              "fmt": "4.59B"
+            }
+          },
+          {
+            "dataId": 20091,
+            "asOfDate": "2026-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 5936000000.0,
+              "fmt": "5.94B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "DELL"
+          ],
+          "type": [
+            "annualCapitalExpenditure"
+          ]
+        },
+        "timestamp": [
+          1675123200,
+          1706659200,
+          1738281600,
+          1769817600
+        ],
+        "annualCapitalExpenditure": [
+          {
+            "dataId": 26005,
+            "asOfDate": "2023-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -3003000000.0,
+              "fmt": "-3.00B"
+            }
+          },
+          {
+            "dataId": 26005,
+            "asOfDate": "2024-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -2756000000.0,
+              "fmt": "-2.76B"
+            }
+          },
+          {
+            "dataId": 26005,
+            "asOfDate": "2025-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -2652000000.0,
+              "fmt": "-2.65B"
+            }
+          },
+          {
+            "dataId": 26005,
+            "asOfDate": "2026-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -2633000000.0,
+              "fmt": "-2.63B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "DELL"
+          ],
+          "type": [
+            "annualGrossProfit"
+          ]
+        },
+        "timestamp": [
+          1675123200,
+          1706659200,
+          1738281600,
+          1769817600
+        ],
+        "annualGrossProfit": [
+          {
+            "dataId": 20046,
+            "asOfDate": "2023-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 22686000000.0,
+              "fmt": "22.69B"
+            }
+          },
+          {
+            "dataId": 20046,
+            "asOfDate": "2024-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 21069000000.0,
+              "fmt": "21.07B"
+            }
+          },
+          {
+            "dataId": 20046,
+            "asOfDate": "2025-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 21250000000.0,
+              "fmt": "21.25B"
+            }
+          },
+          {
+            "dataId": 20046,
+            "asOfDate": "2026-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 22707000000.0,
+              "fmt": "22.71B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "DELL"
+          ],
+          "type": [
+            "annualAccountsPayable"
+          ]
+        },
+        "timestamp": [
+          1675123200,
+          1706659200,
+          1738281600,
+          1769817600
+        ],
+        "annualAccountsPayable": [
+          {
+            "dataId": 23000,
+            "asOfDate": "2023-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 18598000000.0,
+              "fmt": "18.60B"
+            }
+          },
+          {
+            "dataId": 23000,
+            "asOfDate": "2024-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 19226000000.0,
+              "fmt": "19.23B"
+            }
+          },
+          {
+            "dataId": 23000,
+            "asOfDate": "2025-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 20832000000.0,
+              "fmt": "20.83B"
+            }
+          },
+          {
+            "dataId": 23000,
+            "asOfDate": "2026-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 33630000000.0,
+              "fmt": "33.63B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "DELL"
+          ],
+          "type": [
+            "annualCashAndCashEquivalents"
+          ]
+        },
+        "timestamp": [
+          1675123200,
+          1706659200,
+          1738281600,
+          1769817600
+        ],
+        "annualCashAndCashEquivalents": [
+          {
+            "dataId": 23030,
+            "asOfDate": "2023-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 8607000000.0,
+              "fmt": "8.61B"
+            }
+          },
+          {
+            "dataId": 23030,
+            "asOfDate": "2024-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 7366000000.0,
+              "fmt": "7.37B"
+            }
+          },
+          {
+            "dataId": 23030,
+            "asOfDate": "2025-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3633000000.0,
+              "fmt": "3.63B"
+            }
+          },
+          {
+            "dataId": 23030,
+            "asOfDate": "2026-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 11528000000.0,
+              "fmt": "11.53B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "DELL"
+          ],
+          "type": [
+            "annualTotalDebt"
+          ]
+        },
+        "timestamp": [
+          1675123200,
+          1706659200,
+          1738281600,
+          1769817600
+        ],
+        "annualTotalDebt": [
+          {
+            "dataId": 23386,
+            "asOfDate": "2023-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 29588000000.0,
+              "fmt": "29.59B"
+            }
+          },
+          {
+            "dataId": 23386,
+            "asOfDate": "2024-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 25994000000.0,
+              "fmt": "25.99B"
+            }
+          },
+          {
+            "dataId": 23386,
+            "asOfDate": "2025-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 24567000000.0,
+              "fmt": "24.57B"
+            }
+          },
+          {
+            "dataId": 23386,
+            "asOfDate": "2026-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 31503000000.0,
+              "fmt": "31.50B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "DELL"
+          ],
+          "type": [
+            "annualInterestExpense"
+          ]
+        },
+        "timestamp": [
+          1675123200,
+          1706659200,
+          1738281600,
+          1769817600
+        ],
+        "annualInterestExpense": [
+          {
+            "dataId": 20057,
+            "asOfDate": "2023-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1281000000.0,
+              "fmt": "1.28B"
+            }
+          },
+          {
+            "dataId": 20057,
+            "asOfDate": "2024-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1501000000.0,
+              "fmt": "1.50B"
+            }
+          },
+          {
+            "dataId": 20057,
+            "asOfDate": "2025-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1414000000.0,
+              "fmt": "1.41B"
+            }
+          },
+          {
+            "dataId": 20057,
+            "asOfDate": "2026-01-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1560000000.0,
+              "fmt": "1.56B"
+            }
+          }
+        ]
+      }
+    ],
+    "error": null
+  }
+}

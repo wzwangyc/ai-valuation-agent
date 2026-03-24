@@ -1,0 +1,1353 @@
+{
+  "timeseries": {
+    "result": [
+      {
+        "meta": {
+          "symbol": [
+            "SJM"
+          ],
+          "type": [
+            "annualGrossProfit"
+          ]
+        },
+        "timestamp": [
+          1651276800,
+          1682812800,
+          1714435200,
+          1745971200
+        ],
+        "annualGrossProfit": [
+          {
+            "dataId": 20046,
+            "asOfDate": "2022-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2700700000.0,
+              "fmt": "2.70B"
+            }
+          },
+          {
+            "dataId": 20046,
+            "asOfDate": "2023-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2801800000.0,
+              "fmt": "2.80B"
+            }
+          },
+          {
+            "dataId": 20046,
+            "asOfDate": "2024-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3115400000.0,
+              "fmt": "3.12B"
+            }
+          },
+          {
+            "dataId": 20046,
+            "asOfDate": "2025-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3384700000.0,
+              "fmt": "3.38B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "SJM"
+          ],
+          "type": [
+            "annualPretaxIncome"
+          ]
+        },
+        "timestamp": [
+          1651276800,
+          1682812800,
+          1714435200,
+          1745971200
+        ],
+        "annualPretaxIncome": [
+          {
+            "dataId": 20136,
+            "asOfDate": "2022-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 843800000.0,
+              "fmt": "843.80M"
+            }
+          },
+          {
+            "dataId": 20136,
+            "asOfDate": "2023-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -9200000.0,
+              "fmt": "-9.20M"
+            }
+          },
+          {
+            "dataId": 20136,
+            "asOfDate": "2024-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 996400000.0,
+              "fmt": "996.40M"
+            }
+          },
+          {
+            "dataId": 20136,
+            "asOfDate": "2025-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -1046800000.0,
+              "fmt": "-1.05B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "SJM"
+          ],
+          "type": [
+            "annualOperatingIncome"
+          ]
+        },
+        "timestamp": [
+          1651276800,
+          1682812800,
+          1714435200,
+          1745971200
+        ],
+        "annualOperatingIncome": [
+          {
+            "dataId": 20109,
+            "asOfDate": "2022-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1172600000.0,
+              "fmt": "1.17B"
+            },
+            "businessSegmentData": [
+              {
+                "dataValue": -223600000.0,
+                "segmentType": "Business",
+                "segmentName": "Amortization",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -23400000.0,
+                "segmentType": "Business",
+                "segmentName": "Change in net cumulative unallocated derivative gains and losses",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -258700000.0,
+                "segmentType": "Business",
+                "segmentName": "Corporate administrative expenses",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -20500000.0,
+                "segmentType": "Business",
+                "segmentName": "Cost of products sold - special project costs",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 9600000.0,
+                "segmentType": "Business",
+                "segmentName": "Gain (loss) on divestitures - net",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 142000000.0,
+                "segmentType": "Business",
+                "segmentName": "International and Away From Home",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -150400000.0,
+                "segmentType": "Business",
+                "segmentName": "Other intangible assets impairment charges",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -8000000.0,
+                "segmentType": "Business",
+                "segmentName": "Other special project costs",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 0.0,
+                "segmentType": "Business",
+                "segmentName": "Sweet Baked Snacks",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 736700000.0,
+                "segmentType": "Business",
+                "segmentName": "U.S. Retail Coffee",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 424200000.0,
+                "segmentType": "Business",
+                "segmentName": "U.S. Retail Frozen Handheld and Spreads",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 395900000.0,
+                "segmentType": "Business",
+                "segmentName": "U.S. Retail Pet Foods",
+                "isPrimarySegment": 1
+              }
+            ]
+          },
+          {
+            "dataId": 20109,
+            "asOfDate": "2023-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1180700000.0,
+              "fmt": "1.18B"
+            },
+            "businessSegmentData": [
+              {
+                "dataValue": -206900000.0,
+                "segmentType": "Business",
+                "segmentName": "Amortization",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -21400000.0,
+                "segmentType": "Business",
+                "segmentName": "Change in net cumulative unallocated derivative gains and losses",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -313100000.0,
+                "segmentType": "Business",
+                "segmentName": "Corporate administrative expenses",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -6400000.0,
+                "segmentType": "Business",
+                "segmentName": "Cost of products sold - special project costs",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -1018500000.0,
+                "segmentType": "Business",
+                "segmentName": "Gain (loss) on divestitures - net",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 143300000.0,
+                "segmentType": "Business",
+                "segmentName": "International and Away From Home",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 0.0,
+                "segmentType": "Business",
+                "segmentName": "Other intangible assets impairment charges",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -4700000.0,
+                "segmentType": "Business",
+                "segmentName": "Other special project costs",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 0.0,
+                "segmentType": "Business",
+                "segmentName": "Sweet Baked Snacks",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 737700000.0,
+                "segmentType": "Business",
+                "segmentName": "U.S. Retail Coffee",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 352600000.0,
+                "segmentType": "Business",
+                "segmentName": "U.S. Retail Frozen Handheld and Spreads",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 494900000.0,
+                "segmentType": "Business",
+                "segmentName": "U.S. Retail Pet Foods",
+                "isPrimarySegment": 1
+              }
+            ]
+          },
+          {
+            "dataId": 20109,
+            "asOfDate": "2024-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1448900000.0,
+              "fmt": "1.45B"
+            },
+            "businessSegmentData": [
+              {
+                "dataValue": -191100000.0,
+                "segmentType": "Business",
+                "segmentName": "Amortization",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 6700000.0,
+                "segmentType": "Business",
+                "segmentName": "Change in net cumulative unallocated derivative gains and losses",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -305500000.0,
+                "segmentType": "Business",
+                "segmentName": "Corporate administrative expenses",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -2900000.0,
+                "segmentType": "Business",
+                "segmentName": "Cost of products sold - special project costs",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -12900000.0,
+                "segmentType": "Business",
+                "segmentName": "Gain (loss) on divestitures - net",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 208100000.0,
+                "segmentType": "Business",
+                "segmentName": "International and Away From Home",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 0.0,
+                "segmentType": "Business",
+                "segmentName": "Other intangible assets impairment charges",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -130200000.0,
+                "segmentType": "Business",
+                "segmentName": "Other special project costs",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 138200000.0,
+                "segmentType": "Business",
+                "segmentName": "Sweet Baked Snacks",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 759200000.0,
+                "segmentType": "Business",
+                "segmentName": "U.S. Retail Coffee",
+                "isPrimarySegment": 1
+              },
+              {
+                "dataValue": 434100000.0,
+                "segmentType": "Business",
+                "segmentName": "U.S. Retail Frozen Handheld and Spreads",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 402100000.0,
+                "segmentType": "Business",
+                "segmentName": "U.S. Retail Pet Foods",
+                "isPrimarySegment": 0
+              }
+            ]
+          },
+          {
+            "dataId": 20109,
+            "asOfDate": "2025-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1654500000.0,
+              "fmt": "1.65B"
+            },
+            "businessSegmentData": [
+              {
+                "dataValue": -219300000.0,
+                "segmentType": "Business",
+                "segmentName": "Amortization",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 58200000.0,
+                "segmentType": "Business",
+                "segmentName": "Change in net cumulative unallocated derivative gains and losses",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -322500000.0,
+                "segmentType": "Business",
+                "segmentName": "Corporate administrative expenses",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -9100000.0,
+                "segmentType": "Business",
+                "segmentName": "Cost of products sold - special project costs",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -310100000.0,
+                "segmentType": "Business",
+                "segmentName": "Gain (loss) on divestitures - net",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -1661600000.0,
+                "segmentType": "Business",
+                "segmentName": "Goodwill impairment charge",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 247400000.0,
+                "segmentType": "Business",
+                "segmentName": "International and Away From Home",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -320900000.0,
+                "segmentType": "Business",
+                "segmentName": "Other intangible assets impairment charges",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -35800000.0,
+                "segmentType": "Business",
+                "segmentName": "Other special project costs",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 219800000.0,
+                "segmentType": "Business",
+                "segmentName": "Sweet Baked Snacks",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 795100000.0,
+                "segmentType": "Business",
+                "segmentName": "U.S. Retail Coffee",
+                "isPrimarySegment": 1
+              },
+              {
+                "dataValue": 425300000.0,
+                "segmentType": "Business",
+                "segmentName": "U.S. Retail Frozen Handheld and Spreads",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 459600000.0,
+                "segmentType": "Business",
+                "segmentName": "U.S. Retail Pet Foods",
+                "isPrimarySegment": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "SJM"
+          ],
+          "type": [
+            "annualBasicAverageShares"
+          ]
+        },
+        "timestamp": [
+          1651276800,
+          1682812800,
+          1714435200,
+          1745971200
+        ],
+        "annualBasicAverageShares": [
+          {
+            "dataId": 29010,
+            "asOfDate": "2022-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 108200000.0,
+              "fmt": "108.20M"
+            }
+          },
+          {
+            "dataId": 29010,
+            "asOfDate": "2023-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 106200000.0,
+              "fmt": "106.20M"
+            }
+          },
+          {
+            "dataId": 29010,
+            "asOfDate": "2024-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 104100000.0,
+              "fmt": "104.10M"
+            }
+          },
+          {
+            "dataId": 29010,
+            "asOfDate": "2025-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 106400000.0,
+              "fmt": "106.40M"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "SJM"
+          ],
+          "type": [
+            "annualCurrentAssets"
+          ]
+        },
+        "timestamp": [
+          1651276800,
+          1682812800,
+          1714435200,
+          1745971200
+        ],
+        "annualCurrentAssets": [
+          {
+            "dataId": 23044,
+            "asOfDate": "2022-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2010100000.0,
+              "fmt": "2.01B"
+            }
+          },
+          {
+            "dataId": 23044,
+            "asOfDate": "2023-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2858700000.0,
+              "fmt": "2.86B"
+            }
+          },
+          {
+            "dataId": 23044,
+            "asOfDate": "2024-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1966900000.0,
+              "fmt": "1.97B"
+            }
+          },
+          {
+            "dataId": 23044,
+            "asOfDate": "2025-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2146600000.0,
+              "fmt": "2.15B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "SJM"
+          ],
+          "type": [
+            "annualDepreciationAndAmortization"
+          ]
+        },
+        "timestamp": [
+          1651276800,
+          1682812800,
+          1714435200,
+          1745971200
+        ],
+        "annualDepreciationAndAmortization": [
+          {
+            "dataId": 26060,
+            "asOfDate": "2022-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 459100000.0,
+              "fmt": "459.10M"
+            }
+          },
+          {
+            "dataId": 26060,
+            "asOfDate": "2023-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 431000000.0,
+              "fmt": "431.00M"
+            }
+          },
+          {
+            "dataId": 26060,
+            "asOfDate": "2024-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 430800000.0,
+              "fmt": "430.80M"
+            }
+          },
+          {
+            "dataId": 26060,
+            "asOfDate": "2025-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 502500000.0,
+              "fmt": "502.50M"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "SJM"
+          ],
+          "type": [
+            "annualAccountsReceivable"
+          ]
+        },
+        "timestamp": [
+          1651276800,
+          1682812800,
+          1714435200,
+          1745971200
+        ],
+        "annualAccountsReceivable": [
+          {
+            "dataId": 23001,
+            "asOfDate": "2022-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 524700000.0,
+              "fmt": "524.70M"
+            }
+          },
+          {
+            "dataId": 23001,
+            "asOfDate": "2023-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 597600000.0,
+              "fmt": "597.60M"
+            }
+          },
+          {
+            "dataId": 23001,
+            "asOfDate": "2024-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 736500000.0,
+              "fmt": "736.50M"
+            }
+          },
+          {
+            "dataId": 23001,
+            "asOfDate": "2025-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 619000000.0,
+              "fmt": "619.00M"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "SJM"
+          ],
+          "type": [
+            "annualOperatingCashFlow"
+          ]
+        },
+        "timestamp": [
+          1651276800,
+          1682812800,
+          1714435200,
+          1745971200
+        ],
+        "annualOperatingCashFlow": [
+          {
+            "dataId": 26014,
+            "asOfDate": "2022-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1136300000.0,
+              "fmt": "1.14B"
+            }
+          },
+          {
+            "dataId": 26014,
+            "asOfDate": "2023-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1194400000.0,
+              "fmt": "1.19B"
+            }
+          },
+          {
+            "dataId": 26014,
+            "asOfDate": "2024-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1229400000.0,
+              "fmt": "1.23B"
+            }
+          },
+          {
+            "dataId": 26014,
+            "asOfDate": "2025-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1210400000.0,
+              "fmt": "1.21B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "SJM"
+          ],
+          "type": [
+            "annualCashAndCashEquivalents"
+          ]
+        },
+        "timestamp": [
+          1651276800,
+          1682812800,
+          1714435200,
+          1745971200
+        ],
+        "annualCashAndCashEquivalents": [
+          {
+            "dataId": 23030,
+            "asOfDate": "2022-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 169900000.0,
+              "fmt": "169.90M"
+            }
+          },
+          {
+            "dataId": 23030,
+            "asOfDate": "2023-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 655800000.0,
+              "fmt": "655.80M"
+            }
+          },
+          {
+            "dataId": 23030,
+            "asOfDate": "2024-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 62000000.0,
+              "fmt": "62.00M"
+            }
+          },
+          {
+            "dataId": 23030,
+            "asOfDate": "2025-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 69900000.0,
+              "fmt": "69.90M"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "SJM"
+          ],
+          "type": [
+            "annualTotalRevenue"
+          ]
+        },
+        "timestamp": [
+          1651276800,
+          1682812800,
+          1714435200,
+          1745971200
+        ],
+        "annualTotalRevenue": [
+          {
+            "dataId": 20100,
+            "asOfDate": "2022-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 7998900000.0,
+              "fmt": "8.00B"
+            }
+          },
+          {
+            "dataId": 20100,
+            "asOfDate": "2023-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 8529200000.0,
+              "fmt": "8.53B"
+            }
+          },
+          {
+            "dataId": 20100,
+            "asOfDate": "2024-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 8178700000.0,
+              "fmt": "8.18B"
+            }
+          },
+          {
+            "dataId": 20100,
+            "asOfDate": "2025-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 8726100000.0,
+              "fmt": "8.73B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "SJM"
+          ],
+          "type": [
+            "annualTaxProvision"
+          ]
+        },
+        "timestamp": [
+          1651276800,
+          1682812800,
+          1714435200,
+          1745971200
+        ],
+        "annualTaxProvision": [
+          {
+            "dataId": 20145,
+            "asOfDate": "2022-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 212100000.0,
+              "fmt": "212.10M"
+            }
+          },
+          {
+            "dataId": 20145,
+            "asOfDate": "2023-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 82100000.0,
+              "fmt": "82.10M"
+            }
+          },
+          {
+            "dataId": 20145,
+            "asOfDate": "2024-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 252400000.0,
+              "fmt": "252.40M"
+            }
+          },
+          {
+            "dataId": 20145,
+            "asOfDate": "2025-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 184000000.0,
+              "fmt": "184.00M"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "SJM"
+          ],
+          "type": [
+            "annualNetIncome"
+          ]
+        },
+        "timestamp": [
+          1651276800,
+          1682812800,
+          1714435200,
+          1745971200
+        ],
+        "annualNetIncome": [
+          {
+            "dataId": 20091,
+            "asOfDate": "2022-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 631700000.0,
+              "fmt": "631.70M"
+            }
+          },
+          {
+            "dataId": 20091,
+            "asOfDate": "2023-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -91300000.0,
+              "fmt": "-91.30M"
+            }
+          },
+          {
+            "dataId": 20091,
+            "asOfDate": "2024-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 744000000.0,
+              "fmt": "744.00M"
+            }
+          },
+          {
+            "dataId": 20091,
+            "asOfDate": "2025-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -1230800000.0,
+              "fmt": "-1.23B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "SJM"
+          ],
+          "type": [
+            "annualInventory"
+          ]
+        },
+        "timestamp": [
+          1651276800,
+          1682812800,
+          1714435200,
+          1745971200
+        ],
+        "annualInventory": [
+          {
+            "dataId": 23108,
+            "asOfDate": "2022-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1089300000.0,
+              "fmt": "1.09B"
+            }
+          },
+          {
+            "dataId": 23108,
+            "asOfDate": "2023-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1009800000.0,
+              "fmt": "1.01B"
+            }
+          },
+          {
+            "dataId": 23108,
+            "asOfDate": "2024-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1038900000.0,
+              "fmt": "1.04B"
+            }
+          },
+          {
+            "dataId": 23108,
+            "asOfDate": "2025-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1209400000.0,
+              "fmt": "1.21B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "SJM"
+          ],
+          "type": [
+            "annualTotalDebt"
+          ]
+        },
+        "timestamp": [
+          1651276800,
+          1682812800,
+          1714435200,
+          1745971200
+        ],
+        "annualTotalDebt": [
+          {
+            "dataId": 23386,
+            "asOfDate": "2022-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4606900000.0,
+              "fmt": "4.61B"
+            }
+          },
+          {
+            "dataId": 23386,
+            "asOfDate": "2023-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4424600000.0,
+              "fmt": "4.42B"
+            }
+          },
+          {
+            "dataId": 23386,
+            "asOfDate": "2024-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 8507500000.0,
+              "fmt": "8.51B"
+            }
+          },
+          {
+            "dataId": 23386,
+            "asOfDate": "2025-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 7761700000.0,
+              "fmt": "7.76B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "SJM"
+          ],
+          "type": [
+            "annualCapitalExpenditure"
+          ]
+        },
+        "timestamp": [
+          1651276800,
+          1682812800,
+          1714435200,
+          1745971200
+        ],
+        "annualCapitalExpenditure": [
+          {
+            "dataId": 26005,
+            "asOfDate": "2022-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -417500000.0,
+              "fmt": "-417.50M"
+            }
+          },
+          {
+            "dataId": 26005,
+            "asOfDate": "2023-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -477400000.0,
+              "fmt": "-477.40M"
+            }
+          },
+          {
+            "dataId": 26005,
+            "asOfDate": "2024-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -586500000.0,
+              "fmt": "-586.50M"
+            }
+          },
+          {
+            "dataId": 26005,
+            "asOfDate": "2025-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -393800000.0,
+              "fmt": "-393.80M"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "SJM"
+          ],
+          "type": [
+            "annualCurrentLiabilities"
+          ]
+        },
+        "timestamp": [
+          1651276800,
+          1682812800,
+          1714435200,
+          1745971200
+        ],
+        "annualCurrentLiabilities": [
+          {
+            "dataId": 23047,
+            "asOfDate": "2022-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1952800000.0,
+              "fmt": "1.95B"
+            }
+          },
+          {
+            "dataId": 23047,
+            "asOfDate": "2023-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1986700000.0,
+              "fmt": "1.99B"
+            }
+          },
+          {
+            "dataId": 23047,
+            "asOfDate": "2024-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3761100000.0,
+              "fmt": "3.76B"
+            }
+          },
+          {
+            "dataId": 23047,
+            "asOfDate": "2025-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2652000000.0,
+              "fmt": "2.65B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "SJM"
+          ],
+          "type": [
+            "annualInterestExpense"
+          ]
+        },
+        "timestamp": [
+          1651276800,
+          1682812800,
+          1714435200,
+          1745971200
+        ],
+        "annualInterestExpense": [
+          {
+            "dataId": 20057,
+            "asOfDate": "2022-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 160900000.0,
+              "fmt": "160.90M"
+            }
+          },
+          {
+            "dataId": 20057,
+            "asOfDate": "2023-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 152000000.0,
+              "fmt": "152.00M"
+            }
+          },
+          {
+            "dataId": 20057,
+            "asOfDate": "2024-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 283800000.0,
+              "fmt": "283.80M"
+            }
+          },
+          {
+            "dataId": 20057,
+            "asOfDate": "2025-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 388700000.0,
+              "fmt": "388.70M"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "SJM"
+          ],
+          "type": [
+            "annualAccountsPayable"
+          ]
+        },
+        "timestamp": [
+          1651276800,
+          1682812800,
+          1714435200,
+          1745971200
+        ],
+        "annualAccountsPayable": [
+          {
+            "dataId": 23000,
+            "asOfDate": "2022-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1193300000.0,
+              "fmt": "1.19B"
+            }
+          },
+          {
+            "dataId": 23000,
+            "asOfDate": "2023-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1392600000.0,
+              "fmt": "1.39B"
+            }
+          },
+          {
+            "dataId": 23000,
+            "asOfDate": "2024-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1336200000.0,
+              "fmt": "1.34B"
+            }
+          },
+          {
+            "dataId": 23000,
+            "asOfDate": "2025-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1288700000.0,
+              "fmt": "1.29B"
+            }
+          }
+        ]
+      }
+    ],
+    "error": null
+  }
+}

@@ -1,0 +1,1267 @@
+{
+  "timeseries": {
+    "result": [
+      {
+        "meta": {
+          "symbol": [
+            "UBER"
+          ],
+          "type": [
+            "annualOperatingCashFlow"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualOperatingCashFlow": [
+          {
+            "dataId": 26014,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 642000000.0,
+              "fmt": "642.00M"
+            }
+          },
+          {
+            "dataId": 26014,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3585000000.0,
+              "fmt": "3.58B"
+            }
+          },
+          {
+            "dataId": 26014,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 7137000000.0,
+              "fmt": "7.14B"
+            }
+          },
+          {
+            "dataId": 26014,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 10099000000.0,
+              "fmt": "10.10B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "UBER"
+          ],
+          "type": [
+            "annualCashAndCashEquivalents"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualCashAndCashEquivalents": [
+          {
+            "dataId": 23030,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4208000000.0,
+              "fmt": "4.21B"
+            }
+          },
+          {
+            "dataId": 23030,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4680000000.0,
+              "fmt": "4.68B"
+            }
+          },
+          {
+            "dataId": 23030,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 5893000000.0,
+              "fmt": "5.89B"
+            }
+          },
+          {
+            "dataId": 23030,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 7105000000.0,
+              "fmt": "7.11B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "UBER"
+          ],
+          "type": [
+            "annualAccountsPayable"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualAccountsPayable": [
+          {
+            "dataId": 23000,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 728000000.0,
+              "fmt": "728.00M"
+            }
+          },
+          {
+            "dataId": 23000,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 790000000.0,
+              "fmt": "790.00M"
+            }
+          },
+          {
+            "dataId": 23000,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 858000000.0,
+              "fmt": "858.00M"
+            }
+          },
+          {
+            "dataId": 23000,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1013000000.0,
+              "fmt": "1.01B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "UBER"
+          ],
+          "type": [
+            "annualDepreciationAndAmortization"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualDepreciationAndAmortization": [
+          {
+            "dataId": 26060,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 947000000.0,
+              "fmt": "947.00M"
+            }
+          },
+          {
+            "dataId": 26060,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 823000000.0,
+              "fmt": "823.00M"
+            }
+          },
+          {
+            "dataId": 26060,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 737000000.0,
+              "fmt": "737.00M"
+            }
+          },
+          {
+            "dataId": 26060,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 747000000.0,
+              "fmt": "747.00M"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "UBER"
+          ],
+          "type": [
+            "annualTotalRevenue"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualTotalRevenue": [
+          {
+            "dataId": 20100,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 31877000000.0,
+              "fmt": "31.88B"
+            }
+          },
+          {
+            "dataId": 20100,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 37281000000.0,
+              "fmt": "37.28B"
+            }
+          },
+          {
+            "dataId": 20100,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 43978000000.0,
+              "fmt": "43.98B"
+            }
+          },
+          {
+            "dataId": 20100,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 52017000000.0,
+              "fmt": "52.02B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "UBER"
+          ],
+          "type": [
+            "annualTaxProvision"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualTaxProvision": [
+          {
+            "dataId": 20145,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -181000000.0,
+              "fmt": "-181.00M"
+            }
+          },
+          {
+            "dataId": 20145,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 213000000.0,
+              "fmt": "213.00M"
+            }
+          },
+          {
+            "dataId": 20145,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -5758000000.0,
+              "fmt": "-5.76B"
+            }
+          },
+          {
+            "dataId": 20145,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -4346000000.0,
+              "fmt": "-4.35B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "UBER"
+          ],
+          "type": [
+            "annualTotalDebt"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualTotalDebt": [
+          {
+            "dataId": 23386,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 11139000000.0,
+              "fmt": "11.14B"
+            }
+          },
+          {
+            "dataId": 23386,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 11224000000.0,
+              "fmt": "11.22B"
+            }
+          },
+          {
+            "dataId": 23386,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 11126000000.0,
+              "fmt": "11.13B"
+            }
+          },
+          {
+            "dataId": 23386,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 12080000000.0,
+              "fmt": "12.08B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "UBER"
+          ],
+          "type": [
+            "annualCapitalExpenditure"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualCapitalExpenditure": [
+          {
+            "dataId": 26005,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -252000000.0,
+              "fmt": "-252.00M"
+            }
+          },
+          {
+            "dataId": 26005,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -223000000.0,
+              "fmt": "-223.00M"
+            }
+          },
+          {
+            "dataId": 26005,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -242000000.0,
+              "fmt": "-242.00M"
+            }
+          },
+          {
+            "dataId": 26005,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -336000000.0,
+              "fmt": "-336.00M"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "UBER"
+          ],
+          "type": [
+            "annualPretaxIncome"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualPretaxIncome": [
+          {
+            "dataId": 20136,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -9426000000.0,
+              "fmt": "-9.43B"
+            }
+          },
+          {
+            "dataId": 20136,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2321000000.0,
+              "fmt": "2.32B"
+            }
+          },
+          {
+            "dataId": 20136,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4125000000.0,
+              "fmt": "4.12B"
+            }
+          },
+          {
+            "dataId": 20136,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 5800000000.0,
+              "fmt": "5.80B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "UBER"
+          ],
+          "type": [
+            "annualInterestExpense"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualInterestExpense": [
+          {
+            "dataId": 20057,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 565000000.0,
+              "fmt": "565.00M"
+            }
+          },
+          {
+            "dataId": 20057,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 633000000.0,
+              "fmt": "633.00M"
+            }
+          },
+          {
+            "dataId": 20057,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 523000000.0,
+              "fmt": "523.00M"
+            }
+          },
+          {
+            "dataId": 20057,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 440000000.0,
+              "fmt": "440.00M"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "UBER"
+          ],
+          "type": [
+            "annualCurrentAssets"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualCurrentAssets": [
+          {
+            "dataId": 23044,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 9249000000.0,
+              "fmt": "9.25B"
+            }
+          },
+          {
+            "dataId": 23044,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 11297000000.0,
+              "fmt": "11.30B"
+            }
+          },
+          {
+            "dataId": 23044,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 12245000000.0,
+              "fmt": "12.24B"
+            }
+          },
+          {
+            "dataId": 23044,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 13993000000.0,
+              "fmt": "13.99B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "UBER"
+          ],
+          "type": [
+            "annualGrossProfit"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualGrossProfit": [
+          {
+            "dataId": 20046,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 12218000000.0,
+              "fmt": "12.22B"
+            }
+          },
+          {
+            "dataId": 20046,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 14824000000.0,
+              "fmt": "14.82B"
+            }
+          },
+          {
+            "dataId": 20046,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 17327000000.0,
+              "fmt": "17.33B"
+            }
+          },
+          {
+            "dataId": 20046,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 20679000000.0,
+              "fmt": "20.68B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "UBER"
+          ],
+          "type": [
+            "annualCurrentLiabilities"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualCurrentLiabilities": [
+          {
+            "dataId": 23047,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 8853000000.0,
+              "fmt": "8.85B"
+            }
+          },
+          {
+            "dataId": 23047,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 9454000000.0,
+              "fmt": "9.45B"
+            }
+          },
+          {
+            "dataId": 23047,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 11476000000.0,
+              "fmt": "11.48B"
+            }
+          },
+          {
+            "dataId": 23047,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 12320000000.0,
+              "fmt": "12.32B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "UBER"
+          ],
+          "type": [
+            "annualOperatingIncome"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualOperatingIncome": [
+          {
+            "dataId": 20109,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -1832000000.0,
+              "fmt": "-1.83B"
+            },
+            "businessSegmentData": [
+              {
+                "dataValue": -6000000.0,
+                "segmentType": "Business",
+                "segmentName": "Accelerated lease costs related to cease-use of Right of use (ROU) assets",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -46000000.0,
+                "segmentType": "Business",
+                "segmentName": "Acquisition, financing and divestitures related expenses",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 0.0,
+                "segmentType": "Business",
+                "segmentName": "All Other",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -2137000000.0,
+                "segmentType": "Business",
+                "segmentName": "Corporate G&A and Platform Research and Development (R&D)",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -1000000.0,
+                "segmentType": "Business",
+                "segmentName": "COVID-19 response initiatives",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 551000000.0,
+                "segmentType": "Business",
+                "segmentName": "Delivery",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -947000000.0,
+                "segmentType": "Business",
+                "segmentName": "Depreciation and amortization",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 0.0,
+                "segmentType": "Business",
+                "segmentName": "Freight",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -7000000.0,
+                "segmentType": "Business",
+                "segmentName": "Gain on lease arrangement, net",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -25000000.0,
+                "segmentType": "Business",
+                "segmentName": "Goodwill and asset impairments/loss on sale of assets",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -732000000.0,
+                "segmentType": "Business",
+                "segmentName": "Legal, tax, and regulatory reserve changes and settlements",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -7000000.0,
+                "segmentType": "Business",
+                "segmentName": "Loss on lease arrangement, net",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 14000000.0,
+                "segmentType": "Business",
+                "segmentName": "Mass arbitration fees, net",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 3299000000.0,
+                "segmentType": "Business",
+                "segmentName": "Mobility",
+                "isPrimarySegment": 1
+              },
+              {
+                "dataValue": -2000000.0,
+                "segmentType": "Business",
+                "segmentName": "Restructuring and related charges",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -1793000000.0,
+                "segmentType": "Business",
+                "segmentName": "Stock-based compensation expense",
+                "isPrimarySegment": 0
+              }
+            ]
+          },
+          {
+            "dataId": 20109,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1110000000.0,
+              "fmt": "1.11B"
+            },
+            "businessSegmentData": [
+              {
+                "dataValue": 0.0,
+                "segmentType": "Business",
+                "segmentName": "Accelerated lease costs related to cease-use of Right of use (ROU) assets",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -36000000.0,
+                "segmentType": "Business",
+                "segmentName": "Acquisition, financing and divestitures related expenses",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 0.0,
+                "segmentType": "Business",
+                "segmentName": "All Other",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -2353000000.0,
+                "segmentType": "Business",
+                "segmentName": "Corporate G&A and Platform Research and Development (R&D)",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 0.0,
+                "segmentType": "Business",
+                "segmentName": "COVID-19 response initiatives",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 1506000000.0,
+                "segmentType": "Business",
+                "segmentName": "Delivery",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -823000000.0,
+                "segmentType": "Business",
+                "segmentName": "Depreciation and amortization",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -64000000.0,
+                "segmentType": "Business",
+                "segmentName": "Freight",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -84000000.0,
+                "segmentType": "Business",
+                "segmentName": "Goodwill and asset impairments/loss on sale of assets",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 0.0,
+                "segmentType": "Business",
+                "segmentName": "Legacy auto insurance transfer",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -9000000.0,
+                "segmentType": "Business",
+                "segmentName": "Legal, tax, and regulatory reserve changes and settlements",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -4000000.0,
+                "segmentType": "Business",
+                "segmentName": "Loss on lease arrangement, net",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 0.0,
+                "segmentType": "Business",
+                "segmentName": "Mass arbitration fees, net",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 4963000000.0,
+                "segmentType": "Business",
+                "segmentName": "Mobility",
+                "isPrimarySegment": 1
+              },
+              {
+                "dataValue": -51000000.0,
+                "segmentType": "Business",
+                "segmentName": "Restructuring and related charges",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -1935000000.0,
+                "segmentType": "Business",
+                "segmentName": "Stock-based compensation expense",
+                "isPrimarySegment": 0
+              }
+            ]
+          },
+          {
+            "dataId": 20109,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2799000000.0,
+              "fmt": "2.80B"
+            },
+            "businessSegmentData": [
+              {
+                "dataValue": -25000000.0,
+                "segmentType": "Business",
+                "segmentName": "Acquisition, financing and divestitures related expenses",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -2410000000.0,
+                "segmentType": "Business",
+                "segmentName": "Corporate G&A and Platform Research and Development (R&D)",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 2471000000.0,
+                "segmentType": "Business",
+                "segmentName": "Delivery",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -711000000.0,
+                "segmentType": "Business",
+                "segmentName": "Depreciation and amortization",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -74000000.0,
+                "segmentType": "Business",
+                "segmentName": "Freight",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -3000000.0,
+                "segmentType": "Business",
+                "segmentName": "Goodwill and asset impairments/loss on sale of assets",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -1123000000.0,
+                "segmentType": "Business",
+                "segmentName": "Legal, tax, and regulatory reserve changes and settlements",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -2000000.0,
+                "segmentType": "Business",
+                "segmentName": "Loss on lease arrangement, net",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 6497000000.0,
+                "segmentType": "Business",
+                "segmentName": "Mobility",
+                "isPrimarySegment": 1
+              },
+              {
+                "dataValue": -25000000.0,
+                "segmentType": "Business",
+                "segmentName": "Restructuring and related charges",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -1796000000.0,
+                "segmentType": "Business",
+                "segmentName": "Stock-based compensation expense",
+                "isPrimarySegment": 0
+              }
+            ]
+          },
+          {
+            "dataId": 20109,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 5565000000.0,
+              "fmt": "5.57B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "UBER"
+          ],
+          "type": [
+            "annualAccountsReceivable"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualAccountsReceivable": [
+          {
+            "dataId": 23001,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2779000000.0,
+              "fmt": "2.78B"
+            }
+          },
+          {
+            "dataId": 23001,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3404000000.0,
+              "fmt": "3.40B"
+            }
+          },
+          {
+            "dataId": 23001,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3333000000.0,
+              "fmt": "3.33B"
+            }
+          },
+          {
+            "dataId": 23001,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3827000000.0,
+              "fmt": "3.83B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "UBER"
+          ],
+          "type": [
+            "annualBasicAverageShares"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualBasicAverageShares": [
+          {
+            "dataId": 29010,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1972131000.0,
+              "fmt": "1.97B"
+            }
+          },
+          {
+            "dataId": 29010,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2035651000.0,
+              "fmt": "2.04B"
+            }
+          },
+          {
+            "dataId": 29010,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2094602000.0,
+              "fmt": "2.09B"
+            }
+          },
+          {
+            "dataId": 29010,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2085253000.0,
+              "fmt": "2.09B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "UBER"
+          ],
+          "type": [
+            "annualNetIncome"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualNetIncome": [
+          {
+            "dataId": 20091,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -9141000000.0,
+              "fmt": "-9.14B"
+            }
+          },
+          {
+            "dataId": 20091,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1887000000.0,
+              "fmt": "1.89B"
+            }
+          },
+          {
+            "dataId": 20091,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 9856000000.0,
+              "fmt": "9.86B"
+            }
+          },
+          {
+            "dataId": 20091,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 10053000000.0,
+              "fmt": "10.05B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "UBER"
+          ],
+          "type": [
+            "annualInventory"
+          ]
+        }
+      }
+    ],
+    "error": null
+  }
+}

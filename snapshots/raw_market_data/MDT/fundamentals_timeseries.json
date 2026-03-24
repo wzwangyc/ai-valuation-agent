@@ -1,0 +1,1461 @@
+{
+  "timeseries": {
+    "result": [
+      {
+        "meta": {
+          "symbol": [
+            "MDT"
+          ],
+          "type": [
+            "annualTotalRevenue"
+          ]
+        },
+        "timestamp": [
+          1651276800,
+          1682812800,
+          1714435200,
+          1745971200
+        ],
+        "annualTotalRevenue": [
+          {
+            "dataId": 20100,
+            "asOfDate": "2022-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 31686000000.0,
+              "fmt": "31.69B"
+            }
+          },
+          {
+            "dataId": 20100,
+            "asOfDate": "2023-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 31227000000.0,
+              "fmt": "31.23B"
+            }
+          },
+          {
+            "dataId": 20100,
+            "asOfDate": "2024-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 32364000000.0,
+              "fmt": "32.36B"
+            }
+          },
+          {
+            "dataId": 20100,
+            "asOfDate": "2025-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 33537000000.0,
+              "fmt": "33.54B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "MDT"
+          ],
+          "type": [
+            "annualCashAndCashEquivalents"
+          ]
+        },
+        "timestamp": [
+          1651276800,
+          1682812800,
+          1714435200,
+          1745971200
+        ],
+        "annualCashAndCashEquivalents": [
+          {
+            "dataId": 23030,
+            "asOfDate": "2022-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3714000000.0,
+              "fmt": "3.71B"
+            }
+          },
+          {
+            "dataId": 23030,
+            "asOfDate": "2023-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1543000000.0,
+              "fmt": "1.54B"
+            }
+          },
+          {
+            "dataId": 23030,
+            "asOfDate": "2024-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1284000000.0,
+              "fmt": "1.28B"
+            }
+          },
+          {
+            "dataId": 23030,
+            "asOfDate": "2025-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2218000000.0,
+              "fmt": "2.22B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "MDT"
+          ],
+          "type": [
+            "annualInventory"
+          ]
+        },
+        "timestamp": [
+          1651276800,
+          1682812800,
+          1714435200,
+          1745971200
+        ],
+        "annualInventory": [
+          {
+            "dataId": 23108,
+            "asOfDate": "2022-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4616000000.0,
+              "fmt": "4.62B"
+            }
+          },
+          {
+            "dataId": 23108,
+            "asOfDate": "2023-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 5293000000.0,
+              "fmt": "5.29B"
+            }
+          },
+          {
+            "dataId": 23108,
+            "asOfDate": "2024-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 5217000000.0,
+              "fmt": "5.22B"
+            }
+          },
+          {
+            "dataId": 23108,
+            "asOfDate": "2025-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 5476000000.0,
+              "fmt": "5.48B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "MDT"
+          ],
+          "type": [
+            "annualTaxProvision"
+          ]
+        },
+        "timestamp": [
+          1651276800,
+          1682812800,
+          1714435200,
+          1745971200
+        ],
+        "annualTaxProvision": [
+          {
+            "dataId": 20145,
+            "asOfDate": "2022-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 456000000.0,
+              "fmt": "456.00M"
+            }
+          },
+          {
+            "dataId": 20145,
+            "asOfDate": "2023-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1580000000.0,
+              "fmt": "1.58B"
+            }
+          },
+          {
+            "dataId": 20145,
+            "asOfDate": "2024-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1133000000.0,
+              "fmt": "1.13B"
+            }
+          },
+          {
+            "dataId": 20145,
+            "asOfDate": "2025-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 936000000.0,
+              "fmt": "936.00M"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "MDT"
+          ],
+          "type": [
+            "annualDepreciationAndAmortization"
+          ]
+        },
+        "timestamp": [
+          1651276800,
+          1682812800,
+          1714435200,
+          1745971200
+        ],
+        "annualDepreciationAndAmortization": [
+          {
+            "dataId": 26060,
+            "asOfDate": "2022-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2707000000.0,
+              "fmt": "2.71B"
+            }
+          },
+          {
+            "dataId": 26060,
+            "asOfDate": "2023-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2697000000.0,
+              "fmt": "2.70B"
+            }
+          },
+          {
+            "dataId": 26060,
+            "asOfDate": "2024-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2647000000.0,
+              "fmt": "2.65B"
+            }
+          },
+          {
+            "dataId": 26060,
+            "asOfDate": "2025-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2861000000.0,
+              "fmt": "2.86B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "MDT"
+          ],
+          "type": [
+            "annualBasicAverageShares"
+          ]
+        },
+        "timestamp": [
+          1651276800,
+          1682812800,
+          1714435200,
+          1745971200
+        ],
+        "annualBasicAverageShares": [
+          {
+            "dataId": 29010,
+            "asOfDate": "2022-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1342400000.0,
+              "fmt": "1.34B"
+            }
+          },
+          {
+            "dataId": 29010,
+            "asOfDate": "2023-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1329800000.0,
+              "fmt": "1.33B"
+            }
+          },
+          {
+            "dataId": 29010,
+            "asOfDate": "2024-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1327700000.0,
+              "fmt": "1.33B"
+            }
+          },
+          {
+            "dataId": 29010,
+            "asOfDate": "2025-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1285600000.0,
+              "fmt": "1.29B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "MDT"
+          ],
+          "type": [
+            "annualAccountsReceivable"
+          ]
+        },
+        "timestamp": [
+          1651276800,
+          1682812800,
+          1714435200,
+          1745971200
+        ],
+        "annualAccountsReceivable": [
+          {
+            "dataId": 23001,
+            "asOfDate": "2022-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 5551000000.0,
+              "fmt": "5.55B"
+            }
+          },
+          {
+            "dataId": 23001,
+            "asOfDate": "2023-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 5998000000.0,
+              "fmt": "6.00B"
+            }
+          },
+          {
+            "dataId": 23001,
+            "asOfDate": "2024-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 6128000000.0,
+              "fmt": "6.13B"
+            }
+          },
+          {
+            "dataId": 23001,
+            "asOfDate": "2025-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 6515000000.0,
+              "fmt": "6.51B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "MDT"
+          ],
+          "type": [
+            "annualCurrentAssets"
+          ]
+        },
+        "timestamp": [
+          1651276800,
+          1682812800,
+          1714435200,
+          1745971200
+        ],
+        "annualCurrentAssets": [
+          {
+            "dataId": 23044,
+            "asOfDate": "2022-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 23059000000.0,
+              "fmt": "23.06B"
+            }
+          },
+          {
+            "dataId": 23044,
+            "asOfDate": "2023-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 21675000000.0,
+              "fmt": "21.68B"
+            }
+          },
+          {
+            "dataId": 23044,
+            "asOfDate": "2024-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 21935000000.0,
+              "fmt": "21.93B"
+            }
+          },
+          {
+            "dataId": 23044,
+            "asOfDate": "2025-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 23814000000.0,
+              "fmt": "23.81B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "MDT"
+          ],
+          "type": [
+            "annualNetIncome"
+          ]
+        },
+        "timestamp": [
+          1651276800,
+          1682812800,
+          1714435200,
+          1745971200
+        ],
+        "annualNetIncome": [
+          {
+            "dataId": 20091,
+            "asOfDate": "2022-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 5039000000.0,
+              "fmt": "5.04B"
+            }
+          },
+          {
+            "dataId": 20091,
+            "asOfDate": "2023-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3758000000.0,
+              "fmt": "3.76B"
+            }
+          },
+          {
+            "dataId": 20091,
+            "asOfDate": "2024-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3676000000.0,
+              "fmt": "3.68B"
+            }
+          },
+          {
+            "dataId": 20091,
+            "asOfDate": "2025-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4662000000.0,
+              "fmt": "4.66B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "MDT"
+          ],
+          "type": [
+            "annualOperatingIncome"
+          ]
+        },
+        "timestamp": [
+          1651276800,
+          1682812800,
+          1714435200,
+          1745971200
+        ],
+        "annualOperatingIncome": [
+          {
+            "dataId": 20109,
+            "asOfDate": "2022-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 5908000000.0,
+              "fmt": "5.91B"
+            },
+            "businessSegmentData": [
+              {
+                "dataValue": -838000000.0,
+                "segmentType": "Business",
+                "segmentName": "Acquisition and divestiture-related items",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -1733000000.0,
+                "segmentType": "Business",
+                "segmentName": "Amortization of intangible assets",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 4596000000.0,
+                "segmentType": "Business",
+                "segmentName": "Cardiovascular",
+                "isPrimarySegment": 1
+              },
+              {
+                "dataValue": -1741000000.0,
+                "segmentType": "Business",
+                "segmentName": "Centralized distribution costs",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -95000000.0,
+                "segmentType": "Business",
+                "segmentName": "Certain litigation charges, net",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 0.0,
+                "segmentType": "Business",
+                "segmentName": "Commitments to the Medtronic Foundation and Medtronic LABS",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -1724000000.0,
+                "segmentType": "Business",
+                "segmentName": "Corporate",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 70000000.0,
+                "segmentType": "Business",
+                "segmentName": "Currency",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 588000000.0,
+                "segmentType": "Business",
+                "segmentName": "Diabetes",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -101000000.0,
+                "segmentType": "Business",
+                "segmentName": "In-process research and development (IPR&D) charges",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -881000000.0,
+                "segmentType": "Business",
+                "segmentName": "Mechanical Circulatory Support (MCS) Impairments / Costs",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -102000000.0,
+                "segmentType": "Business",
+                "segmentName": "Medical device regulations",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 3698000000.0,
+                "segmentType": "Business",
+                "segmentName": "Medical Surgical",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 3858000000.0,
+                "segmentType": "Business",
+                "segmentName": "Neuroscience",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -31000000.0,
+                "segmentType": "Business",
+                "segmentName": "Other operating segment",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -335000000.0,
+                "segmentType": "Business",
+                "segmentName": "Restructuring and associated costs",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -358000000.0,
+                "segmentType": "Business",
+                "segmentName": "Stock-based compensation",
+                "isPrimarySegment": 0
+              }
+            ]
+          },
+          {
+            "dataId": 20109,
+            "asOfDate": "2023-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 5830000000.0,
+              "fmt": "5.83B"
+            },
+            "businessSegmentData": [
+              {
+                "dataValue": -345000000.0,
+                "segmentType": "Business",
+                "segmentName": "Acquisition and divestiture-related items",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -1698000000.0,
+                "segmentType": "Business",
+                "segmentName": "Amortization of intangible assets",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 4522000000.0,
+                "segmentType": "Business",
+                "segmentName": "Cardiovascular",
+                "isPrimarySegment": 1
+              },
+              {
+                "dataValue": -1558000000.0,
+                "segmentType": "Business",
+                "segmentName": "Centralized distribution costs",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 30000000.0,
+                "segmentType": "Business",
+                "segmentName": "Certain litigation charges, net",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -70000000.0,
+                "segmentType": "Business",
+                "segmentName": "Commitments to the Medtronic Foundation and Medtronic LABS",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -1763000000.0,
+                "segmentType": "Business",
+                "segmentName": "Corporate",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 465000000.0,
+                "segmentType": "Business",
+                "segmentName": "Currency",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 383000000.0,
+                "segmentType": "Business",
+                "segmentName": "Diabetes",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -235000000.0,
+                "segmentType": "Business",
+                "segmentName": "Divestiture and separation-related items",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 0.0,
+                "segmentType": "Business",
+                "segmentName": "Impairment of abandoned intangible assets",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 0.0,
+                "segmentType": "Business",
+                "segmentName": "In-process research and development (IPR&D) charges",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 0.0,
+                "segmentType": "Business",
+                "segmentName": "Mechanical Circulatory Support (MCS) Impairments / Costs",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -150000000.0,
+                "segmentType": "Business",
+                "segmentName": "Medical device regulations",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 3048000000.0,
+                "segmentType": "Business",
+                "segmentName": "Medical Surgical",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 3712000000.0,
+                "segmentType": "Business",
+                "segmentName": "Neuroscience",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -89000000.0,
+                "segmentType": "Business",
+                "segmentName": "Other operating segment",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -647000000.0,
+                "segmentType": "Business",
+                "segmentName": "Restructuring and associated costs",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -355000000.0,
+                "segmentType": "Business",
+                "segmentName": "Stock-based compensation",
+                "isPrimarySegment": 0
+              }
+            ]
+          },
+          {
+            "dataId": 20109,
+            "asOfDate": "2024-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 5520000000.0,
+              "fmt": "5.52B"
+            },
+            "businessSegmentData": [
+              {
+                "dataValue": -777000000.0,
+                "segmentType": "Business",
+                "segmentName": "Acquisition and divestiture-related items",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -1693000000.0,
+                "segmentType": "Business",
+                "segmentName": "Amortization of intangible assets",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 4474000000.0,
+                "segmentType": "Business",
+                "segmentName": "Cardiovascular",
+                "isPrimarySegment": 1
+              },
+              {
+                "dataValue": -1609000000.0,
+                "segmentType": "Business",
+                "segmentName": "Centralized distribution costs",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -149000000.0,
+                "segmentType": "Business",
+                "segmentName": "Certain litigation charges, net",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 0.0,
+                "segmentType": "Business",
+                "segmentName": "Commitments to the Medtronic Foundation and Medtronic LABS",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -1784000000.0,
+                "segmentType": "Business",
+                "segmentName": "Corporate",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 68000000.0,
+                "segmentType": "Business",
+                "segmentName": "Currency",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 394000000.0,
+                "segmentType": "Business",
+                "segmentName": "Diabetes",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 0.0,
+                "segmentType": "Business",
+                "segmentName": "In-process research and development (IPR&D) charges",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -119000000.0,
+                "segmentType": "Business",
+                "segmentName": "Medical device regulations",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 3170000000.0,
+                "segmentType": "Business",
+                "segmentName": "Medical Surgical",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 3940000000.0,
+                "segmentType": "Business",
+                "segmentName": "Neuroscience",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 10000000.0,
+                "segmentType": "Business",
+                "segmentName": "Other operating segment",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -389000000.0,
+                "segmentType": "Business",
+                "segmentName": "Restructuring and associated costs",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -393000000.0,
+                "segmentType": "Business",
+                "segmentName": "Stock-based compensation",
+                "isPrimarySegment": 0
+              }
+            ]
+          },
+          {
+            "dataId": 20109,
+            "asOfDate": "2025-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 6540000000.0,
+              "fmt": "6.54B"
+            },
+            "businessSegmentData": [
+              {
+                "dataValue": -124000000.0,
+                "segmentType": "Business",
+                "segmentName": "Acquisition and divestiture-related items",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -1807000000.0,
+                "segmentType": "Business",
+                "segmentName": "Amortization of intangible assets",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 4801000000.0,
+                "segmentType": "Business",
+                "segmentName": "Cardiovascular",
+                "isPrimarySegment": 1
+              },
+              {
+                "dataValue": -1650000000.0,
+                "segmentType": "Business",
+                "segmentName": "Centralized distribution costs",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -317000000.0,
+                "segmentType": "Business",
+                "segmentName": "Certain litigation charges, net",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -1837000000.0,
+                "segmentType": "Business",
+                "segmentName": "Corporate",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -3000000.0,
+                "segmentType": "Business",
+                "segmentName": "Currency",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 491000000.0,
+                "segmentType": "Business",
+                "segmentName": "Diabetes",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -52000000.0,
+                "segmentType": "Business",
+                "segmentName": "Medical device regulations",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 3042000000.0,
+                "segmentType": "Business",
+                "segmentName": "Medical Surgical",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 4183000000.0,
+                "segmentType": "Business",
+                "segmentName": "Neuroscience",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -90000000.0,
+                "segmentType": "Business",
+                "segmentName": "Other adjustments",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 49000000.0,
+                "segmentType": "Business",
+                "segmentName": "Other operating segment",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -303000000.0,
+                "segmentType": "Business",
+                "segmentName": "Restructuring and associated costs",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -429000000.0,
+                "segmentType": "Business",
+                "segmentName": "Stock-based compensation",
+                "isPrimarySegment": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "MDT"
+          ],
+          "type": [
+            "annualInterestExpense"
+          ]
+        },
+        "timestamp": [
+          1651276800,
+          1682812800,
+          1714435200,
+          1745971200
+        ],
+        "annualInterestExpense": [
+          {
+            "dataId": 20057,
+            "asOfDate": "2022-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 553000000.0,
+              "fmt": "553.00M"
+            }
+          },
+          {
+            "dataId": 20057,
+            "asOfDate": "2023-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 636000000.0,
+              "fmt": "636.00M"
+            }
+          },
+          {
+            "dataId": 20057,
+            "asOfDate": "2024-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 719000000.0,
+              "fmt": "719.00M"
+            }
+          },
+          {
+            "dataId": 20057,
+            "asOfDate": "2025-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 729000000.0,
+              "fmt": "729.00M"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "MDT"
+          ],
+          "type": [
+            "annualGrossProfit"
+          ]
+        },
+        "timestamp": [
+          1651276800,
+          1682812800,
+          1714435200,
+          1745971200
+        ],
+        "annualGrossProfit": [
+          {
+            "dataId": 20046,
+            "asOfDate": "2022-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 21541000000.0,
+              "fmt": "21.54B"
+            }
+          },
+          {
+            "dataId": 20046,
+            "asOfDate": "2023-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 20508000000.0,
+              "fmt": "20.51B"
+            }
+          },
+          {
+            "dataId": 20046,
+            "asOfDate": "2024-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 21148000000.0,
+              "fmt": "21.15B"
+            }
+          },
+          {
+            "dataId": 20046,
+            "asOfDate": "2025-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 21905000000.0,
+              "fmt": "21.91B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "MDT"
+          ],
+          "type": [
+            "annualCapitalExpenditure"
+          ]
+        },
+        "timestamp": [
+          1651276800,
+          1682812800,
+          1714435200,
+          1745971200
+        ],
+        "annualCapitalExpenditure": [
+          {
+            "dataId": 26005,
+            "asOfDate": "2022-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -1368000000.0,
+              "fmt": "-1.37B"
+            }
+          },
+          {
+            "dataId": 26005,
+            "asOfDate": "2023-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -1459000000.0,
+              "fmt": "-1.46B"
+            }
+          },
+          {
+            "dataId": 26005,
+            "asOfDate": "2024-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -1587000000.0,
+              "fmt": "-1.59B"
+            }
+          },
+          {
+            "dataId": 26005,
+            "asOfDate": "2025-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -1859000000.0,
+              "fmt": "-1.86B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "MDT"
+          ],
+          "type": [
+            "annualTotalDebt"
+          ]
+        },
+        "timestamp": [
+          1651276800,
+          1682812800,
+          1714435200,
+          1745971200
+        ],
+        "annualTotalDebt": [
+          {
+            "dataId": 23386,
+            "asOfDate": "2022-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 24114000000.0,
+              "fmt": "24.11B"
+            }
+          },
+          {
+            "dataId": 23386,
+            "asOfDate": "2023-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 24364000000.0,
+              "fmt": "24.36B"
+            }
+          },
+          {
+            "dataId": 23386,
+            "asOfDate": "2024-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 25024000000.0,
+              "fmt": "25.02B"
+            }
+          },
+          {
+            "dataId": 23386,
+            "asOfDate": "2025-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 28516000000.0,
+              "fmt": "28.52B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "MDT"
+          ],
+          "type": [
+            "annualCurrentLiabilities"
+          ]
+        },
+        "timestamp": [
+          1651276800,
+          1682812800,
+          1714435200,
+          1745971200
+        ],
+        "annualCurrentLiabilities": [
+          {
+            "dataId": 23047,
+            "asOfDate": "2022-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 12394000000.0,
+              "fmt": "12.39B"
+            }
+          },
+          {
+            "dataId": 23047,
+            "asOfDate": "2023-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 9051000000.0,
+              "fmt": "9.05B"
+            }
+          },
+          {
+            "dataId": 23047,
+            "asOfDate": "2024-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 10789000000.0,
+              "fmt": "10.79B"
+            }
+          },
+          {
+            "dataId": 23047,
+            "asOfDate": "2025-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 12879000000.0,
+              "fmt": "12.88B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "MDT"
+          ],
+          "type": [
+            "annualAccountsPayable"
+          ]
+        },
+        "timestamp": [
+          1651276800,
+          1682812800,
+          1714435200,
+          1745971200
+        ],
+        "annualAccountsPayable": [
+          {
+            "dataId": 23000,
+            "asOfDate": "2022-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2276000000.0,
+              "fmt": "2.28B"
+            }
+          },
+          {
+            "dataId": 23000,
+            "asOfDate": "2023-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2662000000.0,
+              "fmt": "2.66B"
+            }
+          },
+          {
+            "dataId": 23000,
+            "asOfDate": "2024-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2410000000.0,
+              "fmt": "2.41B"
+            }
+          },
+          {
+            "dataId": 23000,
+            "asOfDate": "2025-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2449000000.0,
+              "fmt": "2.45B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "MDT"
+          ],
+          "type": [
+            "annualPretaxIncome"
+          ]
+        },
+        "timestamp": [
+          1651276800,
+          1682812800,
+          1714435200,
+          1745971200
+        ],
+        "annualPretaxIncome": [
+          {
+            "dataId": 20136,
+            "asOfDate": "2022-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 5517000000.0,
+              "fmt": "5.52B"
+            }
+          },
+          {
+            "dataId": 20136,
+            "asOfDate": "2023-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 5364000000.0,
+              "fmt": "5.36B"
+            }
+          },
+          {
+            "dataId": 20136,
+            "asOfDate": "2024-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4837000000.0,
+              "fmt": "4.84B"
+            }
+          },
+          {
+            "dataId": 20136,
+            "asOfDate": "2025-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 5628000000.0,
+              "fmt": "5.63B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "MDT"
+          ],
+          "type": [
+            "annualOperatingCashFlow"
+          ]
+        },
+        "timestamp": [
+          1651276800,
+          1682812800,
+          1714435200,
+          1745971200
+        ],
+        "annualOperatingCashFlow": [
+          {
+            "dataId": 26014,
+            "asOfDate": "2022-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 7346000000.0,
+              "fmt": "7.35B"
+            }
+          },
+          {
+            "dataId": 26014,
+            "asOfDate": "2023-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 6039000000.0,
+              "fmt": "6.04B"
+            }
+          },
+          {
+            "dataId": 26014,
+            "asOfDate": "2024-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 6787000000.0,
+              "fmt": "6.79B"
+            }
+          },
+          {
+            "dataId": 26014,
+            "asOfDate": "2025-04-30",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 7044000000.0,
+              "fmt": "7.04B"
+            }
+          }
+        ]
+      }
+    ],
+    "error": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "risk_free_rate": 0.043899999999999995,
+  "equity_risk_premium": 0.0446,
+  "long_term_gdp_growth": 0.04386365833430461,
+  "inflation_rate": 0.004383018792691429,
+  "data_source": "Federal Reserve Economic Data (FRED) + Damodaran",
+  "source_urls": [
+    "https://fred.stlouisfed.org/series/DGS10",
+    "https://fred.stlouisfed.org/series/GDP",
+    "https://fred.stlouisfed.org/series/CPIAUCSL",
+    "https://pages.stern.nyu.edu/~adamodar/"
+  ],
+  "source_mode": "live_api"
+}

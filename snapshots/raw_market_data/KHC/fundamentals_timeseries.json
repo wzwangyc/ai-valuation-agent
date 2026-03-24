@@ -1,0 +1,1481 @@
+{
+  "timeseries": {
+    "result": [
+      {
+        "meta": {
+          "symbol": [
+            "KHC"
+          ],
+          "type": [
+            "annualOperatingIncome"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualOperatingIncome": [
+          {
+            "dataId": 20109,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4547000000.0,
+              "fmt": "4.55B"
+            },
+            "businessSegmentData": [
+              {
+                "dataValue": -210000000.0,
+                "segmentType": "Business",
+                "segmentName": "Certain non-ordinary course legal and regulatory matters",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -9000000.0,
+                "segmentType": "Business",
+                "segmentName": "Deal costs",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 319000000.0,
+                "segmentType": "Business",
+                "segmentName": "Emerging Markets",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -587000000.0,
+                "segmentType": "Business",
+                "segmentName": "General corporate expenses",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -999000000.0,
+                "segmentType": "Business",
+                "segmentName": "Impairment losses",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 522000000.0,
+                "segmentType": "Business",
+                "segmentName": "International Developed Markets",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 4735000000.0,
+                "segmentType": "Business",
+                "segmentName": "North America",
+                "isPrimarySegment": 1
+              },
+              {
+                "dataValue": -74000000.0,
+                "segmentType": "Business",
+                "segmentName": "Restructuring activities",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -63000000.0,
+                "segmentType": "Business",
+                "segmentName": "Unrealized gains/(losses) on commodity hedges",
+                "isPrimarySegment": 0
+              }
+            ],
+            "geographicSegmentData": [
+              {
+                "dataValue": -210000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Certain non-ordinary course legal and regulatory matters",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -9000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Deal costs",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -922000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Depreciation and amortization (excluding restructuring activities)",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 56000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Divestiture-related license income",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -148000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Equity award compensation expense",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -298000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "General corporate expenses",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -999000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Impairment losses",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 1017000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "International",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 5284000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "North America",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -74000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Restructuring activities",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -63000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Unrealized gains/(losses) on commodity hedges",
+                "isPrimarySegment": 0
+              }
+            ]
+          },
+          {
+            "dataId": 20109,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 5234000000.0,
+              "fmt": "5.23B"
+            },
+            "businessSegmentData": [
+              {
+                "dataValue": -2000000.0,
+                "segmentType": "Business",
+                "segmentName": "Certain non-ordinary course legal and regulatory matters",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 376000000.0,
+                "segmentType": "Business",
+                "segmentName": "Emerging Markets",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -651000000.0,
+                "segmentType": "Business",
+                "segmentName": "General corporate expenses",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -662000000.0,
+                "segmentType": "Business",
+                "segmentName": "Impairment losses",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 522000000.0,
+                "segmentType": "Business",
+                "segmentName": "International Developed Markets",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 5050000000.0,
+                "segmentType": "Business",
+                "segmentName": "North America",
+                "isPrimarySegment": 1
+              },
+              {
+                "dataValue": -60000000.0,
+                "segmentType": "Business",
+                "segmentName": "Restructuring activities",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -1000000.0,
+                "segmentType": "Business",
+                "segmentName": "Unrealized gains/(losses) on commodity hedges",
+                "isPrimarySegment": 0
+              }
+            ],
+            "geographicSegmentData": [
+              {
+                "dataValue": -2000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Certain non-ordinary course legal and regulatory matters",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 0.0,
+                "segmentType": "Geographic",
+                "segmentName": "Deal costs",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -923000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Depreciation and amortization (excluding restructuring activities)",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 54000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Divestiture-related license income",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -141000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Equity award compensation expense",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -390000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "General corporate expenses",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -662000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Impairment losses",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 1094000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "International",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 5603000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "North America",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -60000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Restructuring activities",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -1000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Unrealized gains/(losses) on commodity hedges",
+                "isPrimarySegment": 0
+              }
+            ]
+          },
+          {
+            "dataId": 20109,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 5352000000.0,
+              "fmt": "5.35B"
+            },
+            "businessSegmentData": [
+              {
+                "dataValue": 321000000.0,
+                "segmentType": "Business",
+                "segmentName": "Emerging Markets",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -609000000.0,
+                "segmentType": "Business",
+                "segmentName": "General corporate expenses",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -3669000000.0,
+                "segmentType": "Business",
+                "segmentName": "Impairment losses",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 537000000.0,
+                "segmentType": "Business",
+                "segmentName": "International Developed Markets",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 5111000000.0,
+                "segmentType": "Business",
+                "segmentName": "North America",
+                "isPrimarySegment": 1
+              },
+              {
+                "dataValue": -27000000.0,
+                "segmentType": "Business",
+                "segmentName": "Restructuring activities",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 19000000.0,
+                "segmentType": "Business",
+                "segmentName": "Unrealized gains/(losses) on commodity hedges",
+                "isPrimarySegment": 0
+              }
+            ],
+            "geographicSegmentData": [
+              {
+                "dataValue": 321000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Emerging Markets",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -609000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "General corporate expenses",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -3669000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Impairment losses",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 537000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "International",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 5111000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "North America",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -27000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Restructuring activities",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 19000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Unrealized gains/(losses) on commodity hedges",
+                "isPrimarySegment": 0
+              }
+            ]
+          },
+          {
+            "dataId": 20109,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4637000000.0,
+              "fmt": "4.64B"
+            },
+            "businessSegmentData": [
+              {
+                "dataValue": 341000000.0,
+                "segmentType": "Business",
+                "segmentName": "Emerging Markets",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -528000000.0,
+                "segmentType": "Business",
+                "segmentName": "General corporate expenses",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -9306000000.0,
+                "segmentType": "Business",
+                "segmentName": "Impairment losses",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 543000000.0,
+                "segmentType": "Business",
+                "segmentName": "International Developed Markets",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 4389000000.0,
+                "segmentType": "Business",
+                "segmentName": "North America",
+                "isPrimarySegment": 1
+              },
+              {
+                "dataValue": -13000000.0,
+                "segmentType": "Business",
+                "segmentName": "Restructuring activities",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -60000000.0,
+                "segmentType": "Business",
+                "segmentName": "Separation costs",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -35000000.0,
+                "segmentType": "Business",
+                "segmentName": "Unrealized gains / (losses) on commodity hedges",
+                "isPrimarySegment": 0
+              }
+            ],
+            "geographicSegmentData": [
+              {
+                "dataValue": 341000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Emerging Markets",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -528000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "General corporate expenses",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -9306000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Impairment losses",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 543000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "International Developed Markets",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 4389000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "North America",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -13000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Restructuring activities",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -60000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Separation costs",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -35000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Unrealized gains / (losses) on commodity hedges",
+                "isPrimarySegment": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "KHC"
+          ],
+          "type": [
+            "annualTotalDebt"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualTotalDebt": [
+          {
+            "dataId": 23386,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 20070000000.0,
+              "fmt": "20.07B"
+            }
+          },
+          {
+            "dataId": 23386,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 20032000000.0,
+              "fmt": "20.03B"
+            }
+          },
+          {
+            "dataId": 23386,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 19869000000.0,
+              "fmt": "19.87B"
+            }
+          },
+          {
+            "dataId": 23386,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 21219000000.0,
+              "fmt": "21.22B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "KHC"
+          ],
+          "type": [
+            "annualDepreciationAndAmortization"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualDepreciationAndAmortization": [
+          {
+            "dataId": 26060,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 933000000.0,
+              "fmt": "933.00M"
+            }
+          },
+          {
+            "dataId": 26060,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 961000000.0,
+              "fmt": "961.00M"
+            }
+          },
+          {
+            "dataId": 26060,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 948000000.0,
+              "fmt": "948.00M"
+            }
+          },
+          {
+            "dataId": 26060,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 968000000.0,
+              "fmt": "968.00M"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "KHC"
+          ],
+          "type": [
+            "annualAccountsPayable"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualAccountsPayable": [
+          {
+            "dataId": 23000,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4848000000.0,
+              "fmt": "4.85B"
+            }
+          },
+          {
+            "dataId": 23000,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4627000000.0,
+              "fmt": "4.63B"
+            }
+          },
+          {
+            "dataId": 23000,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4188000000.0,
+              "fmt": "4.19B"
+            }
+          },
+          {
+            "dataId": 23000,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4308000000.0,
+              "fmt": "4.31B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "KHC"
+          ],
+          "type": [
+            "annualCurrentLiabilities"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualCurrentLiabilities": [
+          {
+            "dataId": 23047,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 9028000000.0,
+              "fmt": "9.03B"
+            }
+          },
+          {
+            "dataId": 23047,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 8037000000.0,
+              "fmt": "8.04B"
+            }
+          },
+          {
+            "dataId": 23047,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 7253000000.0,
+              "fmt": "7.25B"
+            }
+          },
+          {
+            "dataId": 23047,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 8778000000.0,
+              "fmt": "8.78B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "KHC"
+          ],
+          "type": [
+            "annualCapitalExpenditure"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualCapitalExpenditure": [
+          {
+            "dataId": 26005,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -916000000.0,
+              "fmt": "-916.00M"
+            }
+          },
+          {
+            "dataId": 26005,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -1013000000.0,
+              "fmt": "-1.01B"
+            }
+          },
+          {
+            "dataId": 26005,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -1164000000.0,
+              "fmt": "-1.16B"
+            }
+          },
+          {
+            "dataId": 26005,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -801000000.0,
+              "fmt": "-801.00M"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "KHC"
+          ],
+          "type": [
+            "annualInterestExpense"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualInterestExpense": [
+          {
+            "dataId": 20057,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 921000000.0,
+              "fmt": "921.00M"
+            }
+          },
+          {
+            "dataId": 20057,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 912000000.0,
+              "fmt": "912.00M"
+            }
+          },
+          {
+            "dataId": 20057,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 912000000.0,
+              "fmt": "912.00M"
+            }
+          },
+          {
+            "dataId": 20057,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 947000000.0,
+              "fmt": "947.00M"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "KHC"
+          ],
+          "type": [
+            "annualOperatingCashFlow"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualOperatingCashFlow": [
+          {
+            "dataId": 26014,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2469000000.0,
+              "fmt": "2.47B"
+            }
+          },
+          {
+            "dataId": 26014,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3976000000.0,
+              "fmt": "3.98B"
+            }
+          },
+          {
+            "dataId": 26014,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4184000000.0,
+              "fmt": "4.18B"
+            }
+          },
+          {
+            "dataId": 26014,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4462000000.0,
+              "fmt": "4.46B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "KHC"
+          ],
+          "type": [
+            "annualTaxProvision"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualTaxProvision": [
+          {
+            "dataId": 20145,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 598000000.0,
+              "fmt": "598.00M"
+            }
+          },
+          {
+            "dataId": 20145,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 787000000.0,
+              "fmt": "787.00M"
+            }
+          },
+          {
+            "dataId": 20145,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -1890000000.0,
+              "fmt": "-1.89B"
+            }
+          },
+          {
+            "dataId": 20145,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 403000000.0,
+              "fmt": "403.00M"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "KHC"
+          ],
+          "type": [
+            "annualPretaxIncome"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualPretaxIncome": [
+          {
+            "dataId": 20136,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2966000000.0,
+              "fmt": "2.97B"
+            }
+          },
+          {
+            "dataId": 20136,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3633000000.0,
+              "fmt": "3.63B"
+            }
+          },
+          {
+            "dataId": 20136,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 856000000.0,
+              "fmt": "856.00M"
+            }
+          },
+          {
+            "dataId": 20136,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -5445000000.0,
+              "fmt": "-5.45B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "KHC"
+          ],
+          "type": [
+            "annualBasicAverageShares"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualBasicAverageShares": [
+          {
+            "dataId": 29010,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1226000000.0,
+              "fmt": "1.23B"
+            }
+          },
+          {
+            "dataId": 29010,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1227000000.0,
+              "fmt": "1.23B"
+            }
+          },
+          {
+            "dataId": 29010,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1210000000.0,
+              "fmt": "1.21B"
+            }
+          },
+          {
+            "dataId": 29010,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1187000000.0,
+              "fmt": "1.19B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "KHC"
+          ],
+          "type": [
+            "annualAccountsReceivable"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualAccountsReceivable": [
+          {
+            "dataId": 23001,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2120000000.0,
+              "fmt": "2.12B"
+            }
+          },
+          {
+            "dataId": 23001,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2112000000.0,
+              "fmt": "2.11B"
+            }
+          },
+          {
+            "dataId": 23001,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2147000000.0,
+              "fmt": "2.15B"
+            }
+          },
+          {
+            "dataId": 23001,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2254000000.0,
+              "fmt": "2.25B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "KHC"
+          ],
+          "type": [
+            "annualTotalRevenue"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualTotalRevenue": [
+          {
+            "dataId": 20100,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 26485000000.0,
+              "fmt": "26.48B"
+            }
+          },
+          {
+            "dataId": 20100,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 26640000000.0,
+              "fmt": "26.64B"
+            }
+          },
+          {
+            "dataId": 20100,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 25846000000.0,
+              "fmt": "25.85B"
+            }
+          },
+          {
+            "dataId": 20100,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 24942000000.0,
+              "fmt": "24.94B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "KHC"
+          ],
+          "type": [
+            "annualCurrentAssets"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualCurrentAssets": [
+          {
+            "dataId": 23044,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 7897000000.0,
+              "fmt": "7.90B"
+            }
+          },
+          {
+            "dataId": 23044,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 7929000000.0,
+              "fmt": "7.93B"
+            }
+          },
+          {
+            "dataId": 23044,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 7655000000.0,
+              "fmt": "7.66B"
+            }
+          },
+          {
+            "dataId": 23044,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 10127000000.0,
+              "fmt": "10.13B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "KHC"
+          ],
+          "type": [
+            "annualCashAndCashEquivalents"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualCashAndCashEquivalents": [
+          {
+            "dataId": 23030,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1040000000.0,
+              "fmt": "1.04B"
+            }
+          },
+          {
+            "dataId": 23030,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1400000000.0,
+              "fmt": "1.40B"
+            }
+          },
+          {
+            "dataId": 23030,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1334000000.0,
+              "fmt": "1.33B"
+            }
+          },
+          {
+            "dataId": 23030,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2615000000.0,
+              "fmt": "2.62B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "KHC"
+          ],
+          "type": [
+            "annualGrossProfit"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualGrossProfit": [
+          {
+            "dataId": 20046,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 8122000000.0,
+              "fmt": "8.12B"
+            }
+          },
+          {
+            "dataId": 20046,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 8926000000.0,
+              "fmt": "8.93B"
+            }
+          },
+          {
+            "dataId": 20046,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 8968000000.0,
+              "fmt": "8.97B"
+            }
+          },
+          {
+            "dataId": 20046,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 8309000000.0,
+              "fmt": "8.31B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "KHC"
+          ],
+          "type": [
+            "annualInventory"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualInventory": [
+          {
+            "dataId": 23108,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3651000000.0,
+              "fmt": "3.65B"
+            }
+          },
+          {
+            "dataId": 23108,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3614000000.0,
+              "fmt": "3.61B"
+            }
+          },
+          {
+            "dataId": 23108,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3376000000.0,
+              "fmt": "3.38B"
+            }
+          },
+          {
+            "dataId": 23108,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3167000000.0,
+              "fmt": "3.17B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "KHC"
+          ],
+          "type": [
+            "annualNetIncome"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualNetIncome": [
+          {
+            "dataId": 20091,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2363000000.0,
+              "fmt": "2.36B"
+            }
+          },
+          {
+            "dataId": 20091,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2855000000.0,
+              "fmt": "2.85B"
+            }
+          },
+          {
+            "dataId": 20091,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2744000000.0,
+              "fmt": "2.74B"
+            }
+          },
+          {
+            "dataId": 20091,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -5846000000.0,
+              "fmt": "-5.85B"
+            }
+          }
+        ]
+      }
+    ],
+    "error": null
+  }
+}

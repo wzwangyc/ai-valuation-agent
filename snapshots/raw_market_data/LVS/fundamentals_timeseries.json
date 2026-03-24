@@ -1,0 +1,1585 @@
+{
+  "timeseries": {
+    "result": [
+      {
+        "meta": {
+          "symbol": [
+            "LVS"
+          ],
+          "type": [
+            "annualPretaxIncome"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualPretaxIncome": [
+          {
+            "dataId": 20136,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -1387000000.0,
+              "fmt": "-1.39B"
+            }
+          },
+          {
+            "dataId": 20136,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1775000000.0,
+              "fmt": "1.77B"
+            }
+          },
+          {
+            "dataId": 20136,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1960000000.0,
+              "fmt": "1.96B"
+            }
+          },
+          {
+            "dataId": 20136,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2213000000.0,
+              "fmt": "2.21B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "LVS"
+          ],
+          "type": [
+            "annualNetIncome"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualNetIncome": [
+          {
+            "dataId": 20091,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1832000000.0,
+              "fmt": "1.83B"
+            }
+          },
+          {
+            "dataId": 20091,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1221000000.0,
+              "fmt": "1.22B"
+            }
+          },
+          {
+            "dataId": 20091,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1446000000.0,
+              "fmt": "1.45B"
+            }
+          },
+          {
+            "dataId": 20091,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1627000000.0,
+              "fmt": "1.63B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "LVS"
+          ],
+          "type": [
+            "annualOperatingIncome"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualOperatingIncome": [
+          {
+            "dataId": 20109,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -770000000.0,
+              "fmt": "-770.00M"
+            },
+            "businessSegmentData": [
+              {
+                "dataValue": -55000000.0,
+                "segmentType": "Business",
+                "segmentName": "Amortization of leasehold interests in land",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -235000000.0,
+                "segmentType": "Business",
+                "segmentName": "Corporate",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -1036000000.0,
+                "segmentType": "Business",
+                "segmentName": "Depreciation and amortization",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -143000000.0,
+                "segmentType": "Business",
+                "segmentName": "Development",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -7000000.0,
+                "segmentType": "Business",
+                "segmentName": "Ferry Operations and Other",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 0.0,
+                "segmentType": "Business",
+                "segmentName": "Inter-company Royalties",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -9000000.0,
+                "segmentType": "Business",
+                "segmentName": "Loss on disposal or impairment of assets",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 1056000000.0,
+                "segmentType": "Business",
+                "segmentName": "Marina Bay Sands",
+                "isPrimarySegment": 1
+              },
+              {
+                "dataValue": -13000000.0,
+                "segmentType": "Business",
+                "segmentName": "Pre-opening",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -81000000.0,
+                "segmentType": "Business",
+                "segmentName": "Sands Macao",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -33000000.0,
+                "segmentType": "Business",
+                "segmentName": "Stock-based compensation",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -189000000.0,
+                "segmentType": "Business",
+                "segmentName": "The Londoner Macao",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -103000000.0,
+                "segmentType": "Business",
+                "segmentName": "The Parisian Macao",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 81000000.0,
+                "segmentType": "Business",
+                "segmentName": "The Plaza Macao and Four Seasons Macao",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -25000000.0,
+                "segmentType": "Business",
+                "segmentName": "The Venetian Macao",
+                "isPrimarySegment": 0
+              }
+            ],
+            "geographicSegmentData": [
+              {
+                "dataValue": -55000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Amortization of leasehold interests in land",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -235000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Corporate",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -1036000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Depreciation and amortization",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -143000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Development",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -7000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Ferry Operations and Other",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -9000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Loss on disposal or impairment of assets",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 1056000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Marina Bay Sands",
+                "isPrimarySegment": 1
+              },
+              {
+                "dataValue": -13000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Pre-opening",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -81000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Sands Macao",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -33000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Stock-based compensation",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -189000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "The Londoner Macao",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -103000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "The Parisian Macao",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 81000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "The Plaza Macao and Four Seasons Macao",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -25000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "The Venetian Macao",
+                "isPrimarySegment": 0
+              }
+            ]
+          },
+          {
+            "dataId": 20109,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2355000000.0,
+              "fmt": "2.35B"
+            },
+            "businessSegmentData": [
+              {
+                "dataValue": -58000000.0,
+                "segmentType": "Business",
+                "segmentName": "Amortization of leasehold interests in land",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -230000000.0,
+                "segmentType": "Business",
+                "segmentName": "Corporate",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -1208000000.0,
+                "segmentType": "Business",
+                "segmentName": "Depreciation and amortization",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -205000000.0,
+                "segmentType": "Business",
+                "segmentName": "Development",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 18000000.0,
+                "segmentType": "Business",
+                "segmentName": "Ferry Operations and Other",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 0.0,
+                "segmentType": "Business",
+                "segmentName": "Inter-company Royalties",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -27000000.0,
+                "segmentType": "Business",
+                "segmentName": "Loss on disposal or impairment of assets",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 1861000000.0,
+                "segmentType": "Business",
+                "segmentName": "Marina Bay Sands",
+                "isPrimarySegment": 1
+              },
+              {
+                "dataValue": -15000000.0,
+                "segmentType": "Business",
+                "segmentName": "Pre-opening",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 59000000.0,
+                "segmentType": "Business",
+                "segmentName": "Sands Macao",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -29000000.0,
+                "segmentType": "Business",
+                "segmentName": "Stock-based compensation",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 516000000.0,
+                "segmentType": "Business",
+                "segmentName": "The Londoner Macao",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 269000000.0,
+                "segmentType": "Business",
+                "segmentName": "The Parisian Macao",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 308000000.0,
+                "segmentType": "Business",
+                "segmentName": "The Plaza Macao and Four Seasons Macao",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 1054000000.0,
+                "segmentType": "Business",
+                "segmentName": "The Venetian Macao",
+                "isPrimarySegment": 0
+              }
+            ],
+            "geographicSegmentData": [
+              {
+                "dataValue": -58000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Amortization of leasehold interests in land",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -230000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Corporate",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -1208000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Depreciation and amortization",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -205000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Development",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 18000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Ferry Operations and Other",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -27000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Loss on disposal or impairment of assets",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 1861000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Marina Bay Sands",
+                "isPrimarySegment": 1
+              },
+              {
+                "dataValue": -15000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Pre-opening",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 59000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Sands Macao",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -29000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Stock-based compensation",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 516000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "The Londoner Macao",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 269000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "The Parisian Macao",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 308000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "The Plaza Macao and Four Seasons Macao",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 1054000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "The Venetian Macao",
+                "isPrimarySegment": 0
+              }
+            ]
+          },
+          {
+            "dataId": 20109,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2466000000.0,
+              "fmt": "2.47B"
+            },
+            "businessSegmentData": [
+              {
+                "dataValue": -60000000.0,
+                "segmentType": "Business",
+                "segmentName": "Amortization of leasehold interests in land",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -290000000.0,
+                "segmentType": "Business",
+                "segmentName": "Corporate",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -1308000000.0,
+                "segmentType": "Business",
+                "segmentName": "Depreciation and amortization",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -228000000.0,
+                "segmentType": "Business",
+                "segmentName": "Development",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 17000000.0,
+                "segmentType": "Business",
+                "segmentName": "Ferry Operations and Other",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 0.0,
+                "segmentType": "Business",
+                "segmentName": "Inter-company Royalties",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -50000000.0,
+                "segmentType": "Business",
+                "segmentName": "Loss on disposal or impairment of assets",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 2052000000.0,
+                "segmentType": "Business",
+                "segmentName": "Marina Bay Sands",
+                "isPrimarySegment": 1
+              },
+              {
+                "dataValue": -14000000.0,
+                "segmentType": "Business",
+                "segmentName": "Pre-opening",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 56000000.0,
+                "segmentType": "Business",
+                "segmentName": "Sands Macao",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -27000000.0,
+                "segmentType": "Business",
+                "segmentName": "Stock-based compensation",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 543000000.0,
+                "segmentType": "Business",
+                "segmentName": "The Londoner Macao",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 297000000.0,
+                "segmentType": "Business",
+                "segmentName": "The Parisian Macao",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 321000000.0,
+                "segmentType": "Business",
+                "segmentName": "The Plaza Macao and Four Seasons Macao",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 1093000000.0,
+                "segmentType": "Business",
+                "segmentName": "The Venetian Macao",
+                "isPrimarySegment": 0
+              }
+            ],
+            "geographicSegmentData": [
+              {
+                "dataValue": -60000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Amortization of leasehold interests in land",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -290000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Corporate",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -1308000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Depreciation and amortization",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -228000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Development",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 17000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Ferry Operations and Other",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -50000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Loss on disposal or impairment of assets",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 2052000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Marina Bay Sands",
+                "isPrimarySegment": 1
+              },
+              {
+                "dataValue": -14000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Pre-opening",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 56000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Sands Macao",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -27000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "Stock-based compensation",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 543000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "The Londoner Macao",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 297000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "The Parisian Macao",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 321000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "The Plaza Macao and Four Seasons Macao",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 1093000000.0,
+                "segmentType": "Geographic",
+                "segmentName": "The Venetian Macao",
+                "isPrimarySegment": 0
+              }
+            ]
+          },
+          {
+            "dataId": 20109,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3089000000.0,
+              "fmt": "3.09B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "LVS"
+          ],
+          "type": [
+            "annualCashAndCashEquivalents"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualCashAndCashEquivalents": [
+          {
+            "dataId": 23030,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 6311000000.0,
+              "fmt": "6.31B"
+            }
+          },
+          {
+            "dataId": 23030,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 5105000000.0,
+              "fmt": "5.11B"
+            }
+          },
+          {
+            "dataId": 23030,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3650000000.0,
+              "fmt": "3.65B"
+            }
+          },
+          {
+            "dataId": 23030,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3841000000.0,
+              "fmt": "3.84B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "LVS"
+          ],
+          "type": [
+            "annualInterestExpense"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualInterestExpense": [
+          {
+            "dataId": 20057,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 702000000.0,
+              "fmt": "702.00M"
+            }
+          },
+          {
+            "dataId": 20057,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 818000000.0,
+              "fmt": "818.00M"
+            }
+          },
+          {
+            "dataId": 20057,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 727000000.0,
+              "fmt": "727.00M"
+            }
+          },
+          {
+            "dataId": 20057,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 746000000.0,
+              "fmt": "746.00M"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "LVS"
+          ],
+          "type": [
+            "annualOperatingCashFlow"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualOperatingCashFlow": [
+          {
+            "dataId": 26014,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -795000000.0,
+              "fmt": "-795.00M"
+            }
+          },
+          {
+            "dataId": 26014,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3227000000.0,
+              "fmt": "3.23B"
+            }
+          },
+          {
+            "dataId": 26014,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3204000000.0,
+              "fmt": "3.20B"
+            }
+          },
+          {
+            "dataId": 26014,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3023000000.0,
+              "fmt": "3.02B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "LVS"
+          ],
+          "type": [
+            "annualInventory"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualInventory": [
+          {
+            "dataId": 23108,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 28000000.0,
+              "fmt": "28.00M"
+            }
+          },
+          {
+            "dataId": 23108,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 38000000.0,
+              "fmt": "38.00M"
+            }
+          },
+          {
+            "dataId": 23108,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 41000000.0,
+              "fmt": "41.00M"
+            }
+          },
+          {
+            "dataId": 23108,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 46000000.0,
+              "fmt": "46.00M"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "LVS"
+          ],
+          "type": [
+            "annualAccountsPayable"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualAccountsPayable": [
+          {
+            "dataId": 23000,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 89000000.0,
+              "fmt": "89.00M"
+            }
+          },
+          {
+            "dataId": 23000,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 167000000.0,
+              "fmt": "167.00M"
+            }
+          },
+          {
+            "dataId": 23000,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 164000000.0,
+              "fmt": "164.00M"
+            }
+          },
+          {
+            "dataId": 23000,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 190000000.0,
+              "fmt": "190.00M"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "LVS"
+          ],
+          "type": [
+            "annualGrossProfit"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualGrossProfit": [
+          {
+            "dataId": 20046,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1650000000.0,
+              "fmt": "1.65B"
+            }
+          },
+          {
+            "dataId": 20046,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 5167000000.0,
+              "fmt": "5.17B"
+            }
+          },
+          {
+            "dataId": 20046,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 5521000000.0,
+              "fmt": "5.52B"
+            }
+          },
+          {
+            "dataId": 20046,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 6481000000.0,
+              "fmt": "6.48B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "LVS"
+          ],
+          "type": [
+            "annualCapitalExpenditure"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualCapitalExpenditure": [
+          {
+            "dataId": 26005,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -780000000.0,
+              "fmt": "-780.00M"
+            }
+          },
+          {
+            "dataId": 26005,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -1257000000.0,
+              "fmt": "-1.26B"
+            }
+          },
+          {
+            "dataId": 26005,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -1580000000.0,
+              "fmt": "-1.58B"
+            }
+          },
+          {
+            "dataId": 26005,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -1243000000.0,
+              "fmt": "-1.24B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "LVS"
+          ],
+          "type": [
+            "annualCurrentLiabilities"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualCurrentLiabilities": [
+          {
+            "dataId": 23047,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3902000000.0,
+              "fmt": "3.90B"
+            }
+          },
+          {
+            "dataId": 23047,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4422000000.0,
+              "fmt": "4.42B"
+            }
+          },
+          {
+            "dataId": 23047,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 5801000000.0,
+              "fmt": "5.80B"
+            }
+          },
+          {
+            "dataId": 23047,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4222000000.0,
+              "fmt": "4.22B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "LVS"
+          ],
+          "type": [
+            "annualTotalDebt"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualTotalDebt": [
+          {
+            "dataId": 23386,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 15978000000.0,
+              "fmt": "15.98B"
+            }
+          },
+          {
+            "dataId": 23386,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 14029000000.0,
+              "fmt": "14.03B"
+            }
+          },
+          {
+            "dataId": 23386,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 13752000000.0,
+              "fmt": "13.75B"
+            }
+          },
+          {
+            "dataId": 23386,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 15784000000.0,
+              "fmt": "15.78B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "LVS"
+          ],
+          "type": [
+            "annualAccountsReceivable"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualAccountsReceivable": [
+          {
+            "dataId": 23001,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 267000000.0,
+              "fmt": "267.00M"
+            }
+          },
+          {
+            "dataId": 23001,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 484000000.0,
+              "fmt": "484.00M"
+            }
+          },
+          {
+            "dataId": 23001,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 417000000.0,
+              "fmt": "417.00M"
+            }
+          },
+          {
+            "dataId": 23001,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 742000000.0,
+              "fmt": "742.00M"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "LVS"
+          ],
+          "type": [
+            "annualBasicAverageShares"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualBasicAverageShares": [
+          {
+            "dataId": 29010,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 764000000.0,
+              "fmt": "764.00M"
+            }
+          },
+          {
+            "dataId": 29010,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 752000000.0,
+              "fmt": "752.00M"
+            }
+          },
+          {
+            "dataId": 29010,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 735000000.0,
+              "fmt": "735.00M"
+            }
+          },
+          {
+            "dataId": 29010,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 691000000.0,
+              "fmt": "691.00M"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "LVS"
+          ],
+          "type": [
+            "annualDepreciationAndAmortization"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualDepreciationAndAmortization": [
+          {
+            "dataId": 26060,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1091000000.0,
+              "fmt": "1.09B"
+            }
+          },
+          {
+            "dataId": 26060,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1266000000.0,
+              "fmt": "1.27B"
+            }
+          },
+          {
+            "dataId": 26060,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1368000000.0,
+              "fmt": "1.37B"
+            }
+          },
+          {
+            "dataId": 26060,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1540000000.0,
+              "fmt": "1.54B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "LVS"
+          ],
+          "type": [
+            "annualCurrentAssets"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualCurrentAssets": [
+          {
+            "dataId": 23044,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 6744000000.0,
+              "fmt": "6.74B"
+            }
+          },
+          {
+            "dataId": 23044,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 5777000000.0,
+              "fmt": "5.78B"
+            }
+          },
+          {
+            "dataId": 23044,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4290000000.0,
+              "fmt": "4.29B"
+            }
+          },
+          {
+            "dataId": 23044,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4832000000.0,
+              "fmt": "4.83B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "LVS"
+          ],
+          "type": [
+            "annualTaxProvision"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualTaxProvision": [
+          {
+            "dataId": 20145,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 154000000.0,
+              "fmt": "154.00M"
+            }
+          },
+          {
+            "dataId": 20145,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 344000000.0,
+              "fmt": "344.00M"
+            }
+          },
+          {
+            "dataId": 20145,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 208000000.0,
+              "fmt": "208.00M"
+            }
+          },
+          {
+            "dataId": 20145,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 347000000.0,
+              "fmt": "347.00M"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "LVS"
+          ],
+          "type": [
+            "annualTotalRevenue"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualTotalRevenue": [
+          {
+            "dataId": 20100,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4110000000.0,
+              "fmt": "4.11B"
+            }
+          },
+          {
+            "dataId": 20100,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 10372000000.0,
+              "fmt": "10.37B"
+            }
+          },
+          {
+            "dataId": 20100,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 11298000000.0,
+              "fmt": "11.30B"
+            }
+          },
+          {
+            "dataId": 20100,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 13017000000.0,
+              "fmt": "13.02B"
+            }
+          }
+        ]
+      }
+    ],
+    "error": null
+  }
+}

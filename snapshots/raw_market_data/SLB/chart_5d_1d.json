@@ -1,0 +1,133 @@
+{
+  "chart": {
+    "result": [
+      {
+        "meta": {
+          "currency": "USD",
+          "symbol": "SLB",
+          "exchangeName": "NYQ",
+          "fullExchangeName": "NYSE",
+          "instrumentType": "EQUITY",
+          "firstTradeDate": 378657000,
+          "regularMarketTime": 1774291523,
+          "hasPrePostMarketData": true,
+          "gmtoffset": -14400,
+          "timezone": "EDT",
+          "exchangeTimezoneName": "America/New_York",
+          "regularMarketPrice": 49.415,
+          "fiftyTwoWeekHigh": 52.45,
+          "fiftyTwoWeekLow": 31.11,
+          "regularMarketDayHigh": 49.845,
+          "regularMarketDayLow": 47.14,
+          "regularMarketVolume": 14764715,
+          "longName": "SLB N.V.",
+          "shortName": "SLB Limited",
+          "chartPreviousClose": 44.96,
+          "priceHint": 2,
+          "currentTradingPeriod": {
+            "pre": {
+              "timezone": "EDT",
+              "start": 1774252800,
+              "end": 1774272600,
+              "gmtoffset": -14400
+            },
+            "regular": {
+              "timezone": "EDT",
+              "start": 1774272600,
+              "end": 1774296000,
+              "gmtoffset": -14400
+            },
+            "post": {
+              "timezone": "EDT",
+              "start": 1774296000,
+              "end": 1774310400,
+              "gmtoffset": -14400
+            }
+          },
+          "dataGranularity": "1d",
+          "range": "5d",
+          "validRanges": [
+            "1d",
+            "5d",
+            "1mo",
+            "3mo",
+            "6mo",
+            "1y",
+            "2y",
+            "5y",
+            "10y",
+            "ytd",
+            "max"
+          ]
+        },
+        "timestamp": [
+          1773754200,
+          1773840600,
+          1773927000,
+          1774013400,
+          1774272600,
+          1774291523
+        ],
+        "indicators": {
+          "quote": [
+            {
+              "close": [
+                46.130001068115234,
+                45.31999969482422,
+                47.81999969482422,
+                46.630001068115234,
+                null,
+                49.415000915527344
+              ],
+              "high": [
+                46.63999938964844,
+                46.31999969482422,
+                47.880001068115234,
+                48.47999954223633,
+                49.845001220703125,
+                49.845001220703125
+              ],
+              "low": [
+                44.939998626708984,
+                45.189998626708984,
+                44.70000076293945,
+                46.380001068115234,
+                47.13999938964844,
+                47.13999938964844
+              ],
+              "open": [
+                45.5,
+                45.88999938964844,
+                45.220001220703125,
+                48.0099983215332,
+                47.5099983215332,
+                47.5099983215332
+              ],
+              "volume": [
+                14766200,
+                13277000,
+                28158000,
+                65340900,
+                14764715,
+                14764715
+              ]
+            }
+          ],
+          "adjclose": [
+            {
+              "adjclose": [
+                46.130001068115234,
+                45.31999969482422,
+                47.81999969482422,
+                46.630001068115234,
+                null,
+                49.415000915527344
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "error": null
+  }
+}

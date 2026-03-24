@@ -1,0 +1,133 @@
+{
+  "chart": {
+    "result": [
+      {
+        "meta": {
+          "currency": "USD",
+          "symbol": "GOOGL",
+          "exchangeName": "NMS",
+          "fullExchangeName": "NasdaqGS",
+          "instrumentType": "EQUITY",
+          "firstTradeDate": 1092922200,
+          "regularMarketTime": 1774279720,
+          "hasPrePostMarketData": true,
+          "gmtoffset": -14400,
+          "timezone": "EDT",
+          "exchangeTimezoneName": "America/New_York",
+          "regularMarketPrice": 304.745,
+          "fiftyTwoWeekHigh": 349.0,
+          "fiftyTwoWeekLow": 140.53,
+          "regularMarketDayHigh": 305.43,
+          "regularMarketDayLow": 301.91,
+          "regularMarketVolume": 10762843,
+          "longName": "Alphabet Inc.",
+          "shortName": "Alphabet Inc.",
+          "chartPreviousClose": 305.56,
+          "priceHint": 2,
+          "currentTradingPeriod": {
+            "pre": {
+              "timezone": "EDT",
+              "end": 1774272600,
+              "start": 1774252800,
+              "gmtoffset": -14400
+            },
+            "regular": {
+              "timezone": "EDT",
+              "end": 1774296000,
+              "start": 1774272600,
+              "gmtoffset": -14400
+            },
+            "post": {
+              "timezone": "EDT",
+              "end": 1774310400,
+              "start": 1774296000,
+              "gmtoffset": -14400
+            }
+          },
+          "dataGranularity": "1d",
+          "range": "5d",
+          "validRanges": [
+            "1d",
+            "5d",
+            "1mo",
+            "3mo",
+            "6mo",
+            "1y",
+            "2y",
+            "5y",
+            "10y",
+            "ytd",
+            "max"
+          ]
+        },
+        "timestamp": [
+          1773754200,
+          1773840600,
+          1773927000,
+          1774013400,
+          1774272600,
+          1774279720
+        ],
+        "indicators": {
+          "quote": [
+            {
+              "high": [
+                311.4200134277344,
+                312.4700012207031,
+                308.05999755859375,
+                306.0,
+                305.42999267578125,
+                305.42999267578125
+              ],
+              "close": [
+                310.9200134277344,
+                307.69000244140625,
+                307.1300048828125,
+                301.0,
+                null,
+                304.7449951171875
+              ],
+              "low": [
+                305.5,
+                306.92999267578125,
+                302.3500061035156,
+                298.2699890136719,
+                301.9100036621094,
+                301.9100036621094
+              ],
+              "volume": [
+                21955200,
+                20009800,
+                25075800,
+                44330600,
+                10762843,
+                10762843
+              ],
+              "open": [
+                305.8599853515625,
+                309.2699890136719,
+                304.010009765625,
+                305.4599914550781,
+                302.1099853515625,
+                302.1099853515625
+              ]
+            }
+          ],
+          "adjclose": [
+            {
+              "adjclose": [
+                310.9200134277344,
+                307.69000244140625,
+                307.1300048828125,
+                301.0,
+                null,
+                304.7449951171875
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "error": null
+  }
+}

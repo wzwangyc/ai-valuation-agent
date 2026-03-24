@@ -1,0 +1,1317 @@
+{
+  "timeseries": {
+    "result": [
+      {
+        "meta": {
+          "symbol": [
+            "CMCSA"
+          ],
+          "type": [
+            "annualCurrentAssets"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualCurrentAssets": [
+          {
+            "dataId": 23044,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 21826000000.0,
+              "fmt": "21.83B"
+            }
+          },
+          {
+            "dataId": 23044,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 23987000000.0,
+              "fmt": "23.99B"
+            }
+          },
+          {
+            "dataId": 23044,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 26801000000.0,
+              "fmt": "26.80B"
+            }
+          },
+          {
+            "dataId": 23044,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 29567000000.0,
+              "fmt": "29.57B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "CMCSA"
+          ],
+          "type": [
+            "annualAccountsReceivable"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualAccountsReceivable": [
+          {
+            "dataId": 23001,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 12671000000.0,
+              "fmt": "12.67B"
+            }
+          },
+          {
+            "dataId": 23001,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 13813000000.0,
+              "fmt": "13.81B"
+            }
+          },
+          {
+            "dataId": 23001,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 13661000000.0,
+              "fmt": "13.66B"
+            }
+          },
+          {
+            "dataId": 23001,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 13869000000.0,
+              "fmt": "13.87B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "CMCSA"
+          ],
+          "type": [
+            "annualGrossProfit"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualGrossProfit": [
+          {
+            "dataId": 20046,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 83214000000.0,
+              "fmt": "83.21B"
+            }
+          },
+          {
+            "dataId": 20046,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 84810000000.0,
+              "fmt": "84.81B"
+            }
+          },
+          {
+            "dataId": 20046,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 86705000000.0,
+              "fmt": "86.70B"
+            }
+          },
+          {
+            "dataId": 20046,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 88756000000.0,
+              "fmt": "88.76B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "CMCSA"
+          ],
+          "type": [
+            "annualTotalRevenue"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualTotalRevenue": [
+          {
+            "dataId": 20100,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 121427000000.0,
+              "fmt": "121.43B"
+            }
+          },
+          {
+            "dataId": 20100,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 121572000000.0,
+              "fmt": "121.57B"
+            }
+          },
+          {
+            "dataId": 20100,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 123731000000.0,
+              "fmt": "123.73B"
+            }
+          },
+          {
+            "dataId": 20100,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 123707000000.0,
+              "fmt": "123.71B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "CMCSA"
+          ],
+          "type": [
+            "annualOperatingIncome"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualOperatingIncome": [
+          {
+            "dataId": 20109,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 22624000000.0,
+              "fmt": "22.62B"
+            },
+            "businessSegmentData": [
+              {
+                "dataValue": -13000000.0,
+                "segmentType": "Business",
+                "segmentName": "Adjustments",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -5097000000.0,
+                "segmentType": "Business",
+                "segmentName": "Amortization",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 5060000000.0,
+                "segmentType": "Business",
+                "segmentName": "Business Services Connectivity",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 21592000000.0,
+                "segmentType": "Business",
+                "segmentName": "Cable Communications",
+                "isPrimarySegment": 1
+              },
+              {
+                "dataValue": -1021000000.0,
+                "segmentType": "Business",
+                "segmentName": "Corporate and Other",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -8724000000.0,
+                "segmentType": "Business",
+                "segmentName": "Depreciation",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -66000000.0,
+                "segmentType": "Business",
+                "segmentName": "Eliminations",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -8583000000.0,
+                "segmentType": "Business",
+                "segmentName": "Goodwill and long-lived asset impairments",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 3598000000.0,
+                "segmentType": "Business",
+                "segmentName": "Media",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -881000000.0,
+                "segmentType": "Business",
+                "segmentName": "Media, Studios and Theme Parks headquarters and other",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -2000000.0,
+                "segmentType": "Business",
+                "segmentName": "NBCUniversal (National Broadcasting Company Universal)-Eliminations",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -1375000000.0,
+                "segmentType": "Business",
+                "segmentName": "NBCUniversal (National Broadcasting Company Universal)-Headquarters and Other",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 2249000000.0,
+                "segmentType": "Business",
+                "segmentName": "NBCUniversal (National Broadcasting Company Universal)-Media",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 897000000.0,
+                "segmentType": "Business",
+                "segmentName": "NBCUniversal (National Broadcasting Company Universal)-Studios",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 1623000000.0,
+                "segmentType": "Business",
+                "segmentName": "NBCUniversal (National Broadcasting Company Universal)-Theme Parks",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 26111000000.0,
+                "segmentType": "Business",
+                "segmentName": "Residential Connectivity & Platforms",
+                "isPrimarySegment": 1
+              },
+              {
+                "dataValue": -643000000.0,
+                "segmentType": "Business",
+                "segmentName": "Sky",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 961000000.0,
+                "segmentType": "Business",
+                "segmentName": "Studios",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 2683000000.0,
+                "segmentType": "Business",
+                "segmentName": "Theme Parks",
+                "isPrimarySegment": 0
+              }
+            ]
+          },
+          {
+            "dataId": 20109,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 23313000000.0,
+              "fmt": "23.31B"
+            },
+            "businessSegmentData": [
+              {
+                "dataValue": 16000000.0,
+                "segmentType": "Business",
+                "segmentName": "Adjustments",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -5482000000.0,
+                "segmentType": "Business",
+                "segmentName": "Amortization",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 5291000000.0,
+                "segmentType": "Business",
+                "segmentName": "Business Services Connectivity",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -1318000000.0,
+                "segmentType": "Business",
+                "segmentName": "Corporate and Other",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -8854000000.0,
+                "segmentType": "Business",
+                "segmentName": "Depreciation",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 105000000.0,
+                "segmentType": "Business",
+                "segmentName": "Eliminations",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 0.0,
+                "segmentType": "Business",
+                "segmentName": "Goodwill and long-lived asset impairments",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 2955000000.0,
+                "segmentType": "Business",
+                "segmentName": "Media",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -946000000.0,
+                "segmentType": "Business",
+                "segmentName": "Media, Studios and Theme Parks headquarters and other",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 26948000000.0,
+                "segmentType": "Business",
+                "segmentName": "Residential Connectivity & Platforms",
+                "isPrimarySegment": 1
+              },
+              {
+                "dataValue": 1269000000.0,
+                "segmentType": "Business",
+                "segmentName": "Studios",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 3345000000.0,
+                "segmentType": "Business",
+                "segmentName": "Theme Parks",
+                "isPrimarySegment": 0
+              }
+            ]
+          },
+          {
+            "dataId": 20109,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 23298000000.0,
+              "fmt": "23.30B"
+            },
+            "businessSegmentData": [
+              {
+                "dataValue": -6072000000.0,
+                "segmentType": "Business",
+                "segmentName": "Amortization",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 5500000000.0,
+                "segmentType": "Business",
+                "segmentName": "Business Services Connectivity",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -1346000000.0,
+                "segmentType": "Business",
+                "segmentName": "Corporate and Other",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -8729000000.0,
+                "segmentType": "Business",
+                "segmentName": "Depreciation",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -47000000.0,
+                "segmentType": "Business",
+                "segmentName": "Eliminations",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 3130000000.0,
+                "segmentType": "Business",
+                "segmentName": "Media",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -831000000.0,
+                "segmentType": "Business",
+                "segmentName": "Media, Studios and Theme Parks headquarters and other",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 27338000000.0,
+                "segmentType": "Business",
+                "segmentName": "Residential Connectivity & Platforms",
+                "isPrimarySegment": 1
+              },
+              {
+                "dataValue": 1404000000.0,
+                "segmentType": "Business",
+                "segmentName": "Studios",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 2949000000.0,
+                "segmentType": "Business",
+                "segmentName": "Theme Parks",
+                "isPrimarySegment": 0
+              }
+            ]
+          },
+          {
+            "dataId": 20109,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 20670000000.0,
+              "fmt": "20.67B"
+            },
+            "businessSegmentData": [
+              {
+                "dataValue": -6884000000.0,
+                "segmentType": "Business",
+                "segmentName": "Amortization",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 5725000000.0,
+                "segmentType": "Business",
+                "segmentName": "Business Services Connectivity",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -1975000000.0,
+                "segmentType": "Business",
+                "segmentName": "Corporate and Other",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -9327000000.0,
+                "segmentType": "Business",
+                "segmentName": "Depreciation",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 200000000.0,
+                "segmentType": "Business",
+                "segmentName": "Eliminations",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 3196000000.0,
+                "segmentType": "Business",
+                "segmentName": "Media",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -1095000000.0,
+                "segmentType": "Business",
+                "segmentName": "Media, Studios and Theme Parks headquarters and other",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 26653000000.0,
+                "segmentType": "Business",
+                "segmentName": "Residential Connectivity & Platforms",
+                "isPrimarySegment": 1
+              },
+              {
+                "dataValue": 1099000000.0,
+                "segmentType": "Business",
+                "segmentName": "Studios",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 3080000000.0,
+                "segmentType": "Business",
+                "segmentName": "Theme Parks",
+                "isPrimarySegment": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "CMCSA"
+          ],
+          "type": [
+            "annualDepreciationAndAmortization"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualDepreciationAndAmortization": [
+          {
+            "dataId": 26060,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 13821000000.0,
+              "fmt": "13.82B"
+            }
+          },
+          {
+            "dataId": 26060,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 14336000000.0,
+              "fmt": "14.34B"
+            }
+          },
+          {
+            "dataId": 26060,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 14802000000.0,
+              "fmt": "14.80B"
+            }
+          },
+          {
+            "dataId": 26060,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 16210000000.0,
+              "fmt": "16.21B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "CMCSA"
+          ],
+          "type": [
+            "annualAccountsPayable"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualAccountsPayable": [
+          {
+            "dataId": 23000,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 12544000000.0,
+              "fmt": "12.54B"
+            }
+          },
+          {
+            "dataId": 23000,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 12437000000.0,
+              "fmt": "12.44B"
+            }
+          },
+          {
+            "dataId": 23000,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 11321000000.0,
+              "fmt": "11.32B"
+            }
+          },
+          {
+            "dataId": 23000,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 11058000000.0,
+              "fmt": "11.06B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "CMCSA"
+          ],
+          "type": [
+            "annualNetIncome"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualNetIncome": [
+          {
+            "dataId": 20091,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 5370000000.0,
+              "fmt": "5.37B"
+            }
+          },
+          {
+            "dataId": 20091,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 15388000000.0,
+              "fmt": "15.39B"
+            }
+          },
+          {
+            "dataId": 20091,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 16192000000.0,
+              "fmt": "16.19B"
+            }
+          },
+          {
+            "dataId": 20091,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 19998000000.0,
+              "fmt": "20.00B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "CMCSA"
+          ],
+          "type": [
+            "annualBasicAverageShares"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualBasicAverageShares": [
+          {
+            "dataId": 29010,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4220119392.0,
+              "fmt": "4.22B"
+            }
+          },
+          {
+            "dataId": 29010,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3978762306.0,
+              "fmt": "3.98B"
+            }
+          },
+          {
+            "dataId": 29010,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3787746392.0,
+              "fmt": "3.79B"
+            }
+          },
+          {
+            "dataId": 29010,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3604212627.0,
+              "fmt": "3.60B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "CMCSA"
+          ],
+          "type": [
+            "annualCapitalExpenditure"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualCapitalExpenditure": [
+          {
+            "dataId": 26005,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -13767000000.0,
+              "fmt": "-13.77B"
+            }
+          },
+          {
+            "dataId": 26005,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -15540000000.0,
+              "fmt": "-15.54B"
+            }
+          },
+          {
+            "dataId": 26005,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -15130000000.0,
+              "fmt": "-15.13B"
+            }
+          },
+          {
+            "dataId": 26005,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -14408000000.0,
+              "fmt": "-14.41B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "CMCSA"
+          ],
+          "type": [
+            "annualTotalDebt"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualTotalDebt": [
+          {
+            "dataId": 23386,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 99983000000.0,
+              "fmt": "99.98B"
+            }
+          },
+          {
+            "dataId": 23386,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 97090000000.0,
+              "fmt": "97.09B"
+            }
+          },
+          {
+            "dataId": 23386,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 99093000000.0,
+              "fmt": "99.09B"
+            }
+          },
+          {
+            "dataId": 23386,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 98937000000.0,
+              "fmt": "98.94B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "CMCSA"
+          ],
+          "type": [
+            "annualTaxProvision"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualTaxProvision": [
+          {
+            "dataId": 20145,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4359000000.0,
+              "fmt": "4.36B"
+            }
+          },
+          {
+            "dataId": 20145,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 5371000000.0,
+              "fmt": "5.37B"
+            }
+          },
+          {
+            "dataId": 20145,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2796000000.0,
+              "fmt": "2.80B"
+            }
+          },
+          {
+            "dataId": 20145,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 6106000000.0,
+              "fmt": "6.11B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "CMCSA"
+          ],
+          "type": [
+            "annualCurrentLiabilities"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualCurrentLiabilities": [
+          {
+            "dataId": 23047,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 27887000000.0,
+              "fmt": "27.89B"
+            }
+          },
+          {
+            "dataId": 23047,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 40198000000.0,
+              "fmt": "40.20B"
+            }
+          },
+          {
+            "dataId": 23047,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 39581000000.0,
+              "fmt": "39.58B"
+            }
+          },
+          {
+            "dataId": 23047,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 33524000000.0,
+              "fmt": "33.52B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "CMCSA"
+          ],
+          "type": [
+            "annualPretaxIncome"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualPretaxIncome": [
+          {
+            "dataId": 20136,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 9284000000.0,
+              "fmt": "9.28B"
+            }
+          },
+          {
+            "dataId": 20136,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 20478000000.0,
+              "fmt": "20.48B"
+            }
+          },
+          {
+            "dataId": 20136,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 18673000000.0,
+              "fmt": "18.67B"
+            }
+          },
+          {
+            "dataId": 20136,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 25766000000.0,
+              "fmt": "25.77B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "CMCSA"
+          ],
+          "type": [
+            "annualCashAndCashEquivalents"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualCashAndCashEquivalents": [
+          {
+            "dataId": 23030,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4749000000.0,
+              "fmt": "4.75B"
+            }
+          },
+          {
+            "dataId": 23030,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 6215000000.0,
+              "fmt": "6.21B"
+            }
+          },
+          {
+            "dataId": 23030,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 7322000000.0,
+              "fmt": "7.32B"
+            }
+          },
+          {
+            "dataId": 23030,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 9481000000.0,
+              "fmt": "9.48B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "CMCSA"
+          ],
+          "type": [
+            "annualInterestExpense"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualInterestExpense": [
+          {
+            "dataId": 20057,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3896000000.0,
+              "fmt": "3.90B"
+            }
+          },
+          {
+            "dataId": 20057,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4087000000.0,
+              "fmt": "4.09B"
+            }
+          },
+          {
+            "dataId": 20057,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4134000000.0,
+              "fmt": "4.13B"
+            }
+          },
+          {
+            "dataId": 20057,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4409000000.0,
+              "fmt": "4.41B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "CMCSA"
+          ],
+          "type": [
+            "annualOperatingCashFlow"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualOperatingCashFlow": [
+          {
+            "dataId": 26014,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 26413000000.0,
+              "fmt": "26.41B"
+            }
+          },
+          {
+            "dataId": 26014,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 28501000000.0,
+              "fmt": "28.50B"
+            }
+          },
+          {
+            "dataId": 26014,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 27673000000.0,
+              "fmt": "27.67B"
+            }
+          },
+          {
+            "dataId": 26014,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 33643000000.0,
+              "fmt": "33.64B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "CMCSA"
+          ],
+          "type": [
+            "annualInventory"
+          ]
+        }
+      }
+    ],
+    "error": null
+  }
+}

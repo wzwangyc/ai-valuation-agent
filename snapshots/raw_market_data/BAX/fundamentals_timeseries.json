@@ -1,0 +1,1503 @@
+{
+  "timeseries": {
+    "result": [
+      {
+        "meta": {
+          "symbol": [
+            "BAX"
+          ],
+          "type": [
+            "annualPretaxIncome"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualPretaxIncome": [
+          {
+            "dataId": 20136,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -3248000000.0,
+              "fmt": "-3.25B"
+            }
+          },
+          {
+            "dataId": 20136,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 242000000.0,
+              "fmt": "242.00M"
+            }
+          },
+          {
+            "dataId": 20136,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -289000000.0,
+              "fmt": "-289.00M"
+            }
+          },
+          {
+            "dataId": 20136,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -505000000.0,
+              "fmt": "-505.00M"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "BAX"
+          ],
+          "type": [
+            "annualCapitalExpenditure"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualCapitalExpenditure": [
+          {
+            "dataId": 26005,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -635000000.0,
+              "fmt": "-635.00M"
+            }
+          },
+          {
+            "dataId": 26005,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -436000000.0,
+              "fmt": "-436.00M"
+            }
+          },
+          {
+            "dataId": 26005,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -460000000.0,
+              "fmt": "-460.00M"
+            }
+          },
+          {
+            "dataId": 26005,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -522000000.0,
+              "fmt": "-522.00M"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "BAX"
+          ],
+          "type": [
+            "annualCurrentLiabilities"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualCurrentLiabilities": [
+          {
+            "dataId": 23047,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4745000000.0,
+              "fmt": "4.75B"
+            }
+          },
+          {
+            "dataId": 23047,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 6503000000.0,
+              "fmt": "6.50B"
+            }
+          },
+          {
+            "dataId": 23047,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 6511000000.0,
+              "fmt": "6.51B"
+            }
+          },
+          {
+            "dataId": 23047,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2970000000.0,
+              "fmt": "2.97B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "BAX"
+          ],
+          "type": [
+            "annualOperatingIncome"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualOperatingIncome": [
+          {
+            "dataId": 20109,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -33000000.0,
+              "fmt": "-33.00M"
+            },
+            "businessSegmentData": [
+              {
+                "dataValue": -213000000.0,
+                "segmentType": "Business",
+                "segmentName": "Acquisition and integration items",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -225000000.0,
+                "segmentType": "Business",
+                "segmentName": "Business optimization items",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -48000000.0,
+                "segmentType": "Business",
+                "segmentName": "European Medical Devices Regulation",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -2812000000.0,
+                "segmentType": "Business",
+                "segmentName": "Goodwill impairments",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 494000000.0,
+                "segmentType": "Business",
+                "segmentName": "Healthcare Systems and Technologies",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 0.0,
+                "segmentType": "Business",
+                "segmentName": "Hurricane Helene costs",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -344000000.0,
+                "segmentType": "Business",
+                "segmentName": "Indefinite-lived asset impairments",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -753000000.0,
+                "segmentType": "Business",
+                "segmentName": "Intangible asset amortization expense",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 0.0,
+                "segmentType": "Business",
+                "segmentName": "Investigation and related costs",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 408000000.0,
+                "segmentType": "Business",
+                "segmentName": "Kidney Care",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 0.0,
+                "segmentType": "Business",
+                "segmentName": "Legal matters",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -344000000.0,
+                "segmentType": "Business",
+                "segmentName": "Long-lived asset impairments",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -54000000.0,
+                "segmentType": "Business",
+                "segmentName": "Loss on product divestiture arrangement",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -21000000.0,
+                "segmentType": "Business",
+                "segmentName": "Loss on subsidiary liquidation",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 962000000.0,
+                "segmentType": "Business",
+                "segmentName": "Medical Products and Therapies",
+                "isPrimarySegment": 1
+              },
+              {
+                "dataValue": 77000000.0,
+                "segmentType": "Business",
+                "segmentName": "Other",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 391000000.0,
+                "segmentType": "Business",
+                "segmentName": "Pharmaceuticals",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -44000000.0,
+                "segmentType": "Business",
+                "segmentName": "Product-related items",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -44000000.0,
+                "segmentType": "Business",
+                "segmentName": "Product-related reserves",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -7000000.0,
+                "segmentType": "Business",
+                "segmentName": "Separation-related costs",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -54000000.0,
+                "segmentType": "Business",
+                "segmentName": "Unallocated corporate costs",
+                "isPrimarySegment": 0
+              }
+            ]
+          },
+          {
+            "dataId": 20109,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 707000000.0,
+              "fmt": "707.00M"
+            },
+            "businessSegmentData": [
+              {
+                "dataValue": 0.0,
+                "segmentType": "Business",
+                "segmentName": "Acquisition and integration items",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -534000000.0,
+                "segmentType": "Business",
+                "segmentName": "Business optimization items",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -48000000.0,
+                "segmentType": "Business",
+                "segmentName": "European Medical Devices Regulation",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 0.0,
+                "segmentType": "Business",
+                "segmentName": "Goodwill impairments",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 483000000.0,
+                "segmentType": "Business",
+                "segmentName": "Healthcare Systems and Technologies",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 0.0,
+                "segmentType": "Business",
+                "segmentName": "Hurricane Helene costs",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -267000000.0,
+                "segmentType": "Business",
+                "segmentName": "Indefinite-lived asset impairments",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -652000000.0,
+                "segmentType": "Business",
+                "segmentName": "Intangible asset amortization expense",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 0.0,
+                "segmentType": "Business",
+                "segmentName": "Investigation and related costs",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 300000000.0,
+                "segmentType": "Business",
+                "segmentName": "Kidney Care",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -7000000.0,
+                "segmentType": "Business",
+                "segmentName": "Legal matters",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 0.0,
+                "segmentType": "Business",
+                "segmentName": "Long-lived asset impairments",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 0.0,
+                "segmentType": "Business",
+                "segmentName": "Loss on product divestiture arrangement",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 0.0,
+                "segmentType": "Business",
+                "segmentName": "Loss on subsidiary liquidation",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 972000000.0,
+                "segmentType": "Business",
+                "segmentName": "Medical Products and Therapies",
+                "isPrimarySegment": 1
+              },
+              {
+                "dataValue": 18000000.0,
+                "segmentType": "Business",
+                "segmentName": "Other",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 401000000.0,
+                "segmentType": "Business",
+                "segmentName": "Pharmaceuticals",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 0.0,
+                "segmentType": "Business",
+                "segmentName": "Product-related items",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 0.0,
+                "segmentType": "Business",
+                "segmentName": "Product-related reserves",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -225000000.0,
+                "segmentType": "Business",
+                "segmentName": "Separation-related costs",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -51000000.0,
+                "segmentType": "Business",
+                "segmentName": "Unallocated corporate costs",
+                "isPrimarySegment": 0
+              }
+            ]
+          },
+          {
+            "dataId": 20109,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 439000000.0,
+              "fmt": "439.00M"
+            },
+            "businessSegmentData": [
+              {
+                "dataValue": -23000000.0,
+                "segmentType": "Business",
+                "segmentName": "Acquisition and integration items",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -162000000.0,
+                "segmentType": "Business",
+                "segmentName": "Business optimization items",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -33000000.0,
+                "segmentType": "Business",
+                "segmentName": "European Medical Devices Regulation",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -425000000.0,
+                "segmentType": "Business",
+                "segmentName": "Goodwill impairments",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 468000000.0,
+                "segmentType": "Business",
+                "segmentName": "Healthcare Systems and Technologies",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -110000000.0,
+                "segmentType": "Business",
+                "segmentName": "Hurricane Helene costs",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -625000000.0,
+                "segmentType": "Business",
+                "segmentName": "Intangible asset amortization expense",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -17000000.0,
+                "segmentType": "Business",
+                "segmentName": "Legal matters",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -50000000.0,
+                "segmentType": "Business",
+                "segmentName": "Long-lived asset impairments",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 0.0,
+                "segmentType": "Business",
+                "segmentName": "Loss on product divestiture arrangement",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 0.0,
+                "segmentType": "Business",
+                "segmentName": "Loss on subsidiary liquidation",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 950000000.0,
+                "segmentType": "Business",
+                "segmentName": "Medical Products and Therapies",
+                "isPrimarySegment": 1
+              },
+              {
+                "dataValue": 18000000.0,
+                "segmentType": "Business",
+                "segmentName": "Other",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 313000000.0,
+                "segmentType": "Business",
+                "segmentName": "Pharmaceuticals",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -15000000.0,
+                "segmentType": "Business",
+                "segmentName": "Product-related items",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -275000000.0,
+                "segmentType": "Business",
+                "segmentName": "Unallocated corporate costs",
+                "isPrimarySegment": 0
+              }
+            ]
+          },
+          {
+            "dataId": 20109,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 177000000.0,
+              "fmt": "177.00M"
+            },
+            "businessSegmentData": [
+              {
+                "dataValue": -27000000.0,
+                "segmentType": "Business",
+                "segmentName": "Acquisition and integration items",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -178000000.0,
+                "segmentType": "Business",
+                "segmentName": "Business optimization items",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -21000000.0,
+                "segmentType": "Business",
+                "segmentName": "European Medical Devices Regulation",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 16000000.0,
+                "segmentType": "Business",
+                "segmentName": "Gain on sale of long-lived asset",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -485000000.0,
+                "segmentType": "Business",
+                "segmentName": "Goodwill impairments",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 441000000.0,
+                "segmentType": "Business",
+                "segmentName": "Healthcare Systems and Technologies",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -133000000.0,
+                "segmentType": "Business",
+                "segmentName": "Hurricane Helene costs",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -290000000.0,
+                "segmentType": "Business",
+                "segmentName": "Indefinite-lived asset impairments",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -598000000.0,
+                "segmentType": "Business",
+                "segmentName": "Intangible asset amortization expense",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -11000000.0,
+                "segmentType": "Business",
+                "segmentName": "Legal matters",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 970000000.0,
+                "segmentType": "Business",
+                "segmentName": "Medical Products and Therapies",
+                "isPrimarySegment": 1
+              },
+              {
+                "dataValue": 43000000.0,
+                "segmentType": "Business",
+                "segmentName": "Other",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": 222000000.0,
+                "segmentType": "Business",
+                "segmentName": "Pharmaceuticals",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -113000000.0,
+                "segmentType": "Business",
+                "segmentName": "Product-related reserves",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -58000000.0,
+                "segmentType": "Business",
+                "segmentName": "Separation-related costs",
+                "isPrimarySegment": 0
+              },
+              {
+                "dataValue": -86000000.0,
+                "segmentType": "Business",
+                "segmentName": "Unallocated corporate costs",
+                "isPrimarySegment": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "BAX"
+          ],
+          "type": [
+            "annualGrossProfit"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualGrossProfit": [
+          {
+            "dataId": 20046,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3549000000.0,
+              "fmt": "3.55B"
+            }
+          },
+          {
+            "dataId": 20046,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 4150000000.0,
+              "fmt": "4.15B"
+            }
+          },
+          {
+            "dataId": 20046,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3984000000.0,
+              "fmt": "3.98B"
+            }
+          },
+          {
+            "dataId": 20046,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3379000000.0,
+              "fmt": "3.38B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "BAX"
+          ],
+          "type": [
+            "annualCashAndCashEquivalents"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualCashAndCashEquivalents": [
+          {
+            "dataId": 23030,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1718000000.0,
+              "fmt": "1.72B"
+            }
+          },
+          {
+            "dataId": 23030,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 3078000000.0,
+              "fmt": "3.08B"
+            }
+          },
+          {
+            "dataId": 23030,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1764000000.0,
+              "fmt": "1.76B"
+            }
+          },
+          {
+            "dataId": 23030,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1966000000.0,
+              "fmt": "1.97B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "BAX"
+          ],
+          "type": [
+            "annualOperatingCashFlow"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualOperatingCashFlow": [
+          {
+            "dataId": 26014,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1211000000.0,
+              "fmt": "1.21B"
+            }
+          },
+          {
+            "dataId": 26014,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1726000000.0,
+              "fmt": "1.73B"
+            }
+          },
+          {
+            "dataId": 26014,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1019000000.0,
+              "fmt": "1.02B"
+            }
+          },
+          {
+            "dataId": 26014,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 845000000.0,
+              "fmt": "845.00M"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "BAX"
+          ],
+          "type": [
+            "annualTotalDebt"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualTotalDebt": [
+          {
+            "dataId": 23386,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 17203000000.0,
+              "fmt": "17.20B"
+            }
+          },
+          {
+            "dataId": 23386,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 14113000000.0,
+              "fmt": "14.11B"
+            }
+          },
+          {
+            "dataId": 23386,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 13449000000.0,
+              "fmt": "13.45B"
+            }
+          },
+          {
+            "dataId": 23386,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 9780000000.0,
+              "fmt": "9.78B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "BAX"
+          ],
+          "type": [
+            "annualBasicAverageShares"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualBasicAverageShares": [
+          {
+            "dataId": 29010,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 504000000.0,
+              "fmt": "504.00M"
+            }
+          },
+          {
+            "dataId": 29010,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 506000000.0,
+              "fmt": "506.00M"
+            }
+          },
+          {
+            "dataId": 29010,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 510000000.0,
+              "fmt": "510.00M"
+            }
+          },
+          {
+            "dataId": 29010,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 513000000.0,
+              "fmt": "513.00M"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "BAX"
+          ],
+          "type": [
+            "annualInterestExpense"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualInterestExpense": [
+          {
+            "dataId": 20057,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 413000000.0,
+              "fmt": "413.00M"
+            }
+          },
+          {
+            "dataId": 20057,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 508000000.0,
+              "fmt": "508.00M"
+            }
+          },
+          {
+            "dataId": 20057,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 408000000.0,
+              "fmt": "408.00M"
+            }
+          },
+          {
+            "dataId": 20057,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 290000000.0,
+              "fmt": "290.00M"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "BAX"
+          ],
+          "type": [
+            "annualAccountsPayable"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualAccountsPayable": [
+          {
+            "dataId": 23000,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1110000000.0,
+              "fmt": "1.11B"
+            }
+          },
+          {
+            "dataId": 23000,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 881000000.0,
+              "fmt": "881.00M"
+            }
+          },
+          {
+            "dataId": 23000,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 968000000.0,
+              "fmt": "968.00M"
+            }
+          },
+          {
+            "dataId": 23000,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 999000000.0,
+              "fmt": "999.00M"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "BAX"
+          ],
+          "type": [
+            "annualTotalRevenue"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualTotalRevenue": [
+          {
+            "dataId": 20100,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 10057000000.0,
+              "fmt": "10.06B"
+            }
+          },
+          {
+            "dataId": 20100,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 10360000000.0,
+              "fmt": "10.36B"
+            }
+          },
+          {
+            "dataId": 20100,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 10636000000.0,
+              "fmt": "10.64B"
+            }
+          },
+          {
+            "dataId": 20100,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 11244000000.0,
+              "fmt": "11.24B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "BAX"
+          ],
+          "type": [
+            "annualInventory"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualInventory": [
+          {
+            "dataId": 23108,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2679000000.0,
+              "fmt": "2.68B"
+            }
+          },
+          {
+            "dataId": 23108,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1918000000.0,
+              "fmt": "1.92B"
+            }
+          },
+          {
+            "dataId": 23108,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2046000000.0,
+              "fmt": "2.05B"
+            }
+          },
+          {
+            "dataId": 23108,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2232000000.0,
+              "fmt": "2.23B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "BAX"
+          ],
+          "type": [
+            "annualCurrentAssets"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualCurrentAssets": [
+          {
+            "dataId": 23044,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 8011000000.0,
+              "fmt": "8.01B"
+            }
+          },
+          {
+            "dataId": 23044,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 9600000000.0,
+              "fmt": "9.60B"
+            }
+          },
+          {
+            "dataId": 23044,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 8853000000.0,
+              "fmt": "8.85B"
+            }
+          },
+          {
+            "dataId": 23044,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 6872000000.0,
+              "fmt": "6.87B"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "BAX"
+          ],
+          "type": [
+            "annualDepreciationAndAmortization"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualDepreciationAndAmortization": [
+          {
+            "dataId": 26060,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1072000000.0,
+              "fmt": "1.07B"
+            }
+          },
+          {
+            "dataId": 26060,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 984000000.0,
+              "fmt": "984.00M"
+            }
+          },
+          {
+            "dataId": 26060,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 997000000.0,
+              "fmt": "997.00M"
+            }
+          },
+          {
+            "dataId": 26060,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 981000000.0,
+              "fmt": "981.00M"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "BAX"
+          ],
+          "type": [
+            "annualNetIncome"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualNetIncome": [
+          {
+            "dataId": 20091,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -2433000000.0,
+              "fmt": "-2.43B"
+            }
+          },
+          {
+            "dataId": 20091,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2656000000.0,
+              "fmt": "2.66B"
+            }
+          },
+          {
+            "dataId": 20091,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -649000000.0,
+              "fmt": "-649.00M"
+            }
+          },
+          {
+            "dataId": 20091,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -957000000.0,
+              "fmt": "-957.00M"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "BAX"
+          ],
+          "type": [
+            "annualTaxProvision"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualTaxProvision": [
+          {
+            "dataId": 20145,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": -135000000.0,
+              "fmt": "-135.00M"
+            }
+          },
+          {
+            "dataId": 20145,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 61000000.0,
+              "fmt": "61.00M"
+            }
+          },
+          {
+            "dataId": 20145,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 37000000.0,
+              "fmt": "37.00M"
+            }
+          },
+          {
+            "dataId": 20145,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 395000000.0,
+              "fmt": "395.00M"
+            }
+          }
+        ]
+      },
+      {
+        "meta": {
+          "symbol": [
+            "BAX"
+          ],
+          "type": [
+            "annualAccountsReceivable"
+          ]
+        },
+        "timestamp": [
+          1672444800,
+          1703980800,
+          1735603200,
+          1767139200
+        ],
+        "annualAccountsReceivable": [
+          {
+            "dataId": 23001,
+            "asOfDate": "2022-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 2571000000.0,
+              "fmt": "2.57B"
+            }
+          },
+          {
+            "dataId": 23001,
+            "asOfDate": "2023-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1719000000.0,
+              "fmt": "1.72B"
+            }
+          },
+          {
+            "dataId": 23001,
+            "asOfDate": "2024-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1679000000.0,
+              "fmt": "1.68B"
+            }
+          },
+          {
+            "dataId": 23001,
+            "asOfDate": "2025-12-31",
+            "periodType": "12M",
+            "currencyCode": "USD",
+            "reportedValue": {
+              "raw": 1861000000.0,
+              "fmt": "1.86B"
+            }
+          }
+        ]
+      }
+    ],
+    "error": null
+  }
+}
